@@ -1,0 +1,491 @@
+title,dept,campus,base_salary,gross_salary,hire_date,rec,page
+Professor ACD YR,Economics,College Av,288861,317942,9/1/2002,5,41
+Professor ACD YR,Chem & Chemical Biology,Busch,218349,298850,9/1/2010,8,47
+Professor ACD YR,Cell Bio & Neurosci,Busch,217165,247599,9/1/1990,8,76
+Professor ACD YR,Computer Science,Busch,183379,241963,9/1/1991,9,80
+Assoc Professor ACD YR,English,College Av,237994,237538,1/1/2011,5,84
+Professor ACD YR,Physics & Astronomy,Busch,176500,234691,9/1/2016,3,86
+Professor ACD YR,Economics,College Av,232880,230327,9/1/2000,5,90
+Professor ACD YR,Political Science,Douglass,198888,224167,9/1/2006,4,98
+Professor ACD YR,Jewish Studies,College Av,183272,223648,9/1/1996,10,98
+Professor ACD YR,Economics,College Av,224791,222978,9/1/1986,9,99
+Professor ACD YR,Economics,College Av,224402,221780,9/1/2012,1,101
+Professor ACD YR,Computer Science,Busch,165010,220395,1/1/1999,4,103
+Professor ACD YR,Molecular Bio&Biochem,Busch,201090,214655,9/1/2006,6,110
+Professor ACD YR,Political Science,Douglass,210000,212974,9/1/1999,7,112
+Assoc Professor ACD YR,Statistics,Busch,146334,212256,9/1/2008,5,113
+Professor ACD YR,Economics,College Av,212493,211298,9/1/1981,10,114
+Assoc Professor ACD YR,Philosophy,College Av,171499,208536,9/1/2016,5,117
+Professor ACD YR,Mathematics,Busch,156319,206218,9/1/2015,1,121
+Professor ACD YR,Statistics,Busch,124180,205755,9/1/1999,7,121
+Professor ACD YR,Geography,Livingston,206286,204874,9/1/1988,4,123
+Professor ACD YR,Computer Science,Busch,171361,202951,9/1/1995,10,125
+Professor ACD YR,Physics & Astronomy,Busch,148755,200446,9/1/1984,8,130
+Professor ACD YR,Physics & Astronomy,Busch,151935,200067,9/1/2008,2,131
+Professor ACD YR,Philosophy,College Av,240000,198561,7/1/1996,9,132
+Professor ACD YR,Economics,College Av,197461,197631,9/1/2011,9,134
+Professor ACD YR,Physics & Astronomy,Busch,146448,196320,9/1/1989,7,136
+Assoc Professor ACD YR,Computer Science,Busch,151396,195371,9/1/2012,2,138
+Professor ACD YR,Economics,College Av,165547,193136,9/1/1994,5,143
+Professor ACD YR,Genetics,Busch,145915,193004,3/1/2000,7,143
+Professor ACD YR,English,College Av,183500,192396,9/1/2007,3,145
+Professor ACD YR,Computer Science,Busch,192870,191549,9/1/1983,4,147
+Professor ACD YR,Philosophy,College Av,192549,191309,9/1/2009,7,147
+Assoc Professor ACD YR,Statistics,Busch,155000,190090,1/1/2017,4,150
+Professor ACD YR,History,College Av,174483,187971,7/1/1996,8,154
+Professor ACD YR,Chem & Chemical Biology,Busch,143366,184596,1/1/2008,7,160
+Professor ACD YR,Physics & Astronomy,Busch,137736,184234,9/1/2005,4,161
+Professor ACD YR,Mathematics,Busch,136000,181966,9/1/2014,6,165
+Professor ACD YR,Cell Bio & Neurosci,Busch,145197,181932,6/23/2000,8,165
+Professor ACD YR,Physics & Astronomy,Busch,131611,181372,11/14/1994,7,167
+Assoc Professor ACD YR,Kinesiology And Health,Douglass,138833,180255,9/1/1977,10,169
+Professor ACD YR,Africana Studies,Livingston,166854,180037,7/1/1972,4,170
+Professor ACD YR,Genetics,Busch,140669,179866,9/1/2007,8,170
+Professor ACD YR,Philosophy,College Av,177572,179721,9/1/2009,1,171
+Professor ACD YR,Psychology,Livingston,147785,178708,9/1/1979,5,173
+Professor ACD YR,Cell Bio & Neurosci,Busch,137126,178307,9/1/2007,10,174
+Professor ACD YR,Computer Science,Busch,162637,177836,9/1/1998,7,175
+Professor ACD YR,Statistics,Busch,135010,177560,9/1/2007,3,176
+Assoc Professor ACD YR,Earth & Planetary Sciences,Busch,134640,177487,1/1/2015,5,176
+Professor ACD YR,Physics & Astronomy,Busch,145987,176904,1/1/1993,9,177
+Professor ACD YR,English,College Av,147412,176669,9/1/2007,3,178
+Professor ACD YR,Computer Science,Busch,177134,175921,9/1/1973,2,179
+Professor ACD YR,Economics,College Av,158717,175766,7/1/2005,7,179
+Professor ACD YR,Mathematics,Busch,138117,175668,9/1/2009,9,179
+Professor ACD YR,Statistics,Busch,161176,174940,1/1/2000,3,181
+Assoc Professor ACD YR,Statistics,Busch,130474,173776,9/1/2012,5,182
+Assoc Professor ACD YR,Economics,College Av,157868,173678,9/1/2016,2,183
+Professor ACD YR,Earth & Planetary Sciences,Busch,133601,172965,1/1/2002,6,184
+Assoc Professor ACD YR,Mathematics,Busch,106321,172684,1/1/2012,10,184
+Professor ACD YR,Mathematics,Busch,143601,172486,9/1/2001,1,185
+Assoc Professor ACD YR,Computer Science,Busch,134446,171797,9/1/2010,10,185
+Professor ACD YR,Earth & Planetary Sciences,Busch,148104,170922,9/1/2011,3,188
+Professor ACD YR,Sociology,Douglass,172953,170587,9/1/1988,6,188
+Professor ACD YR,Economics,College Av,169784,170539,1/1/1995,8,188
+Professor ACD YR,Physics & Astronomy,Busch,136367,169432,9/1/2007,7,191
+Professor ACD YR,Anthropology,Douglass,142567,169302,9/1/1999,2,192
+Professor ACD YR,Latino & Hispan Carib Stds,Livingston,169303,168232,7/1/2005,4,194
+Assoc Professor ACD YR,Statistics,Busch,140000,167624,9/1/1998,8,195
+Professor ACD YR,Political Science,Douglass,145538,167232,9/1/2012,1,197
+Asst Professor ACD YR,Computer Science,Busch,127305,166874,1/1/2013,5,197
+Professor ACD YR,Mathematics,Busch,139437,166379,9/1/1993,1,199
+Professor ACD YR,English,College Av,167763,165699,9/1/1999,4,201
+Professor ACD YR,Physics & Astronomy,Busch,137757,164760,9/1/1999,1,204
+Professor ACD YR,Psychology,Busch,149853,164581,9/1/1987,7,204
+Assoc Professor ACD YR,Economics,College Av,150990,164567,9/1/2001,8,204
+Professor ACD YR,Computer Science,Busch,171759,164449,9/1/1989,4,205
+Professor ACD YR,Psychology,Busch,149683,164391,9/1/1990,6,205
+Assoc Professor ACD YR,Psychology,Busch,125541,164148,9/1/2008,4,206
+Professor ACD YR,Computer Science,Busch,131719,163774,9/1/2002,7,207
+Professor ACD YR,Physics & Astronomy,Busch,140580,163592,9/1/2004,4,208
+Professor ACD YR,"Germn,Russ&E Euro Lang&Lit",College Av,148315,163444,9/1/2003,9,208
+Assoc Professor ACD YR,Computer Science,Busch,141260,163295,9/1/1978,8,209
+Professor ACD YR,Linguistics,College Av,159365,162767,9/1/1990,2,211
+Professor ACD YR,History,College Av,163126,162468,9/1/1974,10,211
+Professor ACD YR,Computer Science,Busch,165535,162430,9/1/2002,1,212
+Asst Professor ACD YR,Computer Science,Busch,122554,162270,1/1/2015,8,212
+Professor ACD YR,Political Science,Douglass,154131,161645,9/1/1992,1,214
+Assoc Professor ACD YR,Physics & Astronomy,Busch,123622,161339,9/1/2007,9,214
+Professor ACD YR,English,College Av,151935,161253,9/1/1987,6,215
+Professor ACD YR,Statistics,Busch,124415,160934,9/1/1984,3,216
+Professor ACD YR,Chem & Chemical Biology,Busch,145090,160868,7/1/1971,4,216
+Assoc Professor ACD YR,Genetics,Busch,125096,160087,9/1/2011,5,218
+Professor ACD YR,Chem & Chemical Biology,Busch,149676,160021,9/1/2009,1,219
+Professor ACD YR,Physics & Astronomy,Busch,132184,159539,1/1/2006,4,220
+Professor ACD YR,Molecular Bio&Biochem,Busch,152312,159360,1/1/1993,1,221
+Professor ACD YR,Physics & Astronomy,Busch,130934,158335,9/1/2008,8,223
+Professor ACD YR,Cell Bio & Neurosci,Busch,160178,158128,9/1/1978,4,224
+Assoc Professor ACD YR,Psychology,Busch,120160,157983,9/1/2009,5,224
+Professor ACD YR,Mathematics,Busch,158390,157837,7/1/1972,9,224
+Professor ACD YR,Computer Science,Busch,157837,157535,9/1/1981,10,225
+Professor ACD YR,Physics & Astronomy,Busch,135593,157035,9/1/2007,8,226
+Professor ACD YR,Economics,College Av,176328,156879,9/1/1992,4,227
+Professor ACD YR,Psychology,Busch,131248,156867,9/1/1998,5,227
+Asst Professor ACD YR,Computer Science,Busch,117240,156853,9/1/2015,6,227
+Assoc Professor ACD YR,Women's & Gender Studies,Douglass,131491,156514,7/1/2012,4,228
+Professor ACD YR,Chem & Chemical Biology,Busch,142954,156490,9/1/1998,6,228
+Assoc Professor ACD YR,Genetics,Busch,118576,156180,10/1/2003,5,229
+Professor ACD YR,Mathematics,Busch,142972,156047,9/1/2000,8,229
+Professor ACD YR,American Studies,Douglass,157027,155852,1/20/1969,2,230
+Assoc Professor ACD YR,Physics & Astronomy,Busch,119581,155648,9/1/2009,4,231
+Professor ACD YR,History,College Av,155797,155498,9/1/1978,6,231
+Assoc Professor ACD YR,Computer Science,Busch,137675,155447,9/1/2005,1,232
+Professor ACD YR,Philosophy,College Av,160129,155339,9/1/1990,6,232
+Assoc Professor ACD YR,History,College Av,141001,155252,9/1/2014,7,232
+Professor ACD YR,Physics & Astronomy,Busch,128446,154975,9/1/2004,5,233
+Professor ACD YR,Earth & Planetary Sciences,Busch,125085,154568,9/1/1981,6,234
+Professor ACD YR,Political Science,Douglass,148110,154426,9/1/2008,2,235
+Assoc Professor ACD YR,Classics,College Av,155614,154187,9/1/1999,2,236
+Assoc Professor ACD YR,American Studies,Douglass,155351,154151,9/1/2005,6,236
+Professor ACD YR,Earth & Planetary Sciences,Busch,117627,153411,9/1/1998,7,239
+Professor ACD YR,Psychology,Busch,145780,152616,9/1/1986,5,242
+Assoc Professor ACD YR,History,College Av,125362,152611,9/1/2007,6,242
+Professor ACD YR,Psychology,Busch,154424,152494,7/1/1992,1,243
+Assoc Professor ACD YR,Genetics,Busch,115530,152451,1/1/2006,5,243
+Assoc Professor ACD YR,Genetics,Busch,115244,151658,5/1/2007,3,245
+Professor ACD YR,English,College Av,169857,151572,9/1/1993,6,245
+Assoc Professor ACD YR,Statistics,Busch,123586,151504,9/1/2011,10,245
+Assoc Professor ACD YR,Computer Science,Busch,144399,151433,9/1/1999,1,246
+Professor ACD YR,History,College Av,132924,151041,9/1/2001,1,248
+Professor ACD YR,Chem & Chemical Biology,Busch,137880,150936,9/1/1997,4,248
+Professor ACD YR,Chem & Chemical Biology,Busch,141162,150891,7/1/1968,5,248
+Professor ACD YR,Psychology,Livingston,152197,150230,9/1/1997,6,250
+Assoc Professor ACD YR,Philosophy,College Av,149072,150048,9/1/2013,10,250
+Professor ACD YR,Political Science,Douglass,151109,149344,9/1/2006,4,253
+Asst Professor ACD YR,Computer Science,Busch,122000,148877,1/1/2017,1,254
+Professor ACD YR,Computer Science,Busch,150744,148624,9/1/1979,8,254
+Professor ACD YR,English,College Av,171311,148447,9/1/1988,4,255
+Professor ACD YR,Psychology,Livingston,149236,148132,9/1/1986,10,255
+Assoc Professor ACD YR,Genetics,Busch,111518,147672,9/1/2009,9,256
+Professor ACD YR,Women's & Gender Studies,Douglass,148539,147507,7/1/1987,8,257
+Asst Professor ACD YR,Computer Science,Busch,121200,147303,9/1/2016,3,258
+Professor ACD YR,Physics & Astronomy,Busch,134033,147174,9/23/2002,2,259
+Professor ACD YR,History,College Av,150574,146890,6/1/2006,10,259
+Professor ACD YR,Physics & Astronomy,Busch,148191,146862,9/1/2002,2,260
+Professor ACD YR,English,College Av,164911,146773,9/1/1983,5,260
+Professor ACD YR,Cell Bio & Neurosci,Busch,146977,146696,9/1/1984,10,260
+Professor ACD YR,Physics & Astronomy,Busch,147846,146467,9/1/1977,5,261
+Professor ACD YR,Molecular Bio&Biochem,Busch,146626,145837,9/1/1985,1,264
+Assoc Professor ACD YR,Kinesiology And Health,Douglass,120000,145702,5/19/2003,8,264
+Asst Professor ACD YR,Economics,College Av,132405,145665,9/1/2016,10,264
+Assoc Professor ACD YR,English,College Av,145882,145602,9/1/1984,1,265
+Professor ACD YR,Economics,College Av,122651,144581,9/1/1986,9,267
+Professor ACD YR,Linguistics,College Av,131954,144185,9/1/1995,10,268
+Assoc Professor ACD YR,Kinesiology And Health,Douglass,113443,143758,9/1/2002,8,269
+Professor ACD YR,English,College Av,143618,143343,9/1/1987,9,270
+Professor ACD YR,Jewish Studies,College Av,139418,143224,9/1/2002,6,271
+Assoc Professor ACD YR,Molecular Bio&Biochem,Busch,133608,142981,1/1/1997,8,272
+Assoc Professor ACD YR,Physics & Astronomy,Busch,119402,142932,7/1/2006,2,273
+Assoc Professor ACD YR,Philosophy,College Av,159294,142722,9/1/2015,6,273
+Professor ACD YR,Sociology,Douglass,127835,142578,1/1/1989,9,273
+Assoc Professor ACD YR,Statistics,Busch,143430,142471,7/1/2013,10,273
+Professor ACD YR,Sociology,Douglass,135266,142144,9/1/2001,6,274
+Professor ACD YR,Genetics,Busch,142643,141666,7/1/1970,6,275
+Professor ACD YR,Computer Science,Busch,143339,141665,9/1/1983,7,275
+Asst Professor ACD YR,Cell Bio & Neurosci,Busch,108558,141643,1/1/2012,8,275
+Assoc Professor ACD YR,Psychology,Livingston,139394,141375,9/1/2005,4,276
+Professor ACD YR,Mathematics,Busch,127510,141370,9/1/2005,5,276
+Assoc Professor ACD YR,Africana Studies,Livingston,142935,141366,9/1/1993,7,276
+Professor ACD YR,Philosophy,College Av,129812,141293,7/1/1971,2,277
+Professor ACD YR,Art History,College Av,137751,141292,9/1/1997,3,277
+Professor ACD YR,English,College Av,142795,141276,9/1/1988,5,277
+Asst Professor ACD YR,Statistics,Busch,116001,140947,9/1/2016,3,278
+Professor ACD YR,Physics & Astronomy,Busch,135104,140884,7/1/2003,6,278
+Professor ACD YR,"Afri,Mdle E&So Asn Lng&Lit",College Av,142439,140472,9/1/2006,4,280
+Assoc Professor ACD YR,Latino & Hispan Carib Stds,Livingston,127000,140370,9/1/2016,7,280
+Professor ACD YR,Philosophy,College Av,145000,140152,7/1/1971,6,281
+Professor ACD YR,Political Science,Douglass,140162,139894,7/1/1968,3,282
+Assoc Professor ACD YR,History,College Av,141032,139616,9/1/2004,3,283
+Asst Professor ACD YR,Economics,College Av,126897,139606,9/1/2015,4,283
+Professor ACD YR,Statistics,Busch,140091,139573,7/1/1964,6,283
+Asst Professor ACD YR,Cell Bio & Neurosci,Busch,106096,139461,1/1/2016,8,283
+Professor ACD YR,Sociology,Douglass,156131,139418,9/1/2010,9,283
+Asst Professor ACD YR,Genetics,Busch,105722,139251,1/1/2012,3,284
+Professor ACD YR,Sociology,Douglass,140614,139089,9/1/1995,8,284
+Professor ACD YR,Mathematics,Busch,139443,138927,9/1/1982,4,285
+Professor ACD YR,Economics,College Av,155110,138719,9/1/1978,4,286
+Professor ACD YR,Physics & Astronomy,Busch,132429,138600,9/1/2007,7,286
+Assoc Professor ACD YR,Latino & Hispan Carib Stds,Livingston,141534,138554,7/1/2010,8,286
+Assoc Professor ACD YR,Mathematics,Busch,116156,138377,9/1/2011,7,287
+Assoc Professor ACD YR,Political Science,Douglass,139304,138181,7/1/1971,2,288
+Professor ACD YR,Psychology,Busch,138442,138177,9/1/1993,3,288
+Asst Professor ACD YR,Computer Science,Busch,114977,137056,9/1/2012,8,291
+Asst Professor ACD YR,Genetics,Busch,103742,137005,1/1/2012,10,291
+Assoc Professor ACD YR,English,College Av,154001,136770,9/1/2005,3,293
+Assoc Professor ACD YR,English,College Av,125260,136246,9/1/1994,6,295
+Professor ACD YR,Cell Bio & Neurosci,Busch,138029,135896,9/1/1993,8,296
+Professor ACD YR,Women's & Gender Studies,Douglass,134771,135783,9/1/2004,2,297
+Assoc Professor ACD YR,Spanish & Portuguese,College Av,127323,135481,9/1/1991,4,298
+Professor ACD YR,Cell Bio & Neurosci,Busch,135650,135390,9/1/1990,8,298
+Assoc Professor ACD YR,Chem & Chemical Biology,Busch,126095,135311,1/1/2003,10,298
+Asst Professor ACD YR,Molecular Bio&Biochem,Busch,102491,135085,9/1/2012,7,299
+Professor ACD YR,Chem & Chemical Biology,Busch,161126,134909,9/1/2001,2,300
+Asst Professor ACD YR,Physics & Astronomy,Busch,102282,134841,1/1/2015,7,300
+Professor ACD YR,Art History,College Av,135743,134487,9/1/2005,1,303
+Professor ACD YR,History,College Av,220000,134444,9/1/2017,4,303
+Assoc Professor ACD YR,Women's & Gender Studies,Douglass,125717,134126,9/1/1981,2,305
+Professor ACD YR,Physics & Astronomy,Busch,134585,134078,7/1/1971,5,305
+Professor ACD YR,Chem & Chemical Biology,Busch,135552,133969,9/1/1977,7,305
+Assoc Professor ACD YR,Asian Language & Cultures,College Av,123612,133889,9/1/2011,1,306
+Assoc Professor ACD YR,English,College Av,135875,133734,1/1/2008,10,306
+Assoc Professor ACD YR,Molecular Bio&Biochem,Busch,115965,133616,9/1/2011,9,307
+Professor ACD YR,History,College Av,127546,133558,9/1/2011,6,308
+Professor ACD YR,"Afri,Mdle E&So Asn Lng&Lit",College Av,129410,133162,9/1/2000,7,309
+Assoc Professor ACD YR,Genetics,Busch,126844,132975,9/1/2011,4,310
+Assoc Professor ACD YR,Physics & Astronomy,Busch,115346,132860,9/1/2011,10,310
+Professor ACD YR,Spanish & Portuguese,College Av,134126,132625,9/1/1999,1,312
+Professor ACD YR,Spanish & Portuguese,College Av,134087,132436,9/1/1999,6,312
+Professor ACD YR,Mathematics,Busch,135147,132299,7/1/1994,5,313
+Professor ACD YR,Spanish & Portuguese,College Av,135136,132186,1/1/2001,8,313
+Assoc Professor ACD YR,History,College Av,133155,131779,9/1/2008,10,314
+Professor ACD YR,Molecular Bio&Biochem,Busch,119926,131659,9/1/2001,8,315
+Professor ACD YR,Psychology,Busch,120279,131413,9/1/1975,1,317
+Assoc Professor ACD YR,Chem & Chemical Biology,Busch,119759,131405,9/1/1991,2,317
+Asst Professor ACD YR,Physics & Astronomy,Busch,110009,131339,9/1/2013,7,317
+Assoc Professor ACD YR,Economics,College Av,131286,131034,9/1/1999,2,319
+Assoc Professor ACD YR,Physics & Astronomy,Busch,114522,131018,9/1/2011,5,319
+Assoc Professor ACD YR,History,College Av,122827,130848,9/1/1983,9,319
+Professor ACD YR,Jewish Studies,College Av,107744,130681,9/1/2000,5,320
+Professor ACD YR,Mathematics,Busch,106315,129926,9/1/2000,2,323
+Asst Professor ACD YR,Genetics,Busch,97989,129874,1/1/2016,6,323
+Asst Professor ACD YR,Computer Science,Busch,119095,129751,9/1/2015,1,324
+Professor ACD YR,History,College Av,131396,129650,9/1/1999,6,324
+Assoc Professor ACD YR,Chem & Chemical Biology,Busch,118654,129294,9/1/1991,4,326
+Professor ACD YR,History,College Av,130513,129142,9/1/1992,8,326
+Professor ACD YR,History,College Av,129531,129033,9/1/1988,7,327
+Assoc Professor ACD YR,Geography,Livingston,111642,128766,9/1/2012,4,329
+Professor ACD YR,Molecular Bio&Biochem,Busch,129060,128493,7/1/1970,1,331
+Asst Professor ACD YR,Computer Science,Livingston,116096,127918,9/1/2015,9,333
+Professor ACD YR,Psychology,Busch,129724,127841,9/1/2001,6,334
+Asst Professor ACD YR,Cell Bio & Neurosci,Busch,106667,127723,1/1/2013,10,334
+Professor ACD YR,Sociology,Douglass,122708,127711,1/1/1999,1,335
+Professor ACD YR,American Studies,Douglass,128908,127663,9/1/1973,2,335
+Professor ACD YR,Linguistics,College Av,127590,127346,9/1/1988,7,336
+Asst Professor ACD YR,Psychology,Busch,93317,127138,1/1/2015,7,337
+Asst Professor ACD YR,Computer Science,Busch,114380,126870,9/1/2015,3,339
+Professor ACD YR,Women's & Gender Studies,Douglass,124214,126596,9/1/1988,4,341
+Assoc Professor ACD YR,Psychology,Busch,127628,126566,9/1/2007,6,341
+Asst Professor ACD YR,Psychology,Busch,96706,126147,9/1/2015,3,344
+Assoc Professor ACD YR,History,College Av,114411,125703,7/1/1971,10,346
+Assoc Professor ACD YR,Psychology,Livingston,102850,125509,9/1/1987,1,348
+Professor ACD YR,Physics & Astronomy,Busch,126337,125099,9/1/1977,3,350
+Professor ACD YR,Mathematics,Busch,126634,125082,9/1/1995,4,350
+Professor ACD YR,History,College Av,127576,124841,9/1/2010,1,352
+Assoc Professor ACD YR,Jewish Studies,College Av,120034,124773,9/1/1998,3,352
+Professor ACD YR,Earth & Planetary Sciences,Busch,125777,124610,1/1/2000,4,353
+Assoc Professor ACD YR,History,College Av,126076,124589,9/1/1992,7,353
+Professor ACD YR,Economics,College Av,125462,124450,9/1/1975,2,354
+Assoc Professor ACD YR,Geography,Livingston,110761,123853,1/1/2001,7,357
+Professor ACD YR,Mathematics,Busch,139525,123740,9/1/1999,1,358
+Assoc Professor ACD YR,Molecular Bio&Biochem,Busch,112124,123433,9/1/1992,8,358
+Assoc Professor ACD YR,Classics,College Av,105115,123406,9/1/2008,9,358
+Professor ACD YR,Physics & Astronomy,Busch,132042,123274,9/1/2006,9,359
+Assoc Professor ACD YR,Cell Bio & Neurosci,Busch,125509,123158,9/1/2008,3,360
+Asst Professor ACD YR,Earth & Planetary Sciences,Busch,99613,123099,1/1/2016,6,360
+Asst Professor ACD YR,Psychology,Busch,99289,123073,9/1/2012,9,360
+Professor ACD YR,Linguistics,College Av,110482,122905,9/1/1989,3,361
+Assoc Professor ACD YR,Sociology,Douglass,124400,122902,7/1/1980,4,361
+Assoc Professor ACD YR,English,College Av,130748,122654,9/1/2013,5,362
+Professor ACD YR,Linguistics,College Av,131590,122473,1/1/1990,9,362
+Professor ACD YR,Chem & Chemical Biology,Busch,123324,122420,9/1/1979,2,363
+Asst Professor ACD YR,Chem & Chemical Biology,Busch,101870,122396,1/1/2016,5,363
+Professor ACD YR,Earth & Planetary Sciences,Busch,110565,122365,9/1/2002,6,363
+Professor ACD YR,Women's & Gender Studies,Douglass,128000,122344,9/1/2000,9,363
+Professor ACD YR,French,College Av,99197,122274,9/1/1986,5,365
+Professor ACD YR,Anthropology,Douglass,129301,122260,9/1/1999,6,365
+Professor ACD YR,Earth & Planetary Sciences,Busch,117231,122140,2/1/1999,2,366
+Professor ACD YR,Physics & Astronomy,Busch,123262,122105,1/1/1988,6,366
+Assoc Professor ACD YR,Economics,College Av,126195,122100,1/1/2003,7,366
+Professor ACD YR,Women's & Gender Studies,Douglass,123317,121876,9/1/1988,7,367
+Assoc Professor ACD YR,Women's & Gender Studies,Douglass,125000,121027,9/1/2007,6,372
+Assoc Professor ACD YR,English,College Av,121742,121011,9/1/1989,9,372
+Asst Professor ACD YR,Physics & Astronomy,Busch,101289,121002,9/1/2013,10,372
+Assoc Professor ACD YR,Cell Bio & Neurosci,Busch,107360,120991,1/1/1987,2,373
+Assoc Professor ACD YR,English,College Av,118289,120563,9/1/1980,9,375
+Professor ACD YR,Economics,College Av,240817,120409,7/1/2004,4,376
+Professor ACD YR,"Germn,Russ&E Euro Lang&Lit",College Av,126441,120382,9/1/2006,5,376
+Professor ACD YR,Psychology,Livingston,110304,120366,7/1/1972,6,376
+Professor ACD YR,Psychology,Livingston,120499,120268,9/1/1974,1,377
+Asst Professor ACD YR,Chem & Chemical Biology,Busch,99910,120148,9/1/2016,7,377
+Professor ACD YR,Criminal Justice,Livingston,121081,119958,9/1/1993,7,378
+Assoc Professor ACD YR,English,College Av,121680,119703,9/1/2005,6,380
+Professor ACD YR,French,College Av,121083,119669,9/1/1978,1,381
+Professor ACD YR,Latino & Hispan Carib Stds,Livingston,200100,119606,9/1/2008,5,381
+Assoc Professor ACD YR,History,College Av,121907,119565,9/1/2001,7,381
+Professor ACD YR,Mathematics,Busch,121329,119547,9/1/2007,10,381
+Professor ACD YR,Religion,Douglass,120266,119538,9/1/2001,1,382
+Assoc Professor ACD YR,Women's & Gender Studies,Douglass,114835,119167,9/1/2001,1,384
+Professor ACD YR,Chem & Chemical Biology,Busch,106689,119047,9/1/1980,10,384
+Assoc Professor ACD YR,Molecular Bio&Biochem,Busch,120263,118916,9/1/1988,5,385
+Assoc Professor ACD YR,Mathematics,Busch,116550,118908,9/1/2012,6,385
+Professor ACD YR,Italian,College Av,111828,118868,9/1/1996,9,385
+Professor ACD YR,Anthropology,Douglass,120445,118797,1/1/2000,1,386
+Asst Professor ACD YR,Computer Science,Busch,108242,118573,9/1/2012,2,387
+Asst Professor ACD YR,Chem & Chemical Biology,Busch,97000,118372,1/1/2017,1,388
+Asst Professor ACD YR,Genetics,Busch,97000,118370,9/1/2016,2,388
+Assoc Professor ACD YR,Africana Studies,Livingston,119677,118351,9/1/1992,3,388
+Professor ACD YR,French,College Av,114529,118072,9/1/1987,6,389
+Professor ACD YR,Anthropology,Douglass,118693,118049,9/1/1977,9,389
+Assoc Professor ACD YR,English,College Av,113783,117602,9/1/2009,7,392
+Assoc Professor ACD YR,Psychology,Livingston,116567,117288,6/30/2011,9,394
+Professor ACD YR,Earth & Planetary Sciences,Busch,118568,117183,9/1/1980,5,396
+Assoc Professor ACD YR,Spanish & Portuguese,College Av,116814,116590,9/1/1984,10,399
+Assoc Professor ACD YR,Latino & Hispan Carib Stds,Livingston,111195,116589,9/1/2009,1,400
+Assoc Professor ACD YR,Kinesiology And Health,Douglass,99419,116386,9/1/2009,10,401
+Assoc Professor ACD YR,English,College Av,117371,115652,9/1/1999,6,405
+Assoc Professor ACD YR,Latino & Hispan Carib Stds,Livingston,116691,115611,9/1/2011,10,405
+Professor ACD YR,French,College Av,111909,115445,9/1/1981,6,407
+Professor ACD YR,Sociology,Douglass,129271,115401,9/1/1988,10,407
+Professor ACD YR,Italian,College Av,128369,115339,9/1/1974,5,408
+Professor ACD YR,Mathematics,Busch,103100,115243,9/1/1993,1,409
+Assoc Professor ACD YR,American Studies,Douglass,116556,115239,9/1/1977,2,409
+Asst Professor ACD YR,Psychology,Busch,97551,114916,1/1/2014,3,411
+Asst Professor ACD YR,Molecular Bio&Biochem,Busch,104712,114743,9/1/2012,9,411
+Assoc Professor ACD YR,Africana Studies,Livingston,113793,114607,9/1/2010,4,412
+Professor ACD YR,Italian,College Av,112661,114389,9/1/1986,10,413
+Professor ACD YR,History,College Av,128379,114249,9/1/1991,5,414
+Assoc Professor ACD YR,Spanish & Portuguese,College Av,103346,114089,9/1/1993,10,415
+Assoc Professor ACD YR,English,College Av,114136,113419,7/1/1971,6,420
+Asst Professor ACD YR,Mathematics,Busch,96663,113378,9/1/2012,8,420
+Assoc Professor ACD YR,English,College Av,130000,113336,9/1/2006,2,421
+Assoc Professor ACD YR,Classics,College Av,106400,113160,9/1/2007,10,421
+Asst Professor ACD YR,Earth & Planetary Sciences,Busch,103374,112674,9/1/2013,1,425
+Professor ACD YR,English,College Av,112860,112643,9/1/1998,5,425
+Professor ACD YR,Art History,College Av,120115,112454,9/1/2006,1,427
+Assoc Professor ACD YR,History,College Av,114334,112372,9/1/2003,4,427
+Assoc Professor ACD YR,History,College Av,113478,112140,9/1/2011,5,429
+Professor ACD YR,Art History,College Av,112233,112018,9/1/1988,7,429
+Assoc Professor ACD YR,Mathematics,Busch,112012,111548,9/1/1983,9,431
+Professor ACD YR,Art History,College Av,99228,111394,9/1/1984,10,432
+Assoc Professor ACD YR,Art History,College Av,113279,111318,9/1/1999,6,433
+Assoc Professor ACD YR,Sociology,College Av,111388,111175,9/1/1986,8,434
+Assoc Professor ACD YR,Cell Bio & Neurosci,Busch,113113,110904,9/1/1998,2,437
+Assoc Professor ACD YR,History,College Av,112488,110280,9/1/2011,8,442
+Assoc Professor ACD YR,"Germn,Russ&E Euro Lang&Lit",College Av,106653,110245,9/1/1997,5,443
+Professor ACD YR,History,College Av,220000,110000,9/1/2017,4,445
+Assoc Professor ACD YR,Latino & Hispan Carib Stds,Livingston,101939,109772,9/11/2007,6,446
+Assoc Professor ACD YR,Italian,College Av,103690,109703,9/1/2007,1,447
+Assoc Professor ACD YR,English,College Av,110747,109591,9/1/1998,10,447
+Assoc Professor ACD YR,History,College Av,106963,109517,9/1/2012,7,448
+Assoc Professor ACD YR,Spanish & Portuguese,College Av,103670,109467,9/1/2012,3,449
+Assoc Professor ACD YR,Latino & Hispan Carib Stds,Livingston,111057,109450,9/1/2007,4,449
+Assoc Professor ACD YR,Art History,College Av,101352,109371,9/1/2007,10,449
+Asst Professor ACD YR,Statistics,Busch,114476,109076,7/1/2013,2,452
+Assoc Professor ACD YR,Asian Language & Cultures,College Av,98417,108700,9/1/2008,4,454
+Professor ACD YR,Mathematics,Busch,101535,108508,9/1/2010,4,455
+Professor ACD YR,Earth & Planetary Sciences,Busch,109488,108473,9/1/1990,9,455
+Assoc Professor ACD YR,Spanish & Portuguese,College Av,98822,108292,9/1/2008,9,457
+Assoc Professor ACD YR,Spanish & Portuguese,College Av,109460,108205,9/1/1999,8,458
+Professor ACD YR,Mathematics,Busch,108125,107918,9/1/1978,1,461
+Assoc Professor ACD YR,History,College Av,107417,107212,9/1/1975,9,466
+Assoc Professor ACD YR,Linguistics,College Av,108545,107027,9/1/2007,1,469
+Assoc Professor ACD YR,History,College Av,108918,106967,9/1/2012,3,469
+Assoc Professor ACD YR,Asian Language & Cultures,College Av,98829,106637,9/1/2015,1,472
+Assoc Professor ACD YR,Religion,Douglass,103017,106448,9/1/2005,4,473
+Professor ACD YR,Asian Language & Cultures,College Av,115454,106232,7/1/1971,8,474
+Assoc Professor ACD YR,English,College Av,107949,105936,9/1/1999,1,477
+Assoc Professor ACD YR,English,College Av,106300,105598,9/1/1983,3,479
+Assoc Professor ACD YR,Art History,College Av,109341,105358,9/1/2007,1,482
+Assoc Professor ACD YR,Art History,College Av,104743,104543,9/1/2005,5,488
+Assoc Professor ACD YR,English,College Av,106721,104524,9/1/2007,6,488
+Assoc Professor ACD YR,Latino & Hispan Carib Stds,Livingston,108011,104361,9/1/1999,10,489
+Asst Professor ACD YR,Chem & Chemical Biology,Busch,106080,103845,9/1/2012,3,493
+Assoc Professor ACD YR,Asian Language & Cultures,College Av,106248,103272,9/1/1996,4,497
+Assoc Professor ACD YR,Anthropology,Douglass,103921,102489,9/1/1998,9,503
+Assoc Professor ACD YR,Asian Language & Cultures,College Av,102581,102284,9/1/2010,3,506
+Assoc Professor ACD YR,"Afri,Mdle E&So Asn Lng&Lit",College Av,99964,102272,9/1/2009,7,506
+Assoc Professor ACD YR,Psychology,Busch,102435,102239,9/1/1975,10,506
+Assoc Professor ACD YR,Sociology,Douglass,105582,102050,9/1/2005,4,507
+Assoc Professor ACD YR,Religion,Douglass,99937,101994,9/1/2008,8,507
+Asst Professor ACD YR,Psychology,Busch,92868,101872,9/1/2012,5,509
+Assoc Professor ACD YR,Anthropology,Douglass,103525,101825,9/1/1993,2,510
+Assoc Professor ACD YR,Linguistics,College Av,114142,101716,9/1/2004,4,511
+Assoc Professor ACD YR,French,College Av,99210,101671,9/1/2000,6,511
+Professor ACD YR,Religion,Douglass,113207,101314,9/1/2003,1,514
+Assoc Professor ACD YR,Art History,College Av,96048,100845,7/1/1971,8,518
+Assoc Professor ACD YR,Sociology,Douglass,103531,100498,9/1/2008,7,522
+Asst Professor ACD YR,American Studies,Douglass,97507,100290,9/1/2012,10,525
+Assoc Professor ACD YR,Asian Language & Cultures,College Av,96053,100075,9/1/2005,8,527
+Assoc Professor ACD YR,French,College Av,77797,99834,9/1/1995,5,530
+Assoc Professor ACD YR,Sociology,Douglass,99519,99328,9/1/1987,5,535
+Assoc Professor ACD YR,Economics,College Av,99445,99255,9/1/1975,5,536
+Professor ACD YR,Mathematics,Busch,94432,98947,9/1/2001,8,539
+Professor ACD YR,Asian Language & Cultures,College Av,110099,98920,7/1/1971,10,539
+Assoc Professor ACD YR,Sociology,Douglass,102805,98458,6/1/2003,4,544
+Assoc Professor ACD YR,Sociology,Busch,109206,98118,9/1/1982,5,547
+Assoc Professor ACD YR,"Afri,Mdle E&So Asn Lng&Lit",College Av,100128,97996,9/1/2010,10,548
+Assoc Professor ACD YR,Art History,College Av,98000,97962,9/1/2016,5,549
+Assoc Professor ACD YR,Sociology,Douglass,88251,97815,9/1/1977,8,550
+Assoc Professor ACD YR,Women's & Gender Studies,Douglass,103271,97480,9/1/2012,8,554
+Asst Professor ACD YR,Kinesiology And Health,Douglass,90021,96824,9/1/2010,1,561
+Asst Professor ACD YR,English,College Av,85153,96380,9/1/2011,10,565
+Asst Professor ACD YR,Sociology,Douglass,97712,96268,1/1/2012,4,568
+Asst Professor ACD YR,Sociology,Douglass,99274,96228,9/1/2013,10,568
+Asst Professor ACD YR,Sociology,Douglass,97595,96153,9/1/2011,7,569
+Asst Professor ACD YR,Africana Studies,Livingston,96840,96048,1/1/2011,3,570
+Assoc Professor ACD YR,English,College Av,81276,95750,9/1/2003,3,573
+Assoc Professor ACD YR,Chem & Chemical Biology,Busch,95925,95741,9/1/1991,5,573
+Assoc Professor ACD YR,English,College Av,98046,95368,9/1/1998,7,576
+Assoc Professor ACD YR,Classics,College Av,93183,94534,9/1/2009,8,582
+Assoc Professor ACD YR,History,College Av,111734,94330,9/1/2008,7,584
+Professor ACD YR,History,College Av,94022,93842,7/1/1994,9,588
+Assoc Professor ACD YR,"Afri,Mdle E&So Asn Lng&Lit",College Av,101216,93595,9/1/2011,7,590
+Assoc Professor ACD YR,English,College Av,99954,93244,9/1/2012,1,593
+Assoc Professor ACD YR,French,College Av,102859,92627,9/1/1999,5,598
+Asst Professor ACD YR,Linguistics,College Av,94528,92202,9/1/2014,5,603
+Asst Professor ACD YR,Mathematics,Busch,94500,92078,9/1/2016,2,605
+Asst Professor ACD YR,Anthropology,Douglass,93196,91273,9/1/2012,10,613
+Asst Professor ACD YR,Geography,Livingston,92801,91228,9/1/2016,10,614
+Asst Professor ACD YR,Italian,College Av,87152,91212,9/1/2012,3,615
+Assoc Professor ACD YR,English,College Av,97182,90852,9/1/2011,7,618
+Assoc Professor ACD YR,History,College Av,94773,90607,9/1/2009,3,622
+Assoc Professor ACD YR,"Germn,Russ&E Euro Lang&Lit",College Av,92517,90246,9/1/2009,6,626
+Asst Professor ACD YR,Anthropology,Douglass,92538,90139,9/1/2012,7,627
+Professor ACD YR,English,College Av,180000,90000,9/1/2017,6,628
+Asst Professor ACD YR,Psychology,Livingston,94899,89878,9/1/2014,6,629
+Asst Professor ACD YR,History,College Av,94095,89681,7/1/2010,5,631
+Professor ACD YR,Anthropology,Douglass,158177,89607,9/1/2005,10,631
+Asst Professor ACD YR,Anthropology,Douglass,90843,89253,9/1/2016,9,635
+Asst Professor ACD YR,Sociology,Douglass,88000,87832,1/1/2017,3,652
+Asst Professor ACD YR,Asian Language & Cultures,College Av,88408,87609,9/1/2012,6,655
+Asst Professor ACD YR,Women's & Gender Studies,Douglass,88416,86553,7/1/2010,4,667
+Asst Professor ACD YR,English,College Av,87797,86384,9/1/2012,7,669
+Asst Professor ACD YR,American Studies,Douglass,87897,86294,4/9/2010,3,670
+Asst Professor ACD YR,Spanish & Portuguese,College Av,87536,86124,7/1/2010,6,672
+Asst Professor ACD YR,English,College Av,86195,86030,9/1/2011,9,673
+Asst Professor ACD YR,American Studies,Douglass,87008,85645,7/1/2010,9,678
+Assoc Professor ACD YR,English,College Av,76090,85419,7/1/1971,1,682
+Asst Professor ACD YR,History,College Av,86000,85337,9/1/2016,10,682
+Asst Professor ACD YR,History,College Av,86000,85337,9/1/2016,1,683
+Assoc Professor ACD YR,"Germn,Russ&E Euro Lang&Lit",College Av,90594,85318,9/1/2010,3,683
+Asst Professor ACD YR,Art History,College Av,85000,84837,1/1/2017,1,690
+Assoc Professor ACD YR,Religion,Douglass,95070,84620,9/1/2010,2,694
+Asst Professor ACD YR,Religion,Douglass,85277,84117,9/1/2012,1,700
+Asst Professor ACD YR,Women's & Gender Studies,Douglass,85490,84086,7/1/2014,6,700
+Asst Professor ACD YR,Religion,Douglass,84963,83804,9/1/2012,7,703
+Asst Professor ACD YR,History,College Av,85778,83372,9/1/2012,8,708
+Asst Professor ACD YR,"Afri,Mdle E&So Asn Lng&Lit",College Av,84273,83050,9/1/2012,3,712
+Asst Professor ACD YR,English,College Av,83057,82898,9/1/2013,1,715
+Asst Professor ACD YR,"Afri,Mdle E&So Asn Lng&Lit",College Av,82314,82156,1/1/2013,3,725
+Asst Professor ACD YR,"Afri,Mdle E&So Asn Lng&Lit",College Av,83152,81960,9/1/2012,4,727
+Asst Professor ACD YR,"Afri,Mdle E&So Asn Lng&Lit",College Av,82587,81620,1/1/2013,5,730
+Asst Professor ACD YR,Linguistics,College Av,82500,81097,9/1/2016,8,738
+Asst Professor ACD YR,French,College Av,82819,80865,9/1/2014,1,742
+Assoc Professor ACD YR,Psychology,Livingston,89686,80580,7/1/1972,9,746
+Assoc Professor ACD YR,English,College Av,160000,80000,9/1/2017,7,760
+Asst Professor ACD YR,English,College Av,88456,79475,9/1/2009,5,769
+Asst Professor ACD YR,Spanish & Portuguese,College Av,80300,79001,9/1/2016,7,776
+Asst Professor ACD YR,English,College Av,79637,78986,9/1/2015,8,776
+Asst Professor ACD YR,Religion,Douglass,77500,77102,9/1/2016,2,808
+Assoc Professor ACD YR,Mathematics,Busch,145000,72500,9/1/2017,4,888
+Asst Professor ACD YR,Cell Bio & Neurosci,Busch,100000,72222,9/1/2017,7,892
+Professor ACD YR,Mathematics,Busch,142000,71000,9/1/2017,2,917
+Assoc Professor ACD YR,Women's & Gender Studies,Douglass,140000,70000,9/1/2017,1,940
+Assoc Professor ACD YR,Statistics,Busch,140000,70000,9/1/2017,3,940
+Asst Professor ACD YR,Economics,College Av,140000,70000,9/1/2017,4,940
+Professor ACD YR,Mathematics,Busch,136839,68419,7/1/1988,10,973
+Assoc Professor ACD YR,Computer Science,Busch,125560,62539,9/1/2007,4,1125
+Asst Professor ACD YR,Computer Science,Busch,117000,58500,9/1/2017,7,1242
+Asst Professor ACD YR,Statistics,Busch,115000,57500,9/1/2017,8,1262
+Asst Professor ACD YR,Economics,College Av,113819,56909,9/1/2012,10,1275
+Assoc Professor ACD YR,Sociology,Douglass,107740,53870,9/1/2008,6,1377
+Assoc Professor ACD YR,Classics,College Av,106271,52050,9/1/2004,7,1424
+Asst Professor ACD YR,Political Science,Douglass,90000,51750,9/1/2017,5,1433
+Asst Professor ACD YR,Physics & Astronomy,Busch,102500,51250,9/1/2017,10,1454
+Asst Professor ACD YR,Physics & Astronomy,Busch,102500,51250,9/1/2017,1,1455
+Asst Professor ACD YR,Mathematics,Busch,102000,51000,9/1/2017,3,1461
+Asst Professor ACD YR,Chem & Chemical Biology,Busch,98000,49000,9/1/2017,8,1515
+Asst Professor ACD YR,Chem & Chemical Biology,Busch,98000,49000,9/1/2017,9,1515
+Asst Professor ACD YR,Chem & Chemical Biology,Busch,98000,49000,9/1/2017,10,1515
+Assoc Professor ACD YR,Anthropology,Douglass,97422,48711,9/1/2007,8,1523
+Asst Professor ACD YR,Psychology,Busch,95000,47500,9/1/2017,7,1557
+Asst Professor ACD YR,Political Science,Douglass,93000,46500,9/1/2017,10,1587
+Asst Professor ACD YR,Political Science,Douglass,92000,46000,9/1/2017,3,1604
+Asst Professor ACD YR,Political Science,Douglass,92000,46000,9/1/2017,4,1604
+Asst Professor ACD YR,Political Science,Douglass,92000,46000,9/1/2017,5,1604
+Asst Professor ACD YR,Kinesiology And Health,Douglass,85000,42500,9/1/2017,7,1718
+Asst Professor ACD YR,Linguistics,College Av,81000,40500,9/1/2017,2,1766
+Asst Professor ACD YR,Classics,College Av,78000,39000,9/1/2017,4,1798
+Asst Professor ACD YR,American Studies,Douglass,78000,39000,9/1/2017,5,1798
+Asst Professor ACD YR,"Germn,Russ&E Euro Lang&Lit",College Av,78000,39000,9/1/2017,6,1798
+Assoc Professor ACD YR,Statistics,Busch,131231,6780,9/1/2010,7,2403

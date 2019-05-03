@@ -1,0 +1,99 @@
+dept,title,n,med_base_salary
+"Afri,Mdle E&So Asn Lng&Lit",Professor ACD YR,2,135924.5
+"Afri,Mdle E&So Asn Lng&Lit",Asst Professor ACD YR,4,82869.5
+"Afri,Mdle E&So Asn Lng&Lit",Assoc Professor ACD YR,3,100128
+Africana Studies,Professor ACD YR,1,166854
+Africana Studies,Asst Professor ACD YR,1,96840
+Africana Studies,Assoc Professor ACD YR,3,119677
+American Studies,Professor ACD YR,2,142967.5
+American Studies,Asst Professor ACD YR,4,87452.5
+American Studies,Assoc Professor ACD YR,2,135953.5
+Anthropology,Professor ACD YR,5,129301
+Anthropology,Asst Professor ACD YR,3,92538
+Anthropology,Assoc Professor ACD YR,3,103525
+Art History,Professor ACD YR,5,120115
+Art History,Asst Professor ACD YR,1,85000
+Art History,Assoc Professor ACD YR,6,103047.5
+Asian Language & Cultures,Professor ACD YR,2,112776.5
+Asian Language & Cultures,Asst Professor ACD YR,1,88408
+Asian Language & Cultures,Assoc Professor ACD YR,6,100705
+Cell Bio & Neurosci,Professor ACD YR,7,145197
+Cell Bio & Neurosci,Asst Professor ACD YR,4,106381.5
+Cell Bio & Neurosci,Assoc Professor ACD YR,3,113113
+Chem & Chemical Biology,Professor ACD YR,11,142954
+Chem & Chemical Biology,Asst Professor ACD YR,7,98000
+Chem & Chemical Biology,Assoc Professor ACD YR,4,119206.5
+Classics,Asst Professor ACD YR,1,78000
+Classics,Assoc Professor ACD YR,5,106271
+Computer Science,Professor ACD YR,12,165272.5
+Computer Science,Asst Professor ACD YR,11,117240
+Computer Science,Assoc Professor ACD YR,6,139467.5
+Criminal Justice,Professor ACD YR,1,121081
+Earth & Planetary Sciences,Professor ACD YR,9,118568
+Earth & Planetary Sciences,Asst Professor ACD YR,2,101493.5
+Earth & Planetary Sciences,Assoc Professor ACD YR,1,134640
+Economics,Professor ACD YR,14,186894.5
+Economics,Asst Professor ACD YR,4,129651
+Economics,Assoc Professor ACD YR,5,131286
+English,Professor ACD YR,11,164911
+English,Asst Professor ACD YR,6,85674
+English,Assoc Professor ACD YR,23,117371
+French,Professor ACD YR,4,113219
+French,Asst Professor ACD YR,1,82819
+French,Assoc Professor ACD YR,3,99210
+Genetics,Professor ACD YR,3,142643
+Genetics,Asst Professor ACD YR,4,100865.5
+Genetics,Assoc Professor ACD YR,6,117053
+Geography,Professor ACD YR,1,206286
+Geography,Asst Professor ACD YR,1,92801
+Geography,Assoc Professor ACD YR,2,111201.5
+"Germn,Russ&E Euro Lang&Lit",Professor ACD YR,2,137378
+"Germn,Russ&E Euro Lang&Lit",Asst Professor ACD YR,1,78000
+"Germn,Russ&E Euro Lang&Lit",Assoc Professor ACD YR,3,92517
+History,Professor ACD YR,14,132160
+History,Asst Professor ACD YR,4,86000
+History,Assoc Professor ACD YR,16,114372.5
+Italian,Professor ACD YR,3,112661
+Italian,Asst Professor ACD YR,1,87152
+Italian,Assoc Professor ACD YR,1,103690
+Jewish Studies,Professor ACD YR,3,139418
+Jewish Studies,Assoc Professor ACD YR,1,120034
+Kinesiology And Health,Asst Professor ACD YR,2,87510.5
+Kinesiology And Health,Assoc Professor ACD YR,4,116721.5
+Latino & Hispan Carib Stds,Professor ACD YR,2,184701.5
+Latino & Hispan Carib Stds,Assoc Professor ACD YR,7,111195
+Linguistics,Professor ACD YR,5,131590
+Linguistics,Asst Professor ACD YR,3,82500
+Linguistics,Assoc Professor ACD YR,2,111343.5
+Mathematics,Professor ACD YR,20,136419.5
+Mathematics,Asst Professor ACD YR,3,96663
+Mathematics,Assoc Professor ACD YR,5,116156
+Molecular Bio&Biochem,Professor ACD YR,5,146626
+Molecular Bio&Biochem,Asst Professor ACD YR,2,103601.5
+Molecular Bio&Biochem,Assoc Professor ACD YR,4,118114
+Philosophy,Professor ACD YR,6,168850.5
+Philosophy,Assoc Professor ACD YR,3,159294
+Physics & Astronomy,Professor ACD YR,23,135593
+Physics & Astronomy,Asst Professor ACD YR,5,102500
+Physics & Astronomy,Assoc Professor ACD YR,5,119402
+Political Science,Professor ACD YR,7,151109
+Political Science,Asst Professor ACD YR,5,92000
+Political Science,Assoc Professor ACD YR,1,139304
+Psychology,Professor ACD YR,13,145780
+Psychology,Asst Professor ACD YR,7,95000
+Psychology,Assoc Professor ACD YR,8,118363.5
+Religion,Professor ACD YR,2,116736.5
+Religion,Asst Professor ACD YR,3,84963
+Religion,Assoc Professor ACD YR,3,99937
+Sociology,Professor ACD YR,7,135266
+Sociology,Asst Professor ACD YR,4,97653.5
+Sociology,Assoc Professor ACD YR,9,105582
+Spanish & Portuguese,Professor ACD YR,3,134126
+Spanish & Portuguese,Asst Professor ACD YR,2,83918
+Spanish & Portuguese,Assoc Professor ACD YR,6,106565
+Statistics,Professor ACD YR,5,135010
+Statistics,Asst Professor ACD YR,3,115000
+Statistics,Assoc Professor ACD YR,8,140000
+Women's & Gender Studies,Professor ACD YR,5,128000
+Women's & Gender Studies,Asst Professor ACD YR,2,86953
+Women's & Gender Studies,Assoc Professor ACD YR,6,125358.5

@@ -1,0 +1,36 @@
+dept,title,n,med_base_salary
+Biology,Professor ACD YR,2,153489.5
+Biology,Asst Professor ACD YR,5,74607
+Biology,Assoc Professor ACD YR,3,94915
+Chemistry,Professor ACD YR,1,115750
+Chemistry,Asst Professor ACD YR,2,74939
+Chemistry,Assoc Professor ACD YR,3,95406
+Computer Science,Professor ACD YR,3,130225
+Computer Science,Assoc Professor ACD YR,3,119003
+Economics,Professor ACD YR,1,97089
+Economics,Asst Professor ACD YR,1,80651
+Economics,Assoc Professor ACD YR,2,104269
+English,Professor ACD YR,6,116039.5
+English,Asst Professor ACD YR,2,82299.5
+English,Assoc Professor ACD YR,10,84734.5
+Fine Arts,Professor ACD YR,3,117042
+Fine Arts,Assoc Professor ACD YR,5,93304
+Foreign Languages,Asst Professor ACD YR,2,68152.5
+Foreign Languages,Assoc Professor ACD YR,3,85970
+History,Professor ACD YR,2,140602
+History,Asst Professor ACD YR,3,73007
+History,Assoc Professor ACD YR,5,89898
+Mathematics,Professor ACD YR,4,119906.5
+Mathematics,Assoc Professor ACD YR,4,88484
+Philosophy & Religion,Professor ACD YR,1,144444
+Philosophy & Religion,Asst Professor ACD YR,4,73207.5
+Physics,Asst Professor ACD YR,1,71019
+Physics,Assoc Professor ACD YR,2,83398.5
+Political Science,Professor ACD YR,1,148187
+Political Science,Asst Professor ACD YR,6,73508.5
+Psychology,Professor ACD YR,3,117070
+Psychology,Asst Professor ACD YR,4,67500
+Psychology,Assoc Professor ACD YR,5,88544
+Sociology,Professor ACD YR,4,100966.5
+Sociology,Asst Professor ACD YR,4,74709
+Sociology,Assoc Professor ACD YR,2,74892

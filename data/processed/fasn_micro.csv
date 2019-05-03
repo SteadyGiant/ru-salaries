@@ -1,0 +1,151 @@
+title,dept,campus,base_salary,gross_salary,hire_date,rec,page
+Professor ACD YR,Biological Sciences,Newark,159090,208489,7/1/2001,6,117
+Professor ACD YR,Biological Sciences,Newark,153800,192966,1/1/1987,10,143
+Professor ACD YR,Biological Sciences,Newark,192828,190964,9/1/1978,3,148
+Professor ACD YR,English,Newark,184736,182578,9/1/1992,1,165
+Professor ACD YR,Psychology,Newark,163472,181322,7/1/1996,9,167
+Professor ACD YR,Earth & Environmental Sci,Newark,136550,175450,8/22/1994,6,180
+Professor ACD YR,English,Newark,163405,168221,9/1/2008,6,194
+Assoc Professor ACD YR,Math & Computer Science,Newark,118348,162927,9/1/2015,8,210
+Professor ACD YR,Economics,Newark,162247,161065,7/1/1971,10,215
+Professor ACD YR,Economics,Newark,157115,160552,9/1/1986,5,217
+Professor ACD YR,Psychology,Newark,138332,159193,9/1/2006,5,221
+Assoc Professor ACD YR,Economics,Newark,159519,157958,9/1/2005,6,224
+Professor ACD YR,Psychology,Newark,145619,154111,7/1/1975,8,236
+Professor ACD YR,History,Newark,155686,153393,9/1/1992,10,239
+Assoc Professor ACD YR,English,Newark,154474,152011,9/1/2007,7,244
+Professor ACD YR,Political Science,Newark,151849,151309,7/1/1970,8,246
+Professor ACD YR,Economics,Newark,139683,148772,7/1/1971,5,254
+Professor ACD YR,English,Newark,141418,146750,1/1/1989,7,260
+Professor ACD YR,Math & Computer Science,Newark,122972,145875,9/1/1998,10,263
+Professor ACD YR,Arts Culture & Media,Newark,127164,143270,9/1/1994,1,271
+Professor ACD YR,Arts Culture & Media,Newark,144258,143128,7/1/2000,10,271
+Assoc Professor ACD YR,Sociology & Anthropology,Newark,121200,141216,9/1/2015,8,277
+Professor ACD YR,Economics,Newark,134185,140905,9/1/2003,5,278
+Assoc Professor ACD YR,Biological Sciences,Newark,113845,140639,9/1/2010,9,279
+Professor ACD YR,Arts Culture & Media,Newark,132609,139948,9/1/2002,2,282
+Assoc Professor ACD YR,Psychology,Newark,135577,138915,9/1/1998,5,285
+Professor ACD YR,Sociology & Anthropology,Newark,139545,138779,9/1/1983,10,285
+Assoc Professor ACD YR,English,Newark,140416,138105,9/1/2011,6,288
+Assoc Professor ACD YR,Political Science,Newark,115421,137932,9/1/2000,3,289
+Professor ACD YR,Sociology & Anthropology,Newark,138460,137548,9/1/1998,2,290
+Professor ACD YR,Economics,Newark,139033,137228,9/1/1980,1,291
+Assoc Professor ACD YR,Chemistry,Newark,126864,136621,7/1/1987,8,293
+Assoc Professor ACD YR,Biological Sciences,Newark,109474,136158,9/1/2010,8,295
+Asst Professor ACD YR,Psychology,Newark,111621,135231,9/1/2012,2,299
+Assoc Professor ACD YR,Arts Culture & Media,Newark,118942,134654,9/1/1997,9,301
+Professor ACD YR,English,Newark,134687,133930,9/1/1980,10,305
+Assoc Professor ACD YR,Economics,Newark,128852,132421,9/1/2011,7,312
+Assoc Professor ACD YR,Sociology & Anthropology,Newark,112507,131373,9/1/2001,3,317
+Assoc Professor ACD YR,Arts Culture & Media,Newark,122026,131090,9/1/2003,10,318
+Assoc Professor ACD YR,Biological Sciences,Newark,130701,129340,1/1/2004,2,326
+Assoc Professor ACD YR,Biological Sciences,Newark,103942,129237,9/1/2010,6,326
+Professor ACD YR,Philosophy,Newark,130778,129156,9/1/2004,7,326
+Professor ACD YR,Psychology,Newark,120230,129128,9/1/1999,9,326
+Assoc Professor ACD YR,Economics,Newark,121893,127806,9/1/2010,8,334
+Professor ACD YR,Biological Sciences,Newark,121864,127079,9/1/1983,2,338
+Professor ACD YR,Physics,Newark,127696,126490,9/1/1989,3,342
+Professor ACD YR,Urban Education,Newark,127973,126356,7/1/2005,7,342
+Assoc Professor ACD YR,Economics,Newark,123676,125819,9/1/2008,2,346
+Assoc Professor ACD YR,Psychology,Newark,109203,125581,1/1/2011,9,347
+Assoc Professor ACD YR,Math & Computer Science,Newark,105095,125438,9/1/2010,4,348
+Professor ACD YR,History,Newark,126284,125145,9/1/2007,2,350
+Assoc Professor ACD YR,Earth & Environmental Sci,Newark,101965,125044,12/4/2006,7,350
+Professor ACD YR,Political Science,Newark,125723,124368,1/1/1999,1,355
+Assoc Professor ACD YR,Math & Computer Science,Newark,110404,123326,9/1/1978,4,359
+Professor ACD YR,Math & Computer Science,Newark,136293,122455,9/1/1988,1,363
+Professor ACD YR,Chemistry,Newark,128928,122416,9/1/2002,3,363
+Professor ACD YR,Arts Culture & Media,Newark,134418,121760,9/1/1986,6,368
+Assoc Professor ACD YR,Arts Culture & Media,Newark,97391,119450,9/1/2001,6,382
+Professor ACD YR,Political Science,Newark,132607,119143,9/1/1980,5,384
+Assoc Professor ACD YR,Math & Computer Science,Newark,117937,117322,9/1/1986,8,394
+Professor ACD YR,Arts Culture & Media,Newark,103514,116405,9/1/1998,5,401
+Professor ACD YR,English,Newark,117816,116096,9/1/1976,5,403
+Professor ACD YR,Math & Computer Science,Newark,129872,115597,9/1/1996,1,406
+Assoc Professor ACD YR,Earth & Environmental Sci,Newark,95795,115579,9/1/2009,3,406
+Asst Professor ACD YR,Psychology,Newark,98759,114301,9/1/2013,3,414
+Assoc Professor ACD YR,History,Newark,105036,113840,9/1/2004,3,418
+Assoc Professor ACD YR,Psychology,Newark,115149,113721,1/1/2009,9,418
+Assoc Professor ACD YR,AfricanAmer&African Stds,Newark,112424,112208,9/1/1983,7,428
+Professor ACD YR,Math & Computer Science,Newark,112401,111296,9/1/2003,7,433
+Assoc Professor ACD YR,Sociology & Anthropology,Newark,108896,110040,9/1/1996,8,444
+Asst Professor ACD YR,Biological Sciences,Newark,92186,110023,9/1/2012,1,445
+Assoc Professor ACD YR,English,Newark,110000,109789,9/1/2008,5,446
+Asst Professor ACD YR,Biological Sciences,Newark,91254,109751,1/1/2013,8,446
+Assoc Professor ACD YR,English,Newark,109938,109581,9/1/1978,2,448
+Assoc Professor ACD YR,Economics,Newark,110009,109300,9/1/2009,7,450
+Assoc Professor ACD YR,Math & Computer Science,Newark,109870,109271,9/1/1980,1,451
+Asst Professor ACD YR,Arts Culture & Media,Newark,85232,107978,9/1/2014,6,460
+Assoc Professor ACD YR,Social Work,Newark,101507,107802,9/1/2002,4,462
+Assoc Professor ACD YR,English,Newark,114939,107278,9/1/2011,5,466
+Assoc Professor ACD YR,Earth & Environmental Sci,Newark,102450,107231,9/1/2014,8,466
+Assoc Professor ACD YR,Biological Sciences,Newark,95074,106731,7/1/1970,6,471
+Assoc Professor ACD YR,Spanish & Portuguese Stds,Newark,101424,106615,9/1/2002,4,472
+Asst Professor ACD YR,Chemistry,Newark,98212,106255,1/1/2011,6,474
+Assoc Professor ACD YR,Spanish & Portuguese Stds,Newark,98572,106142,9/1/2009,4,475
+Asst Professor ACD YR,Political Science,Newark,88500,105476,9/1/2016,6,480
+Asst Professor ACD YR,Psychology,Newark,95000,105374,1/1/2017,9,481
+Assoc Professor ACD YR,English,Newark,95279,105097,7/1/1988,5,484
+Assoc Professor ACD YR,Chemistry,Newark,106339,105026,9/1/2014,2,485
+Assoc Professor ACD YR,Sociology & Anthropology,Newark,106468,105018,1/1/1981,6,485
+Asst Professor ACD YR,Biological Sciences,Newark,86000,105004,1/1/2017,7,485
+Assoc Professor ACD YR,English,Newark,111443,104690,9/1/2004,9,487
+Assoc Professor ACD YR,Biological Sciences,Newark,93233,104664,9/1/1975,10,487
+Asst Professor ACD YR,Chemistry,Newark,97272,104154,9/1/2014,2,491
+Assoc Professor ACD YR,English,Newark,93320,103788,9/1/1977,7,493
+Assoc Professor ACD YR,Political Science,Newark,108655,103227,1/1/2013,6,497
+Assoc Professor ACD YR,English,Newark,102215,102019,9/1/1996,6,507
+Assoc Professor ACD YR,History,Newark,98828,101742,9/1/2001,1,511
+Assoc Professor ACD YR,English,Newark,114198,101209,9/1/2002,10,514
+Professor ACD YR,Chemistry,Newark,89501,100474,7/1/1966,3,523
+Assoc Professor ACD YR,History,Newark,90574,100350,9/1/1995,5,525
+Assoc Professor ACD YR,Spanish & Portuguese Stds,Newark,96163,100180,9/1/2009,8,526
+Asst Professor ACD YR,Chemistry,Newark,97657,100070,9/1/2012,1,528
+Assoc Professor ACD YR,History,Newark,91804,99636,9/1/2010,8,532
+Assoc Professor ACD YR,Philosophy,Newark,101095,99606,9/1/2010,2,533
+Assoc Professor ACD YR,Psychology,Newark,107014,99473,9/1/2010,3,534
+Assoc Professor ACD YR,History,Newark,101952,98816,9/1/2010,10,540
+Asst Professor ACD YR,AfricanAmer&African Stds,Newark,82000,98162,9/1/2016,10,546
+Assoc Professor ACD YR,Sociology & Anthropology,Newark,91678,97596,9/1/2010,6,553
+Assoc Professor ACD YR,Earth & Environmental Sci,Newark,98195,97180,1/1/2008,2,557
+Assoc Professor ACD YR,Sociology & Anthropology,Newark,97663,96126,9/1/2005,8,569
+Assoc Professor ACD YR,Arts Culture & Media,Newark,87458,95690,9/1/2012,6,573
+Asst Professor ACD YR,Chemistry,Newark,95493,94201,9/1/2011,8,585
+Assoc Professor ACD YR,History,Newark,96024,93100,9/1/2010,2,594
+Asst Professor ACD YR,Earth & Environmental Sci,Newark,84154,92805,9/1/2013,3,597
+Asst Professor ACD YR,AfricanAmer&African Stds,Newark,82000,91598,7/1/2016,9,610
+Asst Professor ACD YR,Biological Sciences,Newark,90964,89405,9/1/2009,1,634
+Assoc Professor ACD YR,History,Newark,99274,88977,9/1/2009,2,639
+Asst Professor ACD YR,History,Newark,81000,88518,9/1/2016,9,643
+Asst Professor ACD YR,Political Science,Newark,88000,87837,9/1/2016,2,652
+Asst Professor ACD YR,Arts Culture & Media,Newark,71798,87720,9/1/2012,3,654
+Assoc Professor ACD YR,Sociology & Anthropology,Newark,88562,87221,9/1/2010,8,660
+Asst Professor ACD YR,History,Newark,78734,87089,9/1/2012,2,662
+Assoc Professor ACD YR,Social Work,Newark,91451,86589,9/1/2011,10,666
+Asst Professor ACD YR,History,Newark,79253,86413,9/1/2013,3,669
+Assoc Professor ACD YR,Arts Culture & Media,Newark,85724,85210,9/1/1987,8,684
+Asst Professor ACD YR,English,Newark,77719,84772,9/1/2010,1,691
+Asst Professor ACD YR,Political Science,Newark,86387,84615,1/1/2013,5,694
+Assoc Professor ACD YR,Social Work,Newark,88466,83588,9/1/2011,10,705
+Assoc Professor ACD YR,Biological Sciences,Newark,82823,82665,7/1/1968,1,719
+Assoc Professor ACD YR,Math & Computer Science,Newark,108004,77126,9/1/2010,5,807
+Asst Professor ACD YR,Spanish & Portuguese Stds,Newark,77505,76607,9/1/2016,2,816
+Asst Professor ACD YR,History,Newark,78512,75371,9/1/2015,3,835
+Asst Professor ACD YR,English,Newark,62864,75078,1/1/2011,4,840
+Asst Professor ACD YR,Sociology & Anthropology,Newark,75508,74553,9/1/2014,7,848
+Assoc Professor ACD YR,English,Newark,66100,74204,9/1/1995,4,853
+Asst Professor ACD YR,Arts Culture & Media,Newark,76600,73166,9/1/2016,6,873
+Asst Professor ACD YR,Arts Culture & Media,Newark,73498,72102,9/1/2015,4,895
+Asst Professor ACD YR,Spanish & Portuguese Stds,Newark,65054,71038,9/1/2012,5,916
+Asst Professor ACD YR,History,Newark,71800,70766,9/1/2016,8,921
+Assoc Professor ACD YR,English,Newark,70763,70628,9/1/1978,1,925
+Asst Professor ACD YR,English,Newark,68691,68560,9/1/2009,4,970
+Asst Professor ACD YR,Math & Computer Science,Newark,91560,64828,9/1/2016,8,1061
+Asst Professor ACD YR,History,Newark,75834,62033,9/1/2012,9,1136
+Professor ACD YR,Political Science,Newark,120874,60437,9/1/2004,10,1179
+Asst Professor ACD YR,History,Newark,76000,48646,9/1/2017,8,1524
+Asst Professor ACD YR,Biological Sciences,Newark,86000,43000,9/1/2017,5,1704
+Asst Professor ACD YR,Sociology & Anthropology,Newark,78000,39000,9/1/2017,7,1798
+Asst Professor ACD YR,Spanish & Portuguese Stds,Newark,76000,38000,9/1/2017,7,1816
+Asst Professor ACD YR,History,Newark,74000,37000,9/1/2017,1,1833
+Asst Professor ACD YR,Philosophy,Newark,68000,34000,9/1/2017,2,1885

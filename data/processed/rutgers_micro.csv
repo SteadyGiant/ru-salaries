@@ -1,0 +1,1401 @@
+title,dept,campus,base_salary,gross_salary,hire_date,rec,page
+Professor ACD YR,Rbs - Finance & Economics,Newark,251738,389686,9/1/2001,5,23
+Professor ACD YR,Rbs-Management & Global Bus,Newark,304455,372698,1/1/2015,1,26
+Professor ACD YR,Rbs - Finance & Economics,Newark,295474,360070,9/1/2014,1,29
+Professor ACD YR,Rbs - Finance & Economics,Livingston,258724,351343,9/1/2004,5,31
+Professor ACD YR,Rbs-Supply Chain Management,Newark,264211,330523,9/1/1973,3,37
+Assoc Professor ACD YR,Rbs-Supply Chain Management,Newark,175949,327010,9/1/2011,6,38
+Professor ACD YR,Sas - Economics,College Av,288861,317942,9/1/2002,5,41
+Professor ACD YR,Engn-Civil & Environ Engn,Busch,237606,309499,9/1/1988,6,43
+Professor ACD YR,Sas - Chem & Chemical Biology,Busch,218349,298850,9/1/2010,8,47
+Professor ACD YR,Rbs - Finance & Economics,Livingston,218889,290691,9/1/2003,3,50
+Professor ACD YR,Mgmt Science & Info Systems,Newark,200188,289613,9/1/2004,1,51
+Professor ACD YR,Rbs - Finance & Economics,Newark,215736,275293,9/1/1997,1,59
+Professor ACD YR,Mgmt Science & Info Systems,Newark,204975,269079,9/1/2005,7,62
+Professor ACD YR,Smlr-Human Resource Management,Livingston,244483,259328,6/29/2007,6,68
+Assoc Professor ACD YR,Rbs - Finance & Economics,Newark,186513,257802,9/1/2011,9,69
+Professor ACD YR,Rbs-Management & Global Bus,Newark,234096,257372,7/1/2012,1,70
+Professor ACD YR,School Of Business - Cmd,Camden,189757,252744,9/1/1998,6,73
+Professor ACD YR,Engn-Materials Science & Engn,Busch,193672,252553,7/1/1981,7,73
+Professor ACD YR,School Public Affairs & Admin,Newark,250000,249521,9/1/2008,5,75
+Assoc Professor ACD YR,Rbs Acctg & Info Systems,Newark,224846,248775,9/1/2004,8,75
+Assoc Professor ACD YR,Rbs-Management & Global Bus,Livingston,216901,248303,9/1/2008,4,76
+Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,217165,247599,9/1/1990,8,76
+Professor ACD YR,Grad Sch Of Edu-Dean's Office,College Av,194038,247567,9/1/2011,9,76
+Professor ACD YR,Sas - Computer Science,Busch,183379,241963,9/1/1991,9,80
+Professor ACD YR,Mgmt Science & Info Systems,Livingston,188530,241899,9/1/1995,10,80
+Professor ACD YR,Sebs-Plant Biology & Pathology,Cook,182663,240977,9/1/2006,4,81
+Professor ACD YR,Rbs - Finance & Economics,Livingston,205287,240825,9/1/1997,5,81
+Professor ACD YR,Rbs Acctg & Info Systems,Livingston,196417,238331,9/1/1976,6,83
+Assoc Professor ACD YR,Sas - English,College Av,237994,237538,1/1/2011,5,84
+Professor ACD YR,Engn-Materials Science & Engn,Off Campus,181685,235713,3/1/2003,4,85
+Professor ACD YR,Sas - Physics & Astronomy,Busch,176500,234691,9/1/2016,3,86
+Professor ACD YR,Rbs - Finance & Economics,Livingston,218436,234182,9/1/1988,7,86
+Asst Professor ACD YR,Rbs Acctg & Info Systems,Livingston,193655,233965,9/1/2015,9,86
+Professor ACD YR,Gsc-Grad Public Policy & Admin,Camden,163952,231729,7/1/1981,10,88
+Professor ACD YR,Rbs Acctg & Info Systems,Newark,194175,231067,9/1/1991,7,89
+Professor ACD YR,Rbs-Supply Chain Management,Newark,184062,230860,9/1/2002,8,89
+Professor ACD YR,Sas - Economics,College Av,232880,230327,9/1/2000,5,90
+Professor ACD YR,Rbs-Management & Global Bus,Newark,215000,229588,1/1/2017,1,91
+Professor ACD YR,Rbs - Marketing,Newark,189527,229437,9/1/2014,3,91
+Professor ACD YR,School Of Social Work,College Av,229967,229362,9/1/1981,4,91
+Professor ACD YR,Rbs Acctg & Info Systems,Newark,213019,228761,9/1/1992,3,92
+Professor ACD YR,Mgmt Science & Info Systems,Newark,188678,227023,9/1/1994,4,94
+Asst Professor ACD YR,Rbs Acctg & Info Systems,Livingston,183825,224523,9/1/2014,2,98
+Professor ACD YR,Sas - Political Science,Douglass,198888,224167,9/1/2006,4,98
+Professor ACD YR,Sas - Jewish Studies,College Av,183272,223648,9/1/1996,10,98
+Assoc Professor ACD YR,Rbs - Marketing,Newark,181846,223350,9/1/2015,5,99
+Asst Professor ACD YR,Rbs Acctg & Info Systems,Newark,178658,223185,9/1/2014,6,99
+Professor ACD YR,Sas - Economics,College Av,224791,222978,9/1/1986,9,99
+Assoc Professor ACD YR,Rbs - Finance & Economics,Livingston,224863,222739,9/1/2008,10,99
+Asst Professor ACD YR,Rbs Acctg & Info Systems,Newark,173613,221861,9/1/2015,9,100
+Asst Professor ACD YR,Rbs Acctg & Info Systems,Newark,173613,221861,9/1/2015,10,100
+Professor ACD YR,Sas - Economics,College Av,224402,221780,9/1/2012,1,101
+Assoc Professor ACD YR,Rbs - Marketing,Livingston,179439,220513,9/1/2007,2,103
+Professor ACD YR,Sas - Computer Science,Busch,165010,220395,1/1/1999,4,103
+Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,166177,220248,9/1/1979,7,103
+Professor ACD YR,School Of Business - Cmd,Camden,211428,220033,7/1/1990,10,103
+Assoc Professor ACD YR,"Inst-Hth,Hth Care Pol&Agng Res",College Av,165698,218884,3/1/2007,7,105
+Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,165082,218477,9/1/1997,3,106
+Professor ACD YR,Rbs-Supply Chain Management,Livingston,190238,217521,7/1/1994,9,106
+Professor ACD YR,School Of Social Work,College Av,164574,217046,9/1/1988,6,107
+Professor ACD YR,Rbs - Finance & Economics,Newark,219452,216043,1/1/2000,9,108
+Assoc Professor ACD YR,Rbs-Management & Global Bus,Livingston,187235,215192,9/1/2014,7,109
+Professor ACD YR,Engn - Biomedical Engineering,Busch,158086,215176,9/1/1990,10,109
+Assoc Professor ACD YR,Rbs-Supply Chain Management,Newark,164503,214732,9/1/2004,4,110
+Professor ACD YR,Sas-Dls-Molecular Bio&Biochem,Busch,201090,214655,9/1/2006,6,110
+Assoc Professor ACD YR,Rbs Acctg & Info Systems,Newark,202330,214502,9/1/2010,1,111
+Professor ACD YR,Sas-Dls-Ctr Collab Neurosci,Busch,168516,213319,9/1/1985,9,111
+Asst Professor ACD YR,Rbs - Finance & Economics,Newark,154710,213256,9/1/2014,1,112
+Professor ACD YR,Sebs - Animal Science,Cook,166790,212989,9/1/1988,5,112
+Professor ACD YR,Sas - Political Science,Douglass,210000,212974,9/1/1999,7,112
+Professor ACD YR,Smlr-Labor Studies & Empl Rels,Cook,159587,212708,9/1/1995,9,112
+Assoc Professor ACD YR,Sas - Statistics,Busch,146334,212256,9/1/2008,5,113
+Professor ACD YR,Sas - Economics,College Av,212493,211298,9/1/1981,10,114
+Assoc Professor ACD YR,Rbs - Finance & Economics,Livingston,214034,210635,9/1/2008,7,115
+Professor ACD YR,Engn-Materials Science & Engn,Busch,176057,210146,9/1/2002,2,116
+Professor ACD YR,Pharm-Pharmacology&Toxicology,Busch,159576,210111,1/1/2006,3,116
+Professor ACD YR,Engn - Chem & Biochem Engn,Busch,158959,208976,1/1/1997,10,116
+Assoc Professor ACD YR,Sas - Philosophy,College Av,171499,208536,9/1/2016,5,117
+Professor ACD YR,Fasn - Biological Sciences,Newark,159090,208489,7/1/2001,6,117
+Professor ACD YR,Rbs-Management & Global Bus,Newark,208368,208142,1/1/1992,9,117
+Professor ACD YR,School Of Business - Cmd,Camden,201975,208142,1/1/1983,10,117
+Asst Professor ACD YR,Rbs Acctg & Info Systems,Livingston,170000,207451,9/1/2016,10,118
+Professor ACD YR,Waksman Inst Of Microbiology,Busch,160000,207438,3/1/2000,1,119
+Professor ACD YR,Engn - Chem & Biochem Engn,Busch,171448,206672,9/1/1978,5,120
+Assoc Professor ACD YR,Rbs - Finance & Economics,Newark,156403,206399,1/1/1995,9,120
+Professor ACD YR,Sas - Mathematics,Busch,156319,206218,9/1/2015,1,121
+Professor ACD YR,Sebs - Biochem & Microbiology,Cook,148115,206103,10/1/1998,3,121
+Professor ACD YR,Sas - Statistics,Busch,124180,205755,9/1/1999,7,121
+Asst Professor ACD YR,Rbs-Supply Chain Management,Livingston,158906,205275,1/1/2014,8,122
+Professor ACD YR,Sas - Geography,Livingston,206286,204874,9/1/1988,4,123
+Professor ACD YR,Sas - Lab For Vision Research,Busch,188723,203623,9/1/1989,1,125
+Asst Professor ACD YR,Rbs - Marketing,Newark,167508,203162,9/1/2016,7,125
+Professor ACD YR,"Sebs-Eco,Evol& Natrl Resources",Cook,172582,203049,9/1/1989,8,125
+Professor ACD YR,Sas - Computer Science,Busch,171361,202951,9/1/1995,10,125
+Professor ACD YR,Sebs - Food Science,Cook,169504,202652,7/1/1988,5,126
+Professor ACD YR,Pharm-Pharmacology&Toxicology,Livingston,170370,202644,9/1/1987,6,126
+Professor ACD YR,Waksman Inst Of Microbiology,Busch,153543,202596,9/1/1991,8,126
+Assoc Professor ACD YR,Rbs Acctg & Info Systems,Newark,201359,202486,9/1/2009,10,126
+Professor ACD YR,Sebs - Biochem & Microbiology,Cook,191796,202311,9/1/1981,2,127
+Asst Professor ACD YR,Rbs - Marketing,Livingston,165900,201204,9/1/2015,9,128
+Asst Professor ACD YR,Rbs - Marketing,Newark,165900,201204,9/1/2015,10,128
+Professor ACD YR,Smlr-Human Resource Management,Livingston,162796,201095,7/1/1984,2,129
+Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,151687,201037,9/1/1983,7,129
+Asst Professor ACD YR,Mgmt Science & Info Systems,Livingston,151500,200963,9/1/2016,8,129
+Professor ACD YR,Gsapp - Dean's Office,Busch,201091,200682,8/1/1992,2,130
+Professor ACD YR,Sas - Physics & Astronomy,Busch,148755,200446,9/1/1984,8,130
+Professor ACD YR,Sas - Physics & Astronomy,Busch,151935,200067,9/1/2008,2,131
+Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,151565,199326,1/1/2001,7,131
+Asst Professor ACD YR,Rbs-Management & Global Bus,Livingston,152700,198886,9/1/2016,3,132
+Professor ACD YR,Division Of Global Affairs,Newark,200373,198772,8/1/2008,5,132
+Professor ACD YR,Pharm - Chemical Biology,Busch,150957,198613,9/1/2015,6,132
+Professor ACD YR,School Of Social Work,College Av,136105,198568,9/1/2006,7,132
+Professor ACD YR,Sas - Philosophy,College Av,240000,198561,7/1/1996,9,132
+Professor ACD YR,Engn - Elec & Computer Engn,Busch,172969,198533,9/1/1982,10,132
+Professor ACD YR,Mgmt Science & Info Systems,Livingston,161097,198373,9/1/1974,7,133
+Assoc Professor ACD YR,Rbs-Supply Chain Management,Newark,177280,198222,9/1/2012,1,134
+Professor ACD YR,Sebs - Environmental Science,Cook,135842,198052,9/1/2007,4,134
+Professor ACD YR,Pharm - Chemical Biology,Busch,151930,197975,3/1/1992,5,134
+Professor ACD YR,Sas - Economics,College Av,197461,197631,9/1/2011,9,134
+Professor ACD YR,Camden School Of Nursing,Camden,195040,197610,9/1/1996,10,134
+Professor ACD YR,Engn - Elec & Computer Engn,Off Campus,152015,196908,9/1/2004,1,136
+Professor ACD YR,Sas - Physics & Astronomy,Busch,146448,196320,9/1/1989,7,136
+Assoc Professor ACD YR,School Of Criminal Justice,Newark,140873,195922,9/1/2008,4,137
+Asst Professor ACD YR,Rbs-Management & Global Bus,Livingston,160800,195827,9/1/2016,6,137
+Assoc Professor ACD YR,Sas - Computer Science,Busch,151396,195371,9/1/2012,2,138
+Asst Professor ACD YR,Rbs-Management & Global Bus,Newark,160000,195250,9/1/2016,8,138
+Assoc Professor ACD YR,Smlr-Human Resource Management,Livingston,160000,195249,1/1/2017,9,138
+Professor ACD YR,Engn - Elec & Computer Engn,Busch,160241,194730,1/1/2016,1,140
+Assoc Professor ACD YR,Rbs Acctg & Info Systems,Newark,198705,194326,9/1/2010,8,140
+Asst Professor ACD YR,Rbs - Finance & Economics,Livingston,184389,194255,9/1/2011,9,140
+Professor ACD YR,Smlr-Labor Studies & Empl Rels,Cook,180981,194149,9/1/1992,1,141
+Asst Professor ACD YR,Rbs Acctg & Info Systems,Newark,155000,194147,9/1/2016,3,141
+Assoc Professor ACD YR,School Of Business - Cmd,Camden,162361,194126,9/1/2007,4,141
+Professor ACD YR,Cmbn,Newark,147091,194011,1/1/1991,7,141
+Professor ACD YR,Rbs Acctg & Info Systems,Livingston,166515,193839,9/1/2008,2,142
+Professor ACD YR,Sc&I - Communication,College Av,168532,193749,9/1/1981,6,142
+Professor ACD YR,Waksman Inst Of Microbiology,Busch,159517,193718,9/1/1990,7,142
+Asst Professor ACD YR,Rbs-Management & Global Bus,Newark,158294,193167,9/1/2013,4,143
+Professor ACD YR,Sas - Economics,College Av,165547,193136,9/1/1994,5,143
+Professor ACD YR,Sas - Dls - Genetics,Busch,145915,193004,3/1/2000,7,143
+Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,146634,192980,9/1/1993,8,143
+Professor ACD YR,Fasn - Biological Sciences,Newark,153800,192966,1/1/1987,10,143
+Asst Professor ACD YR,Rbs - Finance & Economics,Newark,194975,192912,9/1/2014,2,144
+Professor ACD YR,Engn-Civil & Environ Engn,Busch,162978,192488,1/1/2016,2,145
+Professor ACD YR,Sas - English,College Av,183500,192396,9/1/2007,3,145
+Professor ACD YR,Sebs-Agricultural Econ & Mktg,Cook,119248,191827,8/17/1992,4,146
+Professor ACD YR,Sas - Computer Science,Busch,192870,191549,9/1/1983,4,147
+Professor ACD YR,Sas - Philosophy,College Av,192549,191309,9/1/2009,7,147
+Professor ACD YR,Fasn - Biological Sciences,Newark,192828,190964,9/1/1978,3,148
+Asst Professor ACD YR,Rbs-Supply Chain Management,Newark,156845,190829,9/1/2016,8,148
+Professor ACD YR,School Of Social Work,College Av,112684,190820,9/1/2007,9,148
+Asst Professor ACD YR,Rbs-Supply Chain Management,Newark,155977,190702,9/1/2016,10,148
+Assoc Professor ACD YR,Rbs-Management & Global Bus,Newark,188594,190559,9/1/2009,4,149
+Professor ACD YR,School Of Social Work,College Av,157400,190448,1/1/2016,8,149
+Professor ACD YR,Engn - Biomedical Engineering,Busch,169208,190324,9/1/2004,2,150
+Assoc Professor ACD YR,Sas - Statistics,Busch,155000,190090,1/1/2017,4,150
+Assoc Professor ACD YR,Rbs-Management & Global Bus,Livingston,191881,190074,9/1/2011,6,150
+Professor ACD YR,School Of Criminal Justice,Newark,200000,189394,9/1/2011,7,151
+Professor ACD YR,Engn - Elec & Computer Engn,Off Campus,152502,189312,9/1/2002,8,151
+Asst Professor ACD YR,Mgmt Science & Info Systems,Newark,156251,189148,9/1/2015,9,151
+Asst Professor ACD YR,Smlr-Human Resource Management,Livingston,156634,188659,9/1/2015,1,153
+Asst Professor ACD YR,Smlr-Human Resource Management,Livingston,156634,188659,9/1/2015,2,153
+Professor ACD YR,Pharm - Pharmaceutics,Busch,155901,188271,9/1/2005,9,153
+Assoc Professor ACD YR,Rbs-Management & Global Bus,Livingston,177309,188108,9/1/2002,4,154
+Professor ACD YR,School Of Business - Cmd,Camden,182680,188098,9/1/1994,6,154
+Professor ACD YR,Rbs - Marketing,Newark,190210,187997,4/11/1974,7,154
+Professor ACD YR,Sas - History,College Av,174483,187971,7/1/1996,8,154
+Assoc Professor ACD YR,Rbs Acctg & Info Systems,Newark,180774,187601,9/1/1999,4,155
+Professor ACD YR,Sas-Dls-Ctr Collab Neurosci,Busch,187792,187433,9/1/1999,6,155
+Assoc Professor ACD YR,Rbs Acctg & Info Systems,Newark,184955,187111,9/1/2010,10,155
+Professor ACD YR,Fasc - Biology,Camden,162886,186984,9/1/1989,4,156
+Professor ACD YR,Waksman Inst Of Microbiology,Busch,135471,186899,9/1/1996,5,156
+Professor ACD YR,Sebs - Human Ecology,Cook,141350,186508,9/1/2004,1,157
+Professor ACD YR,School Of Business - Cmd,Camden,177879,186213,7/1/1990,8,157
+Professor ACD YR,Gse - Education Psychology,College Av,141645,185671,9/1/1988,6,158
+Professor ACD YR,Engn - Chem & Biochem Engn,Busch,145834,185396,9/1/1984,1,159
+Professor ACD YR,Engn-Materials Science & Engn,Busch,166813,185140,9/1/2003,7,159
+Professor ACD YR,School Of Business - Cmd,Camden,170894,184973,9/1/1984,10,159
+Assoc Professor ACD YR,Rbs Acctg & Info Systems,Livingston,189787,184911,9/1/1996,1,160
+Professor ACD YR,Sas - Chem & Chemical Biology,Busch,143366,184596,1/1/2008,7,160
+Assoc Professor ACD YR,School Of Social Work,College Av,136413,184399,4/1/2015,1,161
+Professor ACD YR,Engn - Elec & Computer Engn,Busch,162047,184357,9/1/1984,2,161
+Professor ACD YR,Sas - Physics & Astronomy,Busch,137736,184234,9/1/2005,4,161
+Asst Professor ACD YR,Mgmt Science & Info Systems,Newark,151500,184130,9/1/2016,7,161
+Assoc Professor ACD YR,Rbs - Finance & Economics,Newark,193080,183968,9/1/2009,2,162
+Professor ACD YR,"Sch Of Law-Cmd, Dean's Office",Camden,186543,183704,1/1/2006,8,162
+Assoc Professor ACD YR,Pharm-Pharmacology&Toxicology,Busch,138908,183183,9/1/2012,8,163
+Professor ACD YR,School Public Affairs & Admin,Newark,186621,183120,8/1/2000,9,163
+Assoc Professor ACD YR,Rbs-Management & Global Bus,Newark,148046,182729,9/1/2010,7,164
+Professor ACD YR,Fasn - English,Newark,184736,182578,9/1/1992,1,165
+Professor ACD YR,Rbs Acctg & Info Systems,Livingston,180905,182576,9/1/1980,2,165
+Asst Professor ACD YR,Smlr-Human Resource Management,Livingston,153593,182357,9/1/2014,4,165
+Professor ACD YR,Sas - Mathematics,Busch,136000,181966,9/1/2014,6,165
+Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,145197,181932,6/23/2000,8,165
+Professor ACD YR,School Of Social Work,College Av,132163,181885,9/1/2006,9,165
+Professor ACD YR,Gsapp - School Psychology,Busch,137509,181641,9/1/2007,5,166
+Professor ACD YR,New High Energy Theory Center,Busch,143695,181539,9/1/2001,9,166
+Assoc Professor ACD YR,Pharm-Pharmacology&Toxicology,Busch,137198,181407,9/1/1998,5,167
+Professor ACD YR,Sas - Physics & Astronomy,Busch,131611,181372,11/14/1994,7,167
+Professor ACD YR,Fasn - Psychology,Newark,163472,181322,7/1/1996,9,167
+Asst Professor ACD YR,Rbs Acctg & Info Systems,Livingston,168642,181077,9/1/2011,3,168
+Professor ACD YR,Pharm - Medicinal Chemistry,Busch,138866,180899,9/1/1999,6,168
+Asst Professor ACD YR,Smlr-Human Resource Management,Livingston,151349,180720,9/1/2014,10,168
+Professor ACD YR,Sebs-Marine & Coastal Sciences,Cook,143886,180600,9/1/1991,4,169
+Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,137579,180460,9/1/2003,6,169
+Professor ACD YR,School Of Social Work,College Av,126948,180394,9/1/2001,8,169
+Assoc Professor ACD YR,Sas-Dls-Kinesiology And Health,Douglass,138833,180255,9/1/1977,10,169
+Professor ACD YR,Sas - Africana Studies,Livingston,166854,180037,7/1/1972,4,170
+Professor ACD YR,Sas - Dls - Genetics,Busch,140669,179866,9/1/2007,8,170
+Professor ACD YR,Sebs-Marine & Coastal Sciences,Off Campus,136460,179816,3/13/1995,9,170
+Professor ACD YR,Sas - Philosophy,College Av,177572,179721,9/1/2009,1,171
+Assoc Professor ACD YR,Rbs-Management & Global Bus,Newark,181507,179386,9/1/2006,6,171
+Professor ACD YR,School Of Business - Cmd,Camden,164713,179003,9/1/2002,5,172
+Professor ACD YR,Sas - Psychology,Livingston,147785,178708,9/1/1979,5,173
+Assoc Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,135898,178697,9/1/2008,7,173
+Assoc Professor ACD YR,Pharm - Pharmaceutics,Busch,135222,178324,9/1/2010,9,174
+Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,137126,178307,9/1/2007,10,174
+Professor ACD YR,Mgmt Science & Info Systems,Newark,178408,178066,9/1/1982,3,175
+Professor ACD YR,Engn - Industrial Engineering,Busch,140886,177861,9/1/2008,6,175
+Professor ACD YR,Sas - Computer Science,Busch,162637,177836,9/1/1998,7,175
+Professor ACD YR,Sebs-Marine & Coastal Sciences,Cook,142722,177776,9/1/2001,9,175
+Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,142740,177747,9/1/2005,1,176
+Professor ACD YR,Sas - Statistics,Busch,135010,177560,9/1/2007,3,176
+Assoc Professor ACD YR,Sas-Earth & Planetary Sciences,Busch,134640,177487,1/1/2015,5,176
+Asst Professor ACD YR,School Of Business - Cmd,Camden,158006,176987,9/1/2014,5,177
+Professor ACD YR,New High Energy Theory Center,Busch,140895,176941,9/1/1997,6,177
+Professor ACD YR,Sas - Physics & Astronomy,Busch,145987,176904,1/1/1993,9,177
+Professor ACD YR,Bsppp-Dean's Office,College Av,139253,176827,9/1/2008,1,178
+Professor ACD YR,Sas - English,College Av,147412,176669,9/1/2007,3,178
+Professor ACD YR,Rbs-Management & Global Bus,Newark,178745,176497,9/1/1998,4,178
+Asst Professor ACD YR,Rbs Acctg & Info Systems,Livingston,165817,176036,9/1/2013,7,178
+Professor ACD YR,Sas - Computer Science,Busch,177134,175921,9/1/1973,2,179
+Professor ACD YR,Sas - Economics,College Av,158717,175766,7/1/2005,7,179
+Professor ACD YR,Sas - Mathematics,Busch,138117,175668,9/1/2009,9,179
+Assoc Professor ACD YR,Rbs - Finance & Economics,Newark,133798,175598,9/1/1985,4,180
+Professor ACD YR,Fasn-Earth & Environmental Sci,Newark,136550,175450,8/22/1994,6,180
+Professor ACD YR,Rbs - Finance & Economics,Newark,179162,175332,9/1/1995,8,180
+Professor ACD YR,Engn-Civil & Environ Engn,Busch,132727,175153,9/1/1998,1,181
+Professor ACD YR,Sas - Statistics,Busch,161176,174940,1/1/2000,3,181
+Professor ACD YR,Sebs - Biochem & Microbiology,Cook,175000,174665,1/1/2017,5,181
+Professor ACD YR,Sebs - Environmental Science,Cook,105683,174058,9/1/2001,10,181
+Assoc Professor ACD YR,Sas - Statistics,Busch,130474,173776,9/1/2012,5,182
+Asst Professor ACD YR,School Of Business - Cmd,Camden,143206,173741,9/30/2015,8,182
+Assoc Professor ACD YR,Sas - Economics,College Av,157868,173678,9/1/2016,2,183
+Professor ACD YR,Sas-Earth & Planetary Sciences,Busch,133601,172965,1/1/2002,6,184
+Assoc Professor ACD YR,Sas - Mathematics,Busch,106321,172684,1/1/2012,10,184
+Professor ACD YR,Sas - Mathematics,Busch,143601,172486,9/1/2001,1,185
+Assoc Professor ACD YR,Smlr-Human Resource Management,Livingston,170552,172053,9/1/2010,6,185
+Assoc Professor ACD YR,Sas - Computer Science,Busch,134446,171797,9/1/2010,10,185
+Assoc Professor ACD YR,Mgmt Science & Info Systems,Livingston,173554,171526,9/1/2012,7,186
+Professor ACD YR,"Sebs-Eco,Evol& Natrl Resources",Cook,130517,171447,9/1/2002,1,187
+Professor ACD YR,Gse - Education Psychology,College Av,138648,171401,1/1/2014,3,187
+Professor ACD YR,Waksman Inst Of Microbiology,Busch,157470,171214,1/1/1994,7,187
+Professor ACD YR,School Of Business - Cmd,Camden,166603,171127,7/1/1988,9,187
+Professor ACD YR,Sas-Earth & Planetary Sciences,Busch,148104,170922,9/1/2011,3,188
+Professor ACD YR,Sas - Sociology,Douglass,172953,170587,9/1/1988,6,188
+Professor ACD YR,Sas - Economics,College Av,169784,170539,1/1/1995,8,188
+Asst Professor ACD YR,School Of Business - Cmd,Camden,141209,170522,9/1/2013,9,188
+Professor ACD YR,Engn-Civil & Environ Engn,Busch,140523,170153,9/1/1983,6,189
+Assoc Professor ACD YR,Fasc - Computer Science,Camden,128846,170151,9/1/2003,7,189
+Assoc Professor ACD YR,Pharm-Pharmacology&Toxicology,Busch,129936,170036,9/1/2009,9,189
+Professor ACD YR,Engn - Biomedical Engineering,Busch,154261,169795,1/1/1998,5,190
+Asst Professor ACD YR,School Of Business - Cmd,Camden,139050,169596,9/1/2015,9,190
+Professor ACD YR,Sas - Physics & Astronomy,Busch,136367,169432,9/1/2007,7,191
+Professor ACD YR,Sas - Anthropology,Douglass,142567,169302,9/1/1999,2,192
+Assoc Professor ACD YR,Rbs-Supply Chain Management,Livingston,169276,168475,9/1/2005,9,193
+Professor ACD YR,Engn - Industrial Engineering,Busch,145162,168470,9/1/1986,10,193
+Professor ACD YR,Sas-Latino & Hispan Carib Stds,Livingston,169303,168232,7/1/2005,4,194
+Professor ACD YR,Sc&I - Communication,College Av,110076,168226,9/1/2000,5,194
+Professor ACD YR,Fasn - English,Newark,163405,168221,9/1/2008,6,194
+Professor ACD YR,Mgsa - Music,Douglass,158214,167649,7/1/2012,6,195
+Professor ACD YR,School Of Business - Cmd,Camden,169709,167629,9/1/1989,7,195
+Assoc Professor ACD YR,Sas - Statistics,Busch,140000,167624,9/1/1998,8,195
+Professor ACD YR,Bsppp-Dean's Office,College Av,127152,167403,9/1/1999,7,196
+Professor ACD YR,Sas - Political Science,Douglass,145538,167232,9/1/2012,1,197
+Asst Professor ACD YR,Sas - Computer Science,Busch,127305,166874,1/1/2013,5,197
+Professor ACD YR,Sebs-Agricultural Econ & Mktg,Livingston,126805,166759,9/1/1985,10,197
+Assoc Professor ACD YR,Smlr-Labor Studies & Empl Rels,Cook,142743,166624,9/1/2005,2,198
+Professor ACD YR,Sas - Mathematics,Busch,139437,166379,9/1/1993,1,199
+Assoc Professor ACD YR,Rbs Acctg & Info Systems,Livingston,153636,166255,9/1/1991,5,199
+Professor ACD YR,Waksman Inst Of Microbiology,Busch,125610,165738,1/1/2000,2,201
+Professor ACD YR,Sas - English,College Av,167763,165699,9/1/1999,4,201
+Asst Professor ACD YR,School Of Business - Cmd,Camden,156234,165365,9/1/2013,4,202
+Professor ACD YR,Engn - Industrial Engineering,Busch,166663,164853,9/1/1981,6,203
+Professor ACD YR,Sas - Physics & Astronomy,Busch,137757,164760,9/1/1999,1,204
+Professor ACD YR,Sas - Psychology,Busch,149853,164581,9/1/1987,7,204
+Assoc Professor ACD YR,Sas - Economics,College Av,150990,164567,9/1/2001,8,204
+Professor ACD YR,Sebs - Human Ecology,Cook,149910,164466,9/1/1986,3,205
+Professor ACD YR,Sas - Computer Science,Busch,171759,164449,9/1/1989,4,205
+Professor ACD YR,Sas - Psychology,Busch,149683,164391,9/1/1990,6,205
+Professor ACD YR,Engn - Elec & Computer Engn,Busch,164556,164241,9/1/1988,1,206
+Assoc Professor ACD YR,Sas - Psychology,Busch,125541,164148,9/1/2008,4,206
+Asst Professor ACD YR,School Of Business - Cmd,Camden,147165,163997,9/1/2013,10,206
+Assoc Professor ACD YR,Engn - Elec & Computer Engn,Busch,124707,163987,1/1/2011,1,207
+Asst Professor ACD YR,Smlr-Labor Studies & Empl Rels,Cook,135836,163843,9/1/2014,5,207
+Professor ACD YR,Sas - Computer Science,Busch,131719,163774,9/1/2002,7,207
+Professor ACD YR,Bsppp-Dean's Office,College Av,157453,163773,1/1/1992,8,207
+Professor ACD YR,Sas - Physics & Astronomy,Busch,140580,163592,9/1/2004,4,208
+Professor ACD YR,"Sas-Germn,Russ&E Euro Lang&Lit",College Av,148315,163444,9/1/2003,9,208
+Professor ACD YR,Waksman Inst Of Microbiology,Busch,129618,163443,9/1/2007,2,209
+Assoc Professor ACD YR,Smlr-Human Resource Management,Livingston,170552,163303,9/1/2010,7,209
+Assoc Professor ACD YR,Sas - Computer Science,Busch,141260,163295,9/1/1978,8,209
+Professor ACD YR,Sebs-Marine & Coastal Sciences,Cook,140659,163142,8/1/1992,5,210
+Professor ACD YR,Gse - Education Psychology,College Av,108632,162975,9/1/2015,7,210
+Assoc Professor ACD YR,Fasn-Math & Computer Science,Newark,118348,162927,9/1/2015,8,210
+Professor ACD YR,Sas - Linguistics,College Av,159365,162767,9/1/1990,2,211
+Asst Professor ACD YR,School Of Business - Cmd,Camden,135455,162579,9/1/2016,7,211
+Professor ACD YR,Sas - History,College Av,163126,162468,9/1/1974,10,211
+Professor ACD YR,Sas - Computer Science,Busch,165535,162430,9/1/2002,1,212
+Asst Professor ACD YR,Sas - Computer Science,Busch,122554,162270,1/1/2015,8,212
+Professor ACD YR,Sebs-Marine & Coastal Sciences,Cook,123130,162143,11/21/1994,3,213
+Assoc Professor ACD YR,Sebs - Nutritional Sciences,Douglass,116314,161979,9/1/2001,6,213
+Professor ACD YR,Sas - Political Science,Douglass,154131,161645,9/1/1992,1,214
+Assoc Professor ACD YR,Rbs-Management & Global Bus,Newark,141380,161557,9/1/2009,2,214
+Assoc Professor ACD YR,Mgmt Science & Info Systems,Newark,163454,161387,9/1/2012,6,214
+Assoc Professor ACD YR,Sas - Physics & Astronomy,Busch,123622,161339,9/1/2007,9,214
+Professor ACD YR,Sas - English,College Av,151935,161253,9/1/1987,6,215
+Professor ACD YR,Cmbn,Newark,147077,161208,1/1/1991,7,215
+Professor ACD YR,Fasn - Economics,Newark,162247,161065,7/1/1971,10,215
+Professor ACD YR,Sas - Statistics,Busch,124415,160934,9/1/1984,3,216
+Professor ACD YR,Sas - Chem & Chemical Biology,Busch,145090,160868,7/1/1971,4,216
+Assoc Professor ACD YR,Pharm-Pharmacology&Toxicology,Busch,122418,160635,9/1/1998,2,217
+Professor ACD YR,Fasn - Economics,Newark,157115,160552,9/1/1986,5,217
+Professor ACD YR,Engn-Civil & Environ Engn,Busch,121621,160120,9/1/1992,3,218
+Assoc Professor ACD YR,Sas - Dls - Genetics,Busch,125096,160087,9/1/2011,5,218
+Professor ACD YR,Sas - Chem & Chemical Biology,Busch,149676,160021,9/1/2009,1,219
+Professor ACD YR,Fasc - English,Camden,150175,159956,9/1/1996,2,219
+Assoc Professor ACD YR,Mgmt Science & Info Systems,Livingston,153009,159773,9/1/2009,8,219
+Asst Professor ACD YR,School Of Business - Cmd,Camden,150496,159747,9/1/2013,9,219
+Professor ACD YR,Engn-Materials Science & Engn,Busch,161900,159686,12/1/2002,10,219
+Professor ACD YR,Sas - Physics & Astronomy,Busch,132184,159539,1/1/2006,4,220
+Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,136239,159451,9/1/2010,7,220
+Professor ACD YR,Sas-Dls-Molecular Bio&Biochem,Busch,152312,159360,1/1/1993,1,221
+Professor ACD YR,Fasn - Psychology,Newark,138332,159193,9/1/2006,5,221
+Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,138616,159146,9/1/2003,9,221
+Professor ACD YR,Sebs - Animal Science,Cook,131027,158613,1/1/1995,10,222
+Asst Professor ACD YR,Smlr-Labor Studies & Empl Rels,Cook,133242,158420,9/1/2014,4,223
+Professor ACD YR,Sebs-Marine & Coastal Sciences,Cook,120378,158345,9/1/2001,6,223
+Professor ACD YR,Sas - Physics & Astronomy,Busch,130934,158335,9/1/2008,8,223
+Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,160178,158128,9/1/1978,4,224
+Assoc Professor ACD YR,Sas - Psychology,Busch,120160,157983,9/1/2009,5,224
+Assoc Professor ACD YR,Fasn - Economics,Newark,159519,157958,9/1/2005,6,224
+Professor ACD YR,Sas - Mathematics,Busch,158390,157837,7/1/1972,9,224
+Asst Professor ACD YR,Rbs-Management & Global Bus,Newark,157533,157560,9/1/2014,8,225
+Professor ACD YR,Sas - Computer Science,Busch,157837,157535,9/1/1981,10,225
+Professor ACD YR,Engn - Chem & Biochem Engn,Busch,136693,157315,9/1/2000,3,226
+Professor ACD YR,Sas - Physics & Astronomy,Busch,135593,157035,9/1/2007,8,226
+Professor ACD YR,Sas - Economics,College Av,176328,156879,9/1/1992,4,227
+Professor ACD YR,Sas - Psychology,Busch,131248,156867,9/1/1998,5,227
+Asst Professor ACD YR,Sas - Computer Science,Busch,117240,156853,9/1/2015,6,227
+Assoc Professor ACD YR,Sas - Women's & Gender Studies,Douglass,131491,156514,7/1/2012,4,228
+Professor ACD YR,Sas - Chem & Chemical Biology,Busch,142954,156490,9/1/1998,6,228
+Assoc Professor ACD YR,Sas - Dls - Genetics,Busch,118576,156180,10/1/2003,5,229
+Professor ACD YR,Sas - Mathematics,Busch,142972,156047,9/1/2000,8,229
+Asst Professor ACD YR,School Of Business - Cmd,Camden,139835,155868,9/1/2011,1,230
+Professor ACD YR,Sas - American Studies,Douglass,157027,155852,1/20/1969,2,230
+Asst Professor ACD YR,School Of Business - Cmd,Camden,157090,155844,9/1/2013,3,230
+Assoc Professor ACD YR,Sebs-Marine & Coastal Sciences,Off Campus,112911,155843,9/1/2003,4,230
+Professor ACD YR,Sebs - Nutritional Sciences,Douglass,145730,155799,9/1/1984,7,230
+Professor ACD YR,Cabm,Busch,157492,155766,9/1/1993,10,230
+Professor ACD YR,Engn - Elec & Computer Engn,Busch,136430,155710,9/1/1999,2,231
+Assoc Professor ACD YR,Sas - Physics & Astronomy,Busch,119581,155648,9/1/2009,4,231
+Professor ACD YR,Sas - History,College Av,155797,155498,9/1/1978,6,231
+Assoc Professor ACD YR,Sas - Computer Science,Busch,137675,155447,9/1/2005,1,232
+Asst Professor ACD YR,School Of Business - Cmd,Camden,145293,155439,9/1/2013,4,232
+Professor ACD YR,Sas - Philosophy,College Av,160129,155339,9/1/1990,6,232
+Assoc Professor ACD YR,Sas - History,College Av,141001,155252,9/1/2014,7,232
+Professor ACD YR,Fasc - History,Camden,155563,154996,9/1/1992,2,233
+Professor ACD YR,Sas - Physics & Astronomy,Busch,128446,154975,9/1/2004,5,233
+Asst Professor ACD YR,School Of Business - Cmd,Camden,145089,154962,9/1/2013,6,233
+Professor ACD YR,Sas-Earth & Planetary Sciences,Busch,125085,154568,9/1/1981,6,234
+Professor ACD YR,Sas - Political Science,Douglass,148110,154426,9/1/2008,2,235
+Professor ACD YR,Bsppp-Dean's Office,College Av,154630,154334,1/1/2004,4,235
+Assoc Professor ACD YR,Sas - Classics,College Av,155614,154187,9/1/1999,2,236
+Assoc Professor ACD YR,Gsapp - School Psychology,Busch,100411,154172,9/1/2012,3,236
+Assoc Professor ACD YR,Sas - American Studies,Douglass,155351,154151,9/1/2005,6,236
+Professor ACD YR,Fasn - Psychology,Newark,145619,154111,7/1/1975,8,236
+Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,140523,153844,8/1/2001,1,238
+Assoc Professor ACD YR,School Of Social Work,College Av,125816,153837,9/1/1989,2,238
+Asst Professor ACD YR,School Of Business - Cmd,Camden,143770,153748,9/1/2013,5,238
+Professor ACD YR,Fasc - Fine Arts,Camden,154267,153473,9/1/2002,4,239
+Assoc Professor ACD YR,Engn - Biomedical Engineering,Busch,126935,153430,1/1/2007,6,239
+Professor ACD YR,Sas-Earth & Planetary Sciences,Busch,117627,153411,9/1/1998,7,239
+Professor ACD YR,Fasn - History,Newark,155686,153393,9/1/1992,10,239
+Assoc Professor ACD YR,Engn - Elec & Computer Engn,Busch,116665,153281,9/1/2007,7,240
+Professor ACD YR,Camden School Of Nursing,Camden,137960,153056,9/1/2012,3,241
+Professor ACD YR,Gsc-Grad Public Policy & Admin,Camden,142565,152914,9/1/2011,7,241
+Professor ACD YR,Sebs - Environmental Science,Cook,121202,152692,1/1/1998,10,241
+Professor ACD YR,Sas - Psychology,Busch,145780,152616,9/1/1986,5,242
+Assoc Professor ACD YR,Sas - History,College Av,125362,152611,9/1/2007,6,242
+Professor ACD YR,Sas - Psychology,Busch,154424,152494,7/1/1992,1,243
+Professor ACD YR,Engn - Elec & Computer Engn,Busch,138212,152464,7/1/1995,3,243
+Professor ACD YR,Fasc - Political Science,Camden,148187,152455,9/1/1981,4,243
+Assoc Professor ACD YR,Sas - Dls - Genetics,Busch,115530,152451,1/1/2006,5,243
+Asst Professor ACD YR,School Of Business - Cmd,Camden,136000,152422,9/1/2014,6,243
+Professor ACD YR,Mgmt Science & Info Systems,Livingston,156227,152334,9/1/1994,8,243
+Assoc Professor ACD YR,School Of Social Work,College Av,121106,152264,9/1/1998,10,243
+Asst Professor ACD YR,Rbs-Management & Global Bus,Newark,153487,152063,9/1/2010,6,244
+Assoc Professor ACD YR,Fasn - English,Newark,154474,152011,9/1/2007,7,244
+Assoc Professor ACD YR,Sas - Dls - Genetics,Busch,115244,151658,5/1/2007,3,245
+Professor ACD YR,Rbs-Supply Chain Management,Newark,161086,151600,6/1/1990,4,245
+Professor ACD YR,Engn-Materials Science & Engn,Busch,152717,151597,3/1/1989,5,245
+Professor ACD YR,Sas - English,College Av,169857,151572,9/1/1993,6,245
+Asst Professor ACD YR,Pharm - Pharmaceutics,Busch,116122,151522,9/1/2012,9,245
+Assoc Professor ACD YR,Sas - Statistics,Busch,123586,151504,9/1/2011,10,245
+Assoc Professor ACD YR,Sas - Computer Science,Busch,144399,151433,9/1/1999,1,246
+Asst Professor ACD YR,School Of Business - Cmd,Camden,141399,151374,9/1/2013,2,246
+Assoc Professor ACD YR,Smlr-Labor Studies & Empl Rels,Cook,141732,151349,1/1/2009,5,246
+Professor ACD YR,Fasn - Political Science,Newark,151849,151309,7/1/1970,8,246
+Assoc Professor ACD YR,Sebs - Human Ecology,Cook,136955,151234,9/1/2010,10,246
+Professor ACD YR,Sas - History,College Av,132924,151041,9/1/2001,1,248
+Professor ACD YR,Sas - Chem & Chemical Biology,Busch,137880,150936,9/1/1997,4,248
+Professor ACD YR,Sas - Chem & Chemical Biology,Busch,141162,150891,7/1/1968,5,248
+Professor ACD YR,Sebs-Plant Biology & Pathology,Cook,152491,150710,9/1/1995,9,248
+Professor ACD YR,Waksman Inst Of Microbiology,Busch,151100,150561,9/1/1997,6,249
+Professor ACD YR,Gsapp - Clinical Psychology,Busch,152469,150419,8/16/1976,9,249
+Professor ACD YR,Sas - Psychology,Livingston,152197,150230,9/1/1997,6,250
+Professor ACD YR,Sebs - Environmental Science,Cook,134962,150105,6/1/1980,8,250
+Assoc Professor ACD YR,Sas - Philosophy,College Av,149072,150048,9/1/2013,10,250
+Assoc Professor ACD YR,Sc&I-Journalism & Media Stds,College Av,115750,150033,9/1/2009,2,251
+Professor ACD YR,Rbs - Finance & Economics,Newark,152224,149940,7/1/1969,8,251
+Assoc Professor ACD YR,School Of Criminal Justice,Newark,127256,149509,9/1/2013,8,252
+Assoc Professor ACD YR,"Sebs-Eco,Evol& Natrl Resources",Cook,123850,149484,9/1/2009,9,252
+Professor ACD YR,School Public Affairs & Admin,Newark,151925,149430,9/1/2009,2,253
+Professor ACD YR,Sas - Political Science,Douglass,151109,149344,9/1/2006,4,253
+Asst Professor ACD YR,Sas - Computer Science,Busch,122000,148877,1/1/2017,1,254
+Professor ACD YR,Fasn - Economics,Newark,139683,148772,7/1/1971,5,254
+Assoc Professor ACD YR,School Of Business - Cmd,Camden,140225,148638,9/1/2009,7,254
+Professor ACD YR,Sas - Computer Science,Busch,150744,148624,9/1/1979,8,254
+Professor ACD YR,Sas - English,College Av,171311,148447,9/1/1988,4,255
+Assoc Professor ACD YR,Engn - Biomedical Engineering,Busch,122878,148440,9/1/2005,5,255
+Assoc Professor ACD YR,Rbs-Management & Global Bus,Newark,133965,148355,9/1/2001,6,255
+Asst Professor ACD YR,"Sebs-Eco,Evol& Natrl Resources",Cook,112793,148335,9/1/2013,7,255
+Professor ACD YR,Sas - Psychology,Livingston,149236,148132,9/1/1986,10,255
+Assoc Professor ACD YR,Sas - Dls - Genetics,Busch,111518,147672,9/1/2009,9,256
+Assoc Professor ACD YR,School Public Affairs & Admin,Newark,99302,147619,9/1/2015,10,256
+Assoc Professor ACD YR,Sebs-Marine & Coastal Sciences,Cook,112055,147579,9/1/2010,3,257
+Professor ACD YR,Sas - Women's & Gender Studies,Douglass,148539,147507,7/1/1987,8,257
+Assoc Professor ACD YR,School Of Social Work,College Av,120879,147420,9/1/2008,9,257
+Asst Professor ACD YR,Sas - Computer Science,Busch,121200,147303,9/1/2016,3,258
+Professor ACD YR,"Sebs-Eco,Evol& Natrl Resources",Cook,141169,147221,7/1/2008,6,258
+Assoc Professor ACD YR,Sc&I - Library & Info Science,College Av,108117,147218,7/1/2010,8,258
+Professor ACD YR,Sas - Physics & Astronomy,Busch,134033,147174,9/23/2002,2,259
+Assoc Professor ACD YR,Smlr-Human Resource Management,Livingston,184180,146952,9/1/2012,5,259
+Professor ACD YR,Sas - History,College Av,150574,146890,6/1/2006,10,259
+Professor ACD YR,Sas - Physics & Astronomy,Busch,148191,146862,9/1/2002,2,260
+Professor ACD YR,Sas - English,College Av,164911,146773,9/1/1983,5,260
+Professor ACD YR,Fasn - English,Newark,141418,146750,1/1/1989,7,260
+Assoc Professor ACD YR,Pharm - Chemical Biology,Busch,147754,146742,9/1/2005,9,260
+Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,146977,146696,9/1/1984,10,260
+Professor ACD YR,Sas - Physics & Astronomy,Busch,147846,146467,9/1/1977,5,261
+Professor ACD YR,Fasc - Biology,Camden,144093,146308,1/1/2010,4,262
+Professor ACD YR,Fasc - English,Camden,126864,146072,9/1/1993,4,263
+Professor ACD YR,Smlr-Labor Studies & Empl Rels,Cook,137024,145919,9/1/1978,9,263
+Professor ACD YR,Fasn-Math & Computer Science,Newark,122972,145875,9/1/1998,10,263
+Professor ACD YR,Sas-Dls-Molecular Bio&Biochem,Busch,146626,145837,9/1/1985,1,264
+Assoc Professor ACD YR,Sas-Dls-Kinesiology And Health,Douglass,120000,145702,5/19/2003,8,264
+Asst Professor ACD YR,Sas - Economics,College Av,132405,145665,9/1/2016,10,264
+Assoc Professor ACD YR,Sas - English,College Av,145882,145602,9/1/1984,1,265
+Professor ACD YR,Sc&I - Library & Info Science,College Av,133204,145347,9/1/2004,7,265
+Assoc Professor ACD YR,Sebs - Environmental Science,Cook,110375,145127,9/1/2006,7,266
+Assoc Professor ACD YR,School Of Social Work,College Av,118634,145011,9/1/2007,8,266
+Professor ACD YR,Sebs - Food Science,Cook,131899,144853,1/1/1989,3,267
+Professor ACD YR,Sas - Economics,College Av,122651,144581,9/1/1986,9,267
+Professor ACD YR,Bsppp-Ctr Urban Policy Rsrch,College Av,145168,144513,9/1/1974,1,268
+Professor ACD YR,Sebs-Plant Biology & Pathology,Cook,146867,144347,7/1/1981,7,268
+Professor ACD YR,Sas - Linguistics,College Av,131954,144185,9/1/1995,10,268
+Professor ACD YR,Cmbn,Newark,145357,143984,10/1/1989,1,269
+Professor ACD YR,Mgsa - Music,Douglass,135696,143801,9/1/1983,7,269
+Assoc Professor ACD YR,Sas-Dls-Kinesiology And Health,Douglass,113443,143758,9/1/2002,8,269
+Assoc Professor ACD YR,School Of Business - Cmd,Camden,130361,143726,9/1/1998,10,269
+Assoc Professor ACD YR,Engn - Elec & Computer Engn,Busch,113445,143467,9/1/2014,5,270
+Professor ACD YR,Sas - English,College Av,143618,143343,9/1/1987,9,270
+Professor ACD YR,Fasn - Arts Culture & Media,Newark,127164,143270,9/1/1994,1,271
+Professor ACD YR,Sas - Jewish Studies,College Av,139418,143224,9/1/2002,6,271
+Professor ACD YR,Fasn - Arts Culture & Media,Newark,144258,143128,7/1/2000,10,271
+Assoc Professor ACD YR,Sas-Dls-Molecular Bio&Biochem,Busch,133608,142981,1/1/1997,8,272
+Assoc Professor ACD YR,Engn - Chem & Biochem Engn,Busch,110370,142968,1/1/2010,9,272
+Assoc Professor ACD YR,Sas - Physics & Astronomy,Busch,119402,142932,7/1/2006,2,273
+Professor ACD YR,"Gse-Edu Theory, Policy & Admin",College Av,121944,142734,9/1/2008,5,273
+Assoc Professor ACD YR,Sas - Philosophy,College Av,159294,142722,9/1/2015,6,273
+Assoc Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,125042,142672,9/1/2005,7,273
+Professor ACD YR,Sas - Sociology,Douglass,127835,142578,1/1/1989,9,273
+Assoc Professor ACD YR,Sas - Statistics,Busch,143430,142471,7/1/2013,10,273
+Professor ACD YR,Sas - Sociology,Douglass,135266,142144,9/1/2001,6,274
+Professor ACD YR,Sebs - Nutritional Sciences,Cook,142202,141729,7/1/1990,2,275
+Professor ACD YR,Sas - Dls - Genetics,Busch,142643,141666,7/1/1970,6,275
+Professor ACD YR,Sas - Computer Science,Busch,143339,141665,9/1/1983,7,275
+Asst Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,108558,141643,1/1/2012,8,275
+Assoc Professor ACD YR,Sas - Psychology,Livingston,139394,141375,9/1/2005,4,276
+Professor ACD YR,Sas - Mathematics,Busch,127510,141370,9/1/2005,5,276
+Professor ACD YR,Engn - Elec & Computer Engn,Busch,141937,141370,1/1/1988,6,276
+Assoc Professor ACD YR,Sas - Africana Studies,Livingston,142935,141366,9/1/1993,7,276
+Professor ACD YR,Sas - Philosophy,College Av,129812,141293,7/1/1971,2,277
+Professor ACD YR,Sas - Art History,College Av,137751,141292,9/1/1997,3,277
+Professor ACD YR,Sas - English,College Av,142795,141276,9/1/1988,5,277
+Professor ACD YR,"Sebs-Eco,Evol& Natrl Resources",Cook,137260,141254,1/1/2004,7,277
+Assoc Professor ACD YR,Fasn-Sociology & Anthropology,Newark,121200,141216,9/1/2015,8,277
+Asst Professor ACD YR,Sas - Statistics,Busch,116001,140947,9/1/2016,3,278
+Professor ACD YR,Mgsa - Theater Arts,Douglass,142063,140924,9/1/1991,4,278
+Professor ACD YR,Fasn - Economics,Newark,134185,140905,9/1/2003,5,278
+Professor ACD YR,Sas - Physics & Astronomy,Busch,135104,140884,7/1/2003,6,278
+Assoc Professor ACD YR,Fasn - Biological Sciences,Newark,113845,140639,9/1/2010,9,279
+Professor ACD YR,"Sas-Afri,Mdle E&So Asn Lng&Lit",College Av,142439,140472,9/1/2006,4,280
+Asst Professor ACD YR,Cmbn,Newark,110988,140441,1/1/2014,5,280
+Assoc Professor ACD YR,Sas-Latino & Hispan Carib Stds,Livingston,127000,140370,9/1/2016,7,280
+Professor ACD YR,Fasc - Mathematics,Camden,141777,140337,7/1/1968,8,280
+Professor ACD YR,Sas - Philosophy,College Av,145000,140152,7/1/1971,6,281
+Professor ACD YR,Fasn - Arts Culture & Media,Newark,132609,139948,9/1/2002,2,282
+Professor ACD YR,Sas - Political Science,Douglass,140162,139894,7/1/1968,3,282
+Assoc Professor ACD YR,Smlr-Labor Studies & Empl Rels,Cook,141452,139732,9/1/2012,6,282
+Assoc Professor ACD YR,Sas - History,College Av,141032,139616,9/1/2004,3,283
+Asst Professor ACD YR,Sas - Economics,College Av,126897,139606,9/1/2015,4,283
+Professor ACD YR,Sas - Statistics,Busch,140091,139573,7/1/1964,6,283
+Asst Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,106096,139461,1/1/2016,8,283
+Professor ACD YR,Sas - Sociology,Douglass,156131,139418,9/1/2010,9,283
+Professor ACD YR,Sebs - Environmental Science,Cook,133709,139270,1/1/2004,2,284
+Asst Professor ACD YR,Sas - Dls - Genetics,Busch,105722,139251,1/1/2012,3,284
+Assoc Professor ACD YR,Sebs - Landscape Architecture,Cook,121869,139229,9/1/1988,4,284
+Professor ACD YR,Sas - Sociology,Douglass,140614,139089,9/1/1995,8,284
+Professor ACD YR,"Gse-Edu Theory, Policy & Admin",College Av,126281,138934,9/1/1996,2,285
+Professor ACD YR,Sas - Mathematics,Busch,139443,138927,9/1/1982,4,285
+Assoc Professor ACD YR,Fasn - Psychology,Newark,135577,138915,9/1/1998,5,285
+Professor ACD YR,Fasn-Sociology & Anthropology,Newark,139545,138779,9/1/1983,10,285
+Professor ACD YR,Sas - Economics,College Av,155110,138719,9/1/1978,4,286
+Professor ACD YR,Sas - Physics & Astronomy,Busch,132429,138600,9/1/2007,7,286
+Assoc Professor ACD YR,Sas-Latino & Hispan Carib Stds,Livingston,141534,138554,7/1/2010,8,286
+Professor ACD YR,Sebs-Marine & Coastal Sciences,Cook,118837,138517,7/1/2001,9,286
+Professor ACD YR,Sc&I - Library & Info Science,College Av,138659,138393,9/1/2003,6,287
+Assoc Professor ACD YR,Sas - Mathematics,Busch,116156,138377,9/1/2011,7,287
+Professor ACD YR,Engn - Biomedical Engineering,Busch,135514,138254,11/1/1989,10,287
+Assoc Professor ACD YR,Sas - Political Science,Douglass,139304,138181,7/1/1971,2,288
+Professor ACD YR,Sas - Psychology,Busch,138442,138177,9/1/1993,3,288
+Assoc Professor ACD YR,Sebs-Marine & Coastal Sciences,Cook,105409,138172,6/25/2002,4,288
+Assoc Professor ACD YR,Fasn - English,Newark,140416,138105,9/1/2011,6,288
+Assoc Professor ACD YR,Fasn - Political Science,Newark,115421,137932,9/1/2000,3,289
+Professor ACD YR,Sebs-Marine & Coastal Sciences,Cook,139287,137660,7/1/1994,10,289
+Professor ACD YR,Fasn-Sociology & Anthropology,Newark,138460,137548,9/1/1998,2,290
+Professor ACD YR,Engn - Industrial Engineering,Busch,139158,137526,9/1/1996,3,290
+Assoc Professor ACD YR,Sc&I - Communication,College Av,111054,137328,9/1/2011,7,290
+Professor ACD YR,Childhood Studies,Camden,138686,137299,9/1/2007,9,290
+Professor ACD YR,Fasn - Economics,Newark,139033,137228,9/1/1980,1,291
+Assoc Professor ACD YR,School Of Criminal Justice,Newark,117781,137222,1/1/2009,4,291
+Asst Professor ACD YR,Sas - Computer Science,Busch,114977,137056,9/1/2012,8,291
+Assoc Professor ACD YR,School Of Social Work,College Av,104910,137034,9/1/2001,9,291
+Asst Professor ACD YR,Sas - Dls - Genetics,Busch,103742,137005,1/1/2012,10,291
+Assoc Professor ACD YR,Sas - English,College Av,154001,136770,9/1/2005,3,293
+Professor ACD YR,Engn - Elec & Computer Engn,Off Campus,114127,136661,9/1/2002,7,293
+Assoc Professor ACD YR,Fasn - Chemistry,Newark,126864,136621,7/1/1987,8,293
+Asst Professor ACD YR,Smlr-Labor Studies & Empl Rels,Cook,138312,136564,9/1/2012,10,293
+Professor ACD YR,Engn-Civil & Environ Engn,Busch,137343,136413,1/1/1988,6,294
+Assoc Professor ACD YR,Gse - Learning & Teaching,College Av,91616,136410,9/1/2002,8,294
+Assoc Professor ACD YR,Sas - English,College Av,125260,136246,9/1/1994,6,295
+Assoc Professor ACD YR,Fasn - Biological Sciences,Newark,109474,136158,9/1/2010,8,295
+Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,138029,135896,9/1/1993,8,296
+Professor ACD YR,Sas - Women's & Gender Studies,Douglass,134771,135783,9/1/2004,2,297
+Professor ACD YR,"Sebs-Eco,Evol& Natrl Resources",Cook,129686,135642,8/1/1989,4,297
+Professor ACD YR,Engn - Chem & Biochem Engn,Busch,136215,135636,9/1/1984,5,297
+Assoc Professor ACD YR,Sas - Spanish & Portuguese,College Av,127323,135481,9/1/1991,4,298
+Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,135650,135390,9/1/1990,8,298
+Assoc Professor ACD YR,Sas - Chem & Chemical Biology,Busch,126095,135311,1/1/2003,10,298
+Asst Professor ACD YR,Fasn - Psychology,Newark,111621,135231,9/1/2012,2,299
+Professor ACD YR,Fasc - Computer Science,Camden,136157,135225,9/1/2000,3,299
+Professor ACD YR,"Gse-Edu Theory, Policy & Admin",College Av,121483,135222,9/1/2001,4,299
+Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,136082,135184,9/1/1983,5,299
+Asst Professor ACD YR,Sas-Dls-Molecular Bio&Biochem,Busch,102491,135085,9/1/2012,7,299
+Professor ACD YR,Sas - Chem & Chemical Biology,Busch,161126,134909,9/1/2001,2,300
+Asst Professor ACD YR,Sas - Physics & Astronomy,Busch,102282,134841,1/1/2015,7,300
+Assoc Professor ACD YR,Fasn - Arts Culture & Media,Newark,118942,134654,9/1/1997,9,301
+Professor ACD YR,Sebs-Plant Biology & Pathology,Cook,134761,134503,1/1/1977,9,302
+Professor ACD YR,Sas - Art History,College Av,135743,134487,9/1/2005,1,303
+Professor ACD YR,Sas - History,College Av,220000,134444,9/1/2017,4,303
+Asst Professor ACD YR,Engn - Elec & Computer Engn,Busch,104881,134336,1/1/2014,7,303
+Asst Professor ACD YR,Pharm-Pharmacology&Toxicology,Busch,101460,134196,9/1/2016,3,304
+Professor ACD YR,Engn - Elec & Computer Engn,Busch,134444,134187,1/1/1991,6,304
+Assoc Professor ACD YR,College Of Nursing,Newark,133357,134167,9/1/1999,9,304
+Professor ACD YR,School Of Criminal Justice,Newark,134414,134157,1/1/1996,10,304
+Assoc Professor ACD YR,Sas - Women's & Gender Studies,Douglass,125717,134126,9/1/1981,2,305
+Professor ACD YR,Engn - Biomedical Engineering,Busch,135232,134105,9/1/1983,3,305
+Professor ACD YR,Sas - Physics & Astronomy,Busch,134585,134078,7/1/1971,5,305
+Professor ACD YR,Sas - Chem & Chemical Biology,Busch,135552,133969,9/1/1977,7,305
+Assoc Professor ACD YR,Sebs - Landscape Architecture,Cook,125113,133952,9/1/1997,9,305
+Professor ACD YR,Fasn - English,Newark,134687,133930,9/1/1980,10,305
+Assoc Professor ACD YR,Sas- Asian Language & Cultures,College Av,123612,133889,9/1/2011,1,306
+Assoc Professor ACD YR,Sas - English,College Av,135875,133734,1/1/2008,10,306
+Professor ACD YR,Sebs - Environmental Science,Cook,128614,133724,9/1/1996,2,307
+Assoc Professor ACD YR,Sas-Dls-Molecular Bio&Biochem,Busch,115965,133616,9/1/2011,9,307
+Asst Professor ACD YR,Engn - Elec & Computer Engn,Busch,102230,133564,9/1/2014,5,308
+Professor ACD YR,Sas - History,College Av,127546,133558,9/1/2011,6,308
+Asst Professor ACD YR,Engn - Elec & Computer Engn,Busch,101242,133527,9/1/2011,7,308
+Assoc Professor ACD YR,Engn-Civil & Environ Engn,Busch,105428,133481,9/1/2011,8,308
+Professor ACD YR,Sebs - Entomology,Cook,117804,133438,3/1/2007,9,308
+Assoc Professor ACD YR,Engn - Biomedical Engineering,Busch,117252,133390,9/1/2011,10,308
+Asst Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,102755,133375,9/1/2014,1,309
+Professor ACD YR,Sc&I-Journalism & Media Stds,College Av,134880,133304,9/1/2004,3,309
+Professor ACD YR,"Sas-Afri,Mdle E&So Asn Lng&Lit",College Av,129410,133162,9/1/2000,7,309
+Professor ACD YR,Mgsa - Music,Douglass,134625,133052,7/1/1980,1,310
+Assoc Professor ACD YR,Sas - Dls - Genetics,Busch,126844,132975,9/1/2011,4,310
+Assoc Professor ACD YR,Sebs - Animal Science,Cook,115354,132964,9/1/2003,5,310
+Asst Professor ACD YR,Engn-Materials Science & Engn,Busch,102378,132936,1/1/2014,8,310
+Assoc Professor ACD YR,Sas - Physics & Astronomy,Busch,115346,132860,9/1/2011,10,310
+Professor ACD YR,Sc&I - Communication,College Av,134674,132779,9/1/2006,2,311
+Assoc Professor ACD YR,Pharm - Chemical Biology,Busch,133982,132739,9/1/2013,4,311
+Professor ACD YR,Sas - Spanish & Portuguese,College Av,134126,132625,9/1/1999,1,312
+Professor ACD YR,Sas - Spanish & Portuguese,College Av,134087,132436,9/1/1999,6,312
+Assoc Professor ACD YR,Fasn - Economics,Newark,128852,132421,9/1/2011,7,312
+Professor ACD YR,Sas - Mathematics,Busch,135147,132299,7/1/1994,5,313
+Professor ACD YR,Sas - Spanish & Portuguese,College Av,135136,132186,1/1/2001,8,313
+Assoc Professor ACD YR,Sebs - Nutritional Sciences,Cook,109506,131847,5/1/2012,6,314
+Asst Professor ACD YR,College Of Nursing,Newark,101891,131832,9/1/2010,7,314
+Professor ACD YR,Sebs - Biochem & Microbiology,Cook,133277,131826,9/1/1976,8,314
+Assoc Professor ACD YR,Sas - History,College Av,133155,131779,9/1/2008,10,314
+Professor ACD YR,Sas-Dls-Molecular Bio&Biochem,Busch,119926,131659,9/1/2001,8,315
+Professor ACD YR,Pharm - Chemical Biology,Busch,133379,131503,9/1/2003,7,316
+Professor ACD YR,Sas - Psychology,Busch,120279,131413,9/1/1975,1,317
+Assoc Professor ACD YR,Sas - Chem & Chemical Biology,Busch,119759,131405,9/1/1991,2,317
+Assoc Professor ACD YR,Fasn-Sociology & Anthropology,Newark,112507,131373,9/1/2001,3,317
+Asst Professor ACD YR,Sas - Physics & Astronomy,Busch,110009,131339,9/1/2013,7,317
+Professor ACD YR,Fasc - Philosophy & Religion,Camden,144444,131217,9/1/1978,4,318
+Assoc Professor ACD YR,Fasn - Arts Culture & Media,Newark,122026,131090,9/1/2003,10,318
+Professor ACD YR,Fasc - Psychology,Camden,131974,131070,9/1/1979,1,319
+Assoc Professor ACD YR,Sas - Economics,College Av,131286,131034,9/1/1999,2,319
+Assoc Professor ACD YR,Sas - Physics & Astronomy,Busch,114522,131018,9/1/2011,5,319
+Assoc Professor ACD YR,Sas - History,College Av,122827,130848,9/1/1983,9,319
+Professor ACD YR,Sas - Jewish Studies,College Av,107744,130681,9/1/2000,5,320
+Assoc Professor ACD YR,Gsapp - School Psychology,Busch,79213,130563,9/1/2011,10,320
+Professor ACD YR,Bsppp-Dean's Office,College Av,132434,130415,9/1/1982,4,321
+Assoc Professor ACD YR,School Public Affairs & Admin,Newark,118199,130393,9/1/2016,5,321
+Professor ACD YR,Fasc - Chemistry,Camden,115750,130228,9/1/1989,3,322
+Asst Professor ACD YR,School Of Business - Cmd,Camden,129953,130204,9/1/2012,4,322
+Asst Professor ACD YR,School Of Business - Cmd,Camden,129953,130204,9/1/2012,5,322
+Professor ACD YR,Sas - Mathematics,Busch,106315,129926,9/1/2000,2,323
+Asst Professor ACD YR,Sas - Dls - Genetics,Busch,97989,129874,1/1/2016,6,323
+Asst Professor ACD YR,Sas - Computer Science,Busch,119095,129751,9/1/2015,1,324
+Professor ACD YR,Sas - History,College Av,131396,129650,9/1/1999,6,324
+Professor ACD YR,"Sebs-Eco,Evol& Natrl Resources",Cook,133989,129498,8/1/2001,7,325
+Assoc Professor ACD YR,Sebs - Biochem & Microbiology,Cook,99092,129496,9/1/2010,8,325
+Assoc Professor ACD YR,Fasn - Biological Sciences,Newark,130701,129340,1/1/2004,2,326
+Professor ACD YR,Fasc - Psychology,Camden,117070,129297,9/1/2002,3,326
+Assoc Professor ACD YR,Sas - Chem & Chemical Biology,Busch,118654,129294,9/1/1991,4,326
+Assoc Professor ACD YR,Fasn - Biological Sciences,Newark,103942,129237,9/1/2010,6,326
+Professor ACD YR,Fasn - Philosophy,Newark,130778,129156,9/1/2004,7,326
+Professor ACD YR,Sas - History,College Av,130513,129142,9/1/1992,8,326
+Professor ACD YR,Fasn - Psychology,Newark,120230,129128,9/1/1999,9,326
+Professor ACD YR,Sebs-Marine & Coastal Sciences,Cook,144400,129056,9/1/1975,4,327
+Professor ACD YR,Sebs - Nutritional Sciences,Cook,130580,129054,9/1/1999,5,327
+Professor ACD YR,Sas - History,College Av,129531,129033,9/1/1988,7,327
+Assoc Professor ACD YR,School Of Business - Cmd,Camden,144469,128925,9/1/1997,4,328
+Assoc Professor ACD YR,Sas - Geography,Livingston,111642,128766,9/1/2012,4,329
+Professor ACD YR,Fasc - Computer Science,Camden,130225,128704,7/20/2001,9,329
+Assoc Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,117565,128615,9/1/2012,4,330
+Professor ACD YR,Fasc - Mathematics,Camden,130491,128498,9/1/1996,9,330
+Professor ACD YR,Sas-Dls-Molecular Bio&Biochem,Busch,129060,128493,7/1/1970,1,331
+Assoc Professor ACD YR,Sc&I - Communication,College Av,106298,128374,9/1/2001,8,331
+Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,129388,128342,1/1/1984,9,331
+Asst Professor ACD YR,Engn-Civil & Environ Engn,Busch,97619,128264,9/1/2012,3,332
+Assoc Professor ACD YR,School Of Social Work,College Av,104812,127921,9/1/2005,7,333
+Asst Professor ACD YR,Sas - Computer Science,Livingston,116096,127918,9/1/2015,9,333
+Professor ACD YR,Sas - Psychology,Busch,129724,127841,9/1/2001,6,334
+Assoc Professor ACD YR,Fasn - Economics,Newark,121893,127806,9/1/2010,8,334
+Asst Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,106667,127723,1/1/2013,10,334
+Professor ACD YR,Sas - Sociology,Douglass,122708,127711,1/1/1999,1,335
+Professor ACD YR,Sas - American Studies,Douglass,128908,127663,9/1/1973,2,335
+Professor ACD YR,Sas - Linguistics,College Av,127590,127346,9/1/1988,7,336
+Asst Professor ACD YR,Engn - Elec & Computer Engn,Busch,98663,127248,9/1/2015,2,337
+Professor ACD YR,Sc&I - Communication,College Av,135040,127175,1/1/2000,5,337
+Asst Professor ACD YR,Sas - Psychology,Busch,93317,127138,1/1/2015,7,337
+Professor ACD YR,Fasn - Biological Sciences,Newark,121864,127079,9/1/1983,2,338
+Assoc Professor ACD YR,Sebs - Animal Science,Cook,100285,126928,9/1/2010,8,338
+Professor ACD YR,Mgsa - Music,Douglass,127141,126897,9/1/1984,9,338
+Asst Professor ACD YR,Sas - Computer Science,Busch,114380,126870,9/1/2015,3,339
+Assoc Professor ACD YR,School Of Social Work,College Av,101789,126697,9/1/2004,4,340
+Assoc Professor ACD YR,Sebs - Human Ecology,Cook,128347,126694,7/1/2011,5,340
+Professor ACD YR,Sas - Women's & Gender Studies,Douglass,124214,126596,9/1/1988,4,341
+Assoc Professor ACD YR,Sas - Psychology,Busch,127628,126566,9/1/2007,6,341
+Professor ACD YR,Sebs - Nutritional Sciences,Cook,113965,126547,1/1/2009,10,341
+Assoc Professor ACD YR,School Of Business - Cmd,Camden,126767,126525,9/1/1988,1,342
+Professor ACD YR,Fasn - Physics,Newark,127696,126490,9/1/1989,3,342
+Professor ACD YR,Fasc - Mathematics,Camden,109322,126457,9/1/1987,4,342
+Professor ACD YR,Fasn - Urban Education,Newark,127973,126356,7/1/2005,7,342
+Asst Professor ACD YR,Engn-Civil & Environ Engn,Busch,97326,126271,9/1/2014,5,343
+Asst Professor ACD YR,Cmbn,Newark,96198,126251,9/1/2016,7,343
+Professor ACD YR,Sebs-Dept Marine & Coastal Sci,Cook,151848,126249,9/1/2013,8,343
+Asst Professor ACD YR,Sas - Psychology,Busch,96706,126147,9/1/2015,3,344
+Assoc Professor ACD YR,Fasn - Economics,Newark,123676,125819,9/1/2008,2,346
+Professor ACD YR,Sebs - Environmental Science,Cook,127287,125750,11/22/1999,8,346
+Assoc Professor ACD YR,Sas - History,College Av,114411,125703,7/1/1971,10,346
+Assoc Professor ACD YR,Engn - Chem & Biochem Engn,Busch,114244,125685,7/1/2001,2,347
+Assoc Professor ACD YR,Center Of Alcohol Studies,Busch,104146,125596,9/1/2006,8,347
+Assoc Professor ACD YR,Fasn - Psychology,Newark,109203,125581,1/1/2011,9,347
+Assoc Professor ACD YR,Sas - Psychology,Livingston,102850,125509,9/1/1987,1,348
+Assoc Professor ACD YR,Fasn-Math & Computer Science,Newark,105095,125438,9/1/2010,4,348
+Assoc Professor ACD YR,School Of Business - Cmd,Camden,126714,125377,7/1/1991,7,348
+Asst Professor ACD YR,Rbs - Finance & Economics,Newark,205000,125278,9/1/2017,5,349
+Assoc Professor ACD YR,Engn-Civil & Environ Engn,Busch,119131,125265,1/1/2000,6,349
+Professor ACD YR,Fasn - History,Newark,126284,125145,9/1/2007,2,350
+Professor ACD YR,Sas - Physics & Astronomy,Busch,126337,125099,9/1/1977,3,350
+Professor ACD YR,Sas - Mathematics,Busch,126634,125082,9/1/1995,4,350
+Professor ACD YR,Sc&I - Communication,College Av,126942,125067,9/1/1987,5,350
+Assoc Professor ACD YR,Fasn-Earth & Environmental Sci,Newark,101965,125044,12/4/2006,7,350
+Asst Professor ACD YR,College Of Nursing,Newark,97516,125027,9/1/2013,10,350
+Assoc Professor ACD YR,Gsapp - School Psychology,Busch,98710,125009,9/1/2013,1,351
+Assoc Professor ACD YR,Engn-Civil & Environ Engn,Busch,125220,124980,9/1/1995,4,351
+Asst Professor ACD YR,Engn-Civil & Environ Engn,Busch,95246,124880,2/25/2014,9,351
+Professor ACD YR,Sas - History,College Av,127576,124841,9/1/2010,1,352
+Assoc Professor ACD YR,Sas - Jewish Studies,College Av,120034,124773,9/1/1998,3,352
+Asst Professor ACD YR,Engn - Biomedical Engineering,Busch,98008,124692,9/1/2015,8,352
+Asst Professor ACD YR,Sas-Dls-Ctr Collab Neurosci,Busch,104201,124667,9/1/2011,10,352
+Professor ACD YR,Sas-Earth & Planetary Sciences,Busch,125777,124610,1/1/2000,4,353
+Assoc Professor ACD YR,Sas - History,College Av,126076,124589,9/1/1992,7,353
+Professor ACD YR,Sas - Economics,College Av,125462,124450,9/1/1975,2,354
+Assoc Professor ACD YR,Pharm - Medicinal Chemistry,Busch,125934,124387,1/1/1988,9,354
+Professor ACD YR,Fasn - Political Science,Newark,125723,124368,1/1/1999,1,355
+Assoc Professor ACD YR,Engn - Biomedical Engineering,Busch,112000,124229,1/1/2017,6,355
+Asst Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,94052,123919,9/1/2015,4,357
+Assoc Professor ACD YR,Sas - Geography,Livingston,110761,123853,1/1/2001,7,357
+Professor ACD YR,Sas - Mathematics,Busch,139525,123740,9/1/1999,1,358
+Professor ACD YR,Fasc - History,Camden,125641,123577,9/1/2010,4,358
+Assoc Professor ACD YR,Sas-Dls-Molecular Bio&Biochem,Busch,112124,123433,9/1/1992,8,358
+Assoc Professor ACD YR,Sas - Classics,College Av,105115,123406,9/1/2008,9,358
+Assoc Professor ACD YR,Fasn-Math & Computer Science,Newark,110404,123326,9/1/1978,4,359
+Professor ACD YR,Sas - Physics & Astronomy,Busch,132042,123274,9/1/2006,9,359
+Assoc Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,125509,123158,9/1/2008,3,360
+Professor ACD YR,Sebs - Environmental Science,Cook,119722,123109,12/1/1998,4,360
+Asst Professor ACD YR,Sas-Earth & Planetary Sciences,Busch,99613,123099,1/1/2016,6,360
+Assoc Professor ACD YR,Fasc - Psychology,Camden,88544,123076,9/1/2009,8,360
+Asst Professor ACD YR,Sas - Psychology,Busch,99289,123073,9/1/2012,9,360
+Assoc Professor ACD YR,Engn-Materials Science & Engn,Busch,109941,122961,9/1/2009,10,360
+Professor ACD YR,Sas - Linguistics,College Av,110482,122905,9/1/1989,3,361
+Assoc Professor ACD YR,Sas - Sociology,Douglass,124400,122902,7/1/1980,4,361
+Asst Professor ACD YR,Waksman Inst Of Microbiology,Busch,101591,122835,1/1/2012,10,361
+Assoc Professor ACD YR,Engn - Biomedical Engineering,Busch,112927,122720,1/1/2009,3,362
+Assoc Professor ACD YR,Sas - English,College Av,130748,122654,9/1/2013,5,362
+Professor ACD YR,Sas - Linguistics,College Av,131590,122473,1/1/1990,9,362
+Professor ACD YR,Fasn-Math & Computer Science,Newark,136293,122455,9/1/1988,1,363
+Professor ACD YR,Sas - Chem & Chemical Biology,Busch,123324,122420,9/1/1979,2,363
+Professor ACD YR,Fasn - Chemistry,Newark,128928,122416,9/1/2002,3,363
+Asst Professor ACD YR,Sas - Chem & Chemical Biology,Busch,101870,122396,1/1/2016,5,363
+Professor ACD YR,Sas-Earth & Planetary Sciences,Busch,110565,122365,9/1/2002,6,363
+Professor ACD YR,Sas - Women's & Gender Studies,Douglass,128000,122344,9/1/2000,9,363
+Professor ACD YR,Sas - French,College Av,99197,122274,9/1/1986,5,365
+Professor ACD YR,Sas - Anthropology,Douglass,129301,122260,9/1/1999,6,365
+Professor ACD YR,Sas-Earth & Planetary Sciences,Busch,117231,122140,2/1/1999,2,366
+Professor ACD YR,Sas - Physics & Astronomy,Busch,123262,122105,1/1/1988,6,366
+Assoc Professor ACD YR,Sas - Economics,College Av,126195,122100,1/1/2003,7,366
+Assoc Professor ACD YR,Sebs - Biochem & Microbiology,Cook,106334,122080,9/1/1977,9,366
+Professor ACD YR,Sas - Women's & Gender Studies,Douglass,123317,121876,9/1/1988,7,367
+Assoc Professor ACD YR,Engn - Elec & Computer Engn,Busch,114931,121875,9/1/2011,8,367
+Professor ACD YR,Fasn - Arts Culture & Media,Newark,134418,121760,9/1/1986,6,368
+Professor ACD YR,Engn - Biomedical Engineering,Busch,121819,121586,9/1/1978,4,369
+Professor ACD YR,"Sebs-Eco,Evol& Natrl Resources",Cook,122716,121485,7/1/1981,10,369
+Assoc Professor ACD YR,Sas - Women's & Gender Studies,Douglass,125000,121027,9/1/2007,6,372
+Assoc Professor ACD YR,Sas - English,College Av,121742,121011,9/1/1989,9,372
+Asst Professor ACD YR,Sas - Physics & Astronomy,Busch,101289,121002,9/1/2013,10,372
+Assoc Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,107360,120991,1/1/1987,2,373
+Assoc Professor ACD YR,School Of Social Work,College Av,109000,120902,9/1/2016,7,373
+Professor ACD YR,Sebs - Nutritional Sciences,Cook,117439,120741,1/1/1990,4,374
+Assoc Professor ACD YR,Sebs - Animal Science,Cook,95304,120624,9/1/2009,4,375
+Assoc Professor ACD YR,Gsapp - School Psychology,Busch,97084,120611,1/1/2010,5,375
+Assoc Professor ACD YR,Sebs - Food Science,Cook,100183,120587,1/1/2005,6,375
+Assoc Professor ACD YR,School Of Social Work,Camden,95945,120568,9/1/2004,8,375
+Assoc Professor ACD YR,Sas - English,College Av,118289,120563,9/1/1980,9,375
+Professor ACD YR,Sas - Economics,College Av,240817,120409,7/1/2004,4,376
+Professor ACD YR,"Sas-Germn,Russ&E Euro Lang&Lit",College Av,126441,120382,9/1/2006,5,376
+Professor ACD YR,Sas - Psychology,Livingston,110304,120366,7/1/1972,6,376
+Professor ACD YR,Sas - Psychology,Livingston,120499,120268,9/1/1974,1,377
+Professor ACD YR,Fasc - Sociology,Camden,99175,120203,9/1/2002,3,377
+Asst Professor ACD YR,Sas - Chem & Chemical Biology,Busch,99910,120148,9/1/2016,7,377
+Assoc Professor ACD YR,Sebs-Agricultural Econ & Mktg,Cook,104600,119962,9/20/2011,6,378
+Professor ACD YR,Sas - Criminal Justice,Livingston,121081,119958,9/1/1993,7,378
+Assoc Professor ACD YR,Pharm-Pharmacy Practice&Admin,Busch,112944,119956,7/23/1990,8,378
+Professor ACD YR,Gse - Education Psychology,College Av,120101,119871,7/1/1973,1,379
+Asst Professor ACD YR,School Public Affairs & Admin,Newark,99611,119829,9/1/2014,5,379
+Professor ACD YR,Gse - Learning & Teaching,College Av,117370,119808,9/1/2003,7,379
+Assoc Professor ACD YR,Sas - English,College Av,121680,119703,9/1/2005,6,380
+Asst Professor ACD YR,Engn - Elec & Computer Engn,Busch,99907,119702,9/1/2012,7,380
+Professor ACD YR,Sas - French,College Av,121083,119669,9/1/1978,1,381
+Assoc Professor ACD YR,Fasc - Computer Science,Camden,119003,119630,9/1/1998,4,381
+Professor ACD YR,Sas-Latino & Hispan Carib Stds,Livingston,200100,119606,9/1/2008,5,381
+Assoc Professor ACD YR,Sas - History,College Av,121907,119565,9/1/2001,7,381
+Professor ACD YR,Sas - Mathematics,Busch,121329,119547,9/1/2007,10,381
+Professor ACD YR,Sas - Religion,Douglass,120266,119538,9/1/2001,1,382
+Assoc Professor ACD YR,Fasn - Arts Culture & Media,Newark,97391,119450,9/1/2001,6,382
+Assoc Professor ACD YR,Sas - Women's & Gender Studies,Douglass,114835,119167,9/1/2001,1,384
+Professor ACD YR,Fasn - Political Science,Newark,132607,119143,9/1/1980,5,384
+Assoc Professor ACD YR,Sebs-Plant Biology & Pathology,Cook,107864,119116,1/1/2009,6,384
+Professor ACD YR,Sas - Chem & Chemical Biology,Busch,106689,119047,9/1/1980,10,384
+Assoc Professor ACD YR,Sebs - Landscape Architecture,Cook,120315,118932,9/1/2016,4,385
+Assoc Professor ACD YR,Sas-Dls-Molecular Bio&Biochem,Busch,120263,118916,9/1/1988,5,385
+Assoc Professor ACD YR,Sas - Mathematics,Busch,116550,118908,9/1/2012,6,385
+Professor ACD YR,Sas - Italian,College Av,111828,118868,9/1/1996,9,385
+Professor ACD YR,Sas - Anthropology,Douglass,120445,118797,1/1/2000,1,386
+Asst Professor ACD YR,Cmbn,Newark,98195,118733,9/1/2015,5,386
+Assoc Professor ACD YR,Fasc - Biology,Camden,94915,118603,9/1/2009,1,387
+Asst Professor ACD YR,Sas - Computer Science,Busch,108242,118573,9/1/2012,2,387
+Assoc Professor ACD YR,Sebs - Biochem & Microbiology,Cook,108416,118486,9/1/2000,4,387
+Professor ACD YR,Bsppp-Dean's Office,College Av,120117,118428,6/4/1999,7,387
+Asst Professor ACD YR,Sas - Chem & Chemical Biology,Busch,97000,118372,1/1/2017,1,388
+Asst Professor ACD YR,Sas - Dls - Genetics,Busch,97000,118370,9/1/2016,2,388
+Assoc Professor ACD YR,Sas - Africana Studies,Livingston,119677,118351,9/1/1992,3,388
+Professor ACD YR,Sas - French,College Av,114529,118072,9/1/1987,6,389
+Professor ACD YR,Sas - Anthropology,Douglass,118693,118049,9/1/1977,9,389
+Assoc Professor ACD YR,School Public Affairs & Admin,Newark,103915,117701,9/1/2007,8,391
+Asst Professor ACD YR,Sebs-Dept Marine & Coastal Sci,Cook,89627,117613,2/1/2010,5,392
+Assoc Professor ACD YR,Sas - English,College Av,113783,117602,9/1/2009,7,392
+Assoc Professor ACD YR,Fasn-Math & Computer Science,Newark,117937,117322,9/1/1986,8,394
+Assoc Professor ACD YR,Sas - Psychology,Livingston,116567,117288,6/30/2011,9,394
+Assoc Professor ACD YR,Camden School Of Nursing,Camden,110507,117264,9/1/2008,2,395
+Assoc Professor ACD YR,Sebs-Agricultural Econ & Mktg,Cook,113958,117263,9/1/2002,3,395
+Assoc Professor ACD YR,Engn - Chem & Biochem Engn,Busch,118315,117213,9/1/2008,10,395
+Professor ACD YR,Sas-Earth & Planetary Sciences,Busch,118568,117183,9/1/1980,5,396
+Asst Professor ACD YR,Sebs - Animal Science,Cook,97258,116821,9/1/2011,10,397
+Assoc Professor ACD YR,Gse - Education Psychology,College Av,102295,116731,9/1/2006,9,398
+Assoc Professor ACD YR,Sas - Spanish & Portuguese,College Av,116814,116590,9/1/1984,10,399
+Assoc Professor ACD YR,Sas-Latino & Hispan Carib Stds,Livingston,111195,116589,9/1/2009,1,400
+Professor ACD YR,Fasn - Arts Culture & Media,Newark,103514,116405,9/1/1998,5,401
+Professor ACD YR,Gse - Education Psychology,College Av,117417,116395,9/1/2010,7,401
+Assoc Professor ACD YR,Sas-Dls-Kinesiology And Health,Douglass,99419,116386,9/1/2009,10,401
+Assoc Professor ACD YR,Gse - Learning & Teaching,College Av,88085,116341,9/1/1978,3,402
+Professor ACD YR,Bsppp-Dean's Office,College Av,122953,116328,9/1/2007,9,402
+Professor ACD YR,Bsppp-Dean's Office,College Av,114057,116288,9/1/1983,10,402
+Professor ACD YR,Fasn - English,Newark,117816,116096,9/1/1976,5,403
+Professor ACD YR,Mgsa - Visual Arts,College Av,117381,116009,9/1/2005,8,403
+Asst Professor ACD YR,Sebs-Dept Marine & Coastal Sci,Off Campus,98201,115989,9/15/2010,10,403
+Assoc Professor ACD YR,School Of Social Work,College Av,99324,115959,1/22/2002,1,404
+Assoc Professor ACD YR,Pharm-Pharmacy Practice&Admin,Busch,114500,115721,7/1/2006,9,404
+Assoc Professor ACD YR,Sas - English,College Av,117371,115652,9/1/1999,6,405
+Assoc Professor ACD YR,Sas-Latino & Hispan Carib Stds,Livingston,116691,115611,9/1/2011,10,405
+Professor ACD YR,Fasn-Math & Computer Science,Newark,129872,115597,9/1/1996,1,406
+Assoc Professor ACD YR,Fasn-Earth & Environmental Sci,Newark,95795,115579,9/1/2009,3,406
+Assoc Professor ACD YR,School Of Criminal Justice,Newark,130109,115536,9/1/2011,8,406
+Assoc Professor ACD YR,Waksman Inst Of Microbiology,Busch,111208,115515,9/1/2011,1,407
+Professor ACD YR,Sas - French,College Av,111909,115445,9/1/1981,6,407
+Professor ACD YR,Sas - Sociology,Douglass,129271,115401,9/1/1988,10,407
+Professor ACD YR,Sebs - Food Science,Cook,116918,115357,9/1/2002,4,408
+Professor ACD YR,Sas - Italian,College Av,128369,115339,9/1/1974,5,408
+Professor ACD YR,Sas - Mathematics,Busch,103100,115243,9/1/1993,1,409
+Assoc Professor ACD YR,Sas - American Studies,Douglass,116556,115239,9/1/1977,2,409
+Asst Professor ACD YR,School Of Social Work,College Av,86828,115083,9/1/2016,3,410
+Asst Professor ACD YR,Sas - Psychology,Busch,97551,114916,1/1/2014,3,411
+Asst Professor ACD YR,Sas-Dls-Molecular Bio&Biochem,Busch,104712,114743,9/1/2012,9,411
+Assoc Professor ACD YR,Gse - Learning & Teaching,College Av,96328,114647,9/1/2005,3,412
+Assoc Professor ACD YR,Sas - Africana Studies,Livingston,113793,114607,9/1/2010,4,412
+Asst Professor ACD YR,Sebs - Nutritional Sciences,Cook,87125,114469,9/1/2016,2,413
+Professor ACD YR,Sas - Italian,College Av,112661,114389,9/1/1986,10,413
+Asst Professor ACD YR,Fasn - Psychology,Newark,98759,114301,9/1/2013,3,414
+Professor ACD YR,Sas - History,College Av,128379,114249,9/1/1991,5,414
+Asst Professor ACD YR,Engn - Industrial Engineering,Busch,94158,114205,9/1/2011,1,415
+Assoc Professor ACD YR,Lab For Surface Modification,Busch,115525,114175,9/1/1995,2,415
+Assoc Professor ACD YR,Sas - Spanish & Portuguese,College Av,103346,114089,9/1/1993,10,415
+Assoc Professor ACD YR,Sebs-Agricultural Econ & Mktg,Cook,115759,114043,9/1/2008,5,416
+Assoc Professor ACD YR,Fasn - History,Newark,105036,113840,9/1/2004,3,418
+Assoc Professor ACD YR,Fasn - Psychology,Newark,115149,113721,1/1/2009,9,418
+Asst Professor ACD YR,School Of Criminal Justice,Newark,95836,113459,9/1/2015,2,420
+Assoc Professor ACD YR,Sas - English,College Av,114136,113419,7/1/1971,6,420
+Asst Professor ACD YR,Sas - Mathematics,Busch,96663,113378,9/1/2012,8,420
+Assoc Professor ACD YR,Sas - English,College Av,130000,113336,9/1/2006,2,421
+Professor ACD YR,Mgsa - Theater Arts,Douglass,112415,113306,9/1/1977,3,421
+Assoc Professor ACD YR,Fasc - Psychology,Camden,92170,113170,9/1/2011,8,421
+Assoc Professor ACD YR,School Public Affairs & Admin,Newark,95918,113161,9/1/2010,9,421
+Assoc Professor ACD YR,Sas - Classics,College Av,106400,113160,9/1/2007,10,421
+Assoc Professor ACD YR,Engn - Industrial Engineering,Busch,112512,113160,9/1/1988,1,422
+Assoc Professor ACD YR,Engn - Biomedical Engineering,Busch,112199,112803,9/1/2011,3,424
+Asst Professor ACD YR,Sas-Earth & Planetary Sciences,Busch,103374,112674,9/1/2013,1,425
+Professor ACD YR,Sas - English,College Av,112860,112643,9/1/1998,5,425
+Professor ACD YR,Sebs - Food Science,Cook,114131,112608,3/9/1998,10,425
+Professor ACD YR,Sas - Art History,College Av,120115,112454,9/1/2006,1,427
+Assoc Professor ACD YR,Sas - History,College Av,114334,112372,9/1/2003,4,427
+Assoc Professor ACD YR,Mgsa - Visual Arts,College Av,97562,112361,9/1/2009,5,427
+Assoc Professor ACD YR,Fasn-African-Amer&African Stds,Newark,112424,112208,9/1/1983,7,428
+Assoc Professor ACD YR,Sas - History,College Av,113478,112140,9/1/2011,5,429
+Professor ACD YR,Sas - Art History,College Av,112233,112018,9/1/1988,7,429
+Assoc Professor ACD YR,Fasc - Biology,Camden,89675,111606,9/1/2008,7,431
+Assoc Professor ACD YR,Sas - Mathematics,Busch,112012,111548,9/1/1983,9,431
+Asst Professor ACD YR,"Sebs-Eco,Evol& Natrl Resources",Cook,84775,111450,10/22/2012,4,432
+Professor ACD YR,Sas - Art History,College Av,99228,111394,9/1/1984,10,432
+Assoc Professor ACD YR,Sebs - Nutritional Sciences,Cook,111960,111365,9/1/2003,2,433
+Assoc Professor ACD YR,Sebs-Agricultural Econ & Mktg,Cook,104055,111342,6/27/1997,3,433
+Professor ACD YR,Fasc - Fine Arts,Camden,112570,111320,9/1/2000,5,433
+Assoc Professor ACD YR,Sas - Art History,College Av,113279,111318,9/1/1999,6,433
+Professor ACD YR,Fasn-Math & Computer Science,Newark,112401,111296,9/1/2003,7,433
+Asst Professor ACD YR,Engn - Chem & Biochem Engn,Busch,92684,111266,9/1/2015,1,434
+Assoc Professor ACD YR,Rbs - Finance & Economics,Newark,111477,111264,9/1/1994,2,434
+Asst Professor ACD YR,School Of Social Work,College Av,87629,111215,9/1/2015,6,434
+Assoc Professor ACD YR,Sas - Sociology,College Av,111388,111175,9/1/1986,8,434
+Assoc Professor ACD YR,School Public Affairs & Admin,Newark,99476,111059,9/1/2003,1,436
+Assoc Professor ACD YR,Sebs-Plant Biology & Pathology,Cook,112760,111051,5/1/1991,2,436
+Assoc Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,113113,110904,9/1/1998,2,437
+Assoc Professor ACD YR,Camden School Of Nursing,Camden,113748,110832,9/1/2005,8,437
+Asst Professor ACD YR,School Public Affairs & Admin,Newark,90840,110776,1/1/2016,8,438
+Asst Professor ACD YR,School Of Criminal Justice,Newark,95740,110617,9/1/2015,10,439
+Professor ACD YR,Fasc - Fine Arts,Camden,117042,110483,9/1/2004,5,440
+Asst Professor ACD YR,Mgsa - Music,Douglass,104168,110421,9/1/2015,1,441
+Assoc Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,90868,110418,9/1/2008,2,441
+Asst Professor ACD YR,Camden School Of Nursing,Camden,94892,110418,9/1/2013,3,441
+Assoc Professor ACD YR,Fasc - Biology,Camden,109720,110415,9/1/1992,4,441
+Assoc Professor ACD YR,Sebs - Human Ecology,Cook,112224,110381,9/1/2011,2,442
+Assoc Professor ACD YR,Sas - History,College Av,112488,110280,9/1/2011,8,442
+Assoc Professor ACD YR,Camden School Of Nursing,Camden,111200,110268,9/1/2009,2,443
+Assoc Professor ACD YR,"Sas-Germn,Russ&E Euro Lang&Lit",College Av,106653,110245,9/1/1997,5,443
+Assoc Professor ACD YR,Fasn-Sociology & Anthropology,Newark,108896,110040,9/1/1996,8,444
+Assoc Professor ACD YR,School Of Criminal Justice,Newark,99629,110037,9/1/2003,9,444
+Assoc Professor ACD YR,School Of Social Work,College Av,106002,110026,1/1/1999,10,444
+Asst Professor ACD YR,Fasn - Biological Sciences,Newark,92186,110023,9/1/2012,1,445
+Professor ACD YR,Sas - History,College Av,220000,110000,9/1/2017,4,445
+Asst Professor ACD YR,Rbs - Finance & Economics,Livingston,220000,110000,9/1/2017,5,445
+Assoc Professor ACD YR,Fasc - Fine Arts,Camden,99616,109934,9/1/2011,10,445
+Assoc Professor ACD YR,Fasn - English,Newark,110000,109789,9/1/2008,5,446
+Assoc Professor ACD YR,Sas-Latino & Hispan Carib Stds,Livingston,101939,109772,9/11/2007,6,446
+Asst Professor ACD YR,Fasn - Biological Sciences,Newark,91254,109751,1/1/2013,8,446
+Assoc Professor ACD YR,Sas - Italian,College Av,103690,109703,9/1/2007,1,447
+Assoc Professor ACD YR,Sebs - Food Science,Cook,110947,109651,10/24/1988,5,447
+Assoc Professor ACD YR,Sas - English,College Av,110747,109591,9/1/1998,10,447
+Assoc Professor ACD YR,Fasn - English,Newark,109938,109581,9/1/1978,2,448
+Professor ACD YR,Bsppp-Dean's Office,College Av,110114,109566,2/1/1973,4,448
+Assoc Professor ACD YR,School Of Social Work,College Av,94817,109536,9/1/2009,6,448
+Assoc Professor ACD YR,Sas - History,College Av,106963,109517,9/1/2012,7,448
+Assoc Professor ACD YR,"Sebs-Eco,Evol& Natrl Resources",Cook,110683,109475,9/1/2002,1,449
+Assoc Professor ACD YR,Sas - Spanish & Portuguese,College Av,103670,109467,9/1/2012,3,449
+Assoc Professor ACD YR,Sas-Latino & Hispan Carib Stds,Livingston,111057,109450,9/1/2007,4,449
+Assoc Professor ACD YR,Sas - Art History,College Av,101352,109371,9/1/2007,10,449
+Assoc Professor ACD YR,Sebs-Plant Biology & Pathology,Cook,110677,109301,10/1/1990,6,450
+Assoc Professor ACD YR,Fasn - Economics,Newark,110009,109300,9/1/2009,7,450
+Assoc Professor ACD YR,Fasn-Math & Computer Science,Newark,109870,109271,9/1/1980,1,451
+Assoc Professor ACD YR,Sc&I - Library & Info Science,College Av,105928,109238,9/1/2000,2,451
+Asst Professor ACD YR,Sas - Statistics,Busch,114476,109076,7/1/2013,2,452
+Professor ACD YR,Bsppp-Dean's Office,College Av,109674,108923,9/1/1983,8,452
+Professor ACD YR,Fasc - Computer Science,Camden,122427,108769,9/1/2010,9,453
+Assoc Professor ACD YR,Engn - Elec & Computer Engn,Busch,108961,108752,9/1/1982,1,454
+Assoc Professor ACD YR,Sas- Asian Language & Cultures,College Av,98417,108700,9/1/2008,4,454
+Professor ACD YR,Sas - Mathematics,Busch,101535,108508,9/1/2010,4,455
+Assoc Professor ACD YR,Fasc - Chemistry,Camden,95406,108486,7/15/1999,7,455
+Professor ACD YR,Sas-Earth & Planetary Sciences,Busch,109488,108473,9/1/1990,9,455
+Professor ACD YR,Mgsa - Music,Douglass,107728,108470,9/1/1990,10,455
+Asst Professor ACD YR,Sc&I - Library & Info Science,College Av,100703,108459,9/1/2014,2,456
+Asst Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,101035,108375,9/1/2012,10,456
+Assoc Professor ACD YR,Sas - Spanish & Portuguese,College Av,98822,108292,9/1/2008,9,457
+Asst Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,100678,108290,1/1/2014,10,457
+Asst Professor ACD YR,Engn - Elec & Computer Engn,Busch,97997,108210,9/1/2015,5,458
+Assoc Professor ACD YR,Sas - Spanish & Portuguese,College Av,109460,108205,9/1/1999,8,458
+Asst Professor ACD YR,Fasn - Arts Culture & Media,Newark,85232,107978,9/1/2014,6,460
+Assoc Professor ACD YR,Sebs - Human Ecology,Cook,93979,107927,1/1/2009,10,460
+Professor ACD YR,Sas - Mathematics,Busch,108125,107918,9/1/1978,1,461
+Asst Professor ACD YR,Cmbn,Newark,98195,107822,3/1/2006,2,462
+Assoc Professor ACD YR,Fasn - Social Work,Newark,101507,107802,9/1/2002,4,462
+Professor ACD YR,Fasc - Sociology,Camden,108228,107495,9/1/1988,6,464
+Professor ACD YR,Center Of Alcohol Studies,Busch,195000,107385,9/1/2017,7,465
+Assoc Professor ACD YR,Fasn - English,Newark,114939,107278,9/1/2011,5,466
+Assoc Professor ACD YR,Fasn-Earth & Environmental Sci,Newark,102450,107231,9/1/2014,8,466
+Assoc Professor ACD YR,Sas - History,College Av,107417,107212,9/1/1975,9,466
+Assoc Professor ACD YR,Sc&I-Journalism & Media Stds,College Av,108722,107193,7/1/2003,1,467
+Asst Professor ACD YR,Camden School Of Nursing,Camden,91443,107182,1/13/2014,4,467
+Assoc Professor ACD YR,Fasc - Physics,Camden,87819,107080,9/1/2011,2,468
+Assoc Professor ACD YR,Sas - Linguistics,College Av,108545,107027,9/1/2007,1,469
+Assoc Professor ACD YR,Sas - History,College Av,108918,106967,9/1/2012,3,469
+Assoc Professor ACD YR,Gsapp - Clinical Psychology,Busch,107144,106925,9/1/2009,7,469
+Assoc Professor ACD YR,Fasn - Biological Sciences,Newark,95074,106731,7/1/1970,6,471
+Assoc Professor ACD YR,Sas- Asian Language & Cultures,College Av,98829,106637,9/1/2015,1,472
+Asst Professor ACD YR,School Public Affairs & Admin,Newark,87500,106619,1/1/2017,2,472
+Assoc Professor ACD YR,Fasn-Spanish & Portuguese Stds,Newark,101424,106615,9/1/2002,4,472
+Assoc Professor ACD YR,Fasc - Economics,Camden,97244,106607,9/1/2004,5,472
+Assoc Professor ACD YR,Engn - Industrial Engineering,Busch,107956,106534,1/1/2002,10,472
+Assoc Professor ACD YR,Gse - Learning & Teaching,College Av,97186,106457,9/1/1999,3,473
+Assoc Professor ACD YR,Sas - Religion,Douglass,103017,106448,9/1/2005,4,473
+Assoc Professor ACD YR,Mgsa - Theater Arts,Douglass,107360,106260,7/1/2013,4,474
+Asst Professor ACD YR,Fasn - Chemistry,Newark,98212,106255,1/1/2011,6,474
+Professor ACD YR,Sas- Asian Language & Cultures,College Av,115454,106232,7/1/1971,8,474
+Assoc Professor ACD YR,Engn-Materials Science & Engn,Busch,113682,106149,1/1/2011,3,475
+Assoc Professor ACD YR,Fasn-Spanish & Portuguese Stds,Newark,98572,106142,9/1/2009,4,475
+Assoc Professor ACD YR,Sas - English,College Av,107949,105936,9/1/1999,1,477
+Assoc Professor ACD YR,Engn - Elec & Computer Engn,Busch,106083,105880,2/1/1978,7,477
+Asst Professor ACD YR,School Of Social Work,College Av,87629,105811,9/1/2015,3,478
+Assoc Professor ACD YR,Gsc-Grad Public Policy & Admin,Camden,100636,105631,9/1/1999,2,479
+Assoc Professor ACD YR,Sas - English,College Av,106300,105598,9/1/1983,3,479
+Assoc Professor ACD YR,Sebs - Environmental Science,Cook,103053,105573,9/1/2009,5,479
+Assoc Professor ACD YR,Bsppp-Dean's Office,College Av,106398,105540,9/1/2003,8,479
+Assoc Professor ACD YR,Engn - Chem & Biochem Engn,Busch,105767,105532,9/1/2011,10,479
+Professor ACD YR,Fasc - Mathematics,Camden,106386,105506,9/1/1981,1,480
+Asst Professor ACD YR,Fasn - Political Science,Newark,88500,105476,9/1/2016,6,480
+Asst Professor ACD YR,Engn-Civil & Environ Engn,Busch,97651,105476,9/1/2013,7,480
+Asst Professor ACD YR,Engn - Biomedical Engineering,Busch,95000,105374,1/1/2017,8,481
+Asst Professor ACD YR,Fasn - Psychology,Newark,95000,105374,1/1/2017,9,481
+Assoc Professor ACD YR,Sas - Art History,College Av,109341,105358,9/1/2007,1,482
+Assoc Professor ACD YR,Gse - Education Psychology,College Av,88800,105318,9/1/2008,10,482
+Assoc Professor ACD YR,Fasc - Chemistry,Camden,88681,105294,9/1/2011,2,483
+Assoc Professor ACD YR,Sc&I-Journalism & Media Stds,College Av,109049,105140,9/1/2004,10,483
+Assoc Professor ACD YR,Sc&I - Communication,College Av,106414,105120,9/1/2009,3,484
+Assoc Professor ACD YR,Fasn - English,Newark,95279,105097,7/1/1988,5,484
+Assoc Professor ACD YR,Fasn - Chemistry,Newark,106339,105026,9/1/2014,2,485
+Assoc Professor ACD YR,Fasn-Sociology & Anthropology,Newark,106468,105018,1/1/1981,6,485
+Asst Professor ACD YR,Fasn - Biological Sciences,Newark,86000,105004,1/1/2017,7,485
+Asst Professor ACD YR,Bsppp-Dean's Office,College Av,87405,104848,6/1/2006,4,486
+Asst Professor ACD YR,Sebs - Food Science,Cook,87125,104788,9/1/2012,9,486
+Asst Professor ACD YR,College Of Nursing,Newark,103397,104699,9/1/2010,5,487
+Assoc Professor ACD YR,Fasn - English,Newark,111443,104690,9/1/2004,9,487
+Assoc Professor ACD YR,Fasn - Biological Sciences,Newark,93233,104664,9/1/1975,10,487
+Assoc Professor ACD YR,Sas - Art History,College Av,104743,104543,9/1/2005,5,488
+Assoc Professor ACD YR,Sas - English,College Av,106721,104524,9/1/2007,6,488
+Asst Professor ACD YR,Cmbn,Newark,94000,104489,1/1/2017,10,488
+Professor ACD YR,Fasc - English,Camden,105215,104466,6/19/1995,2,489
+Professor ACD YR,Mgsa - Visual Arts,College Av,105553,104446,9/1/2004,3,489
+Assoc Professor ACD YR,School Of Social Work,College Av,104692,104435,9/1/2007,4,489
+Assoc Professor ACD YR,School Of Criminal Justice,Newark,106496,104405,1/1/2011,6,489
+Assoc Professor ACD YR,Sas-Latino & Hispan Carib Stds,Livingston,108011,104361,9/1/1999,10,489
+Assoc Professor ACD YR,Sebs - Biochem & Microbiology,Cook,104550,104350,9/1/1975,2,490
+Asst Professor ACD YR,Fasn - Chemistry,Newark,97272,104154,9/1/2014,2,491
+Asst Professor ACD YR,Sas - Chem & Chemical Biology,Busch,106080,103845,9/1/2012,3,493
+Assoc Professor ACD YR,Fasn - English,Newark,93320,103788,9/1/1977,7,493
+Assoc Professor ACD YR,Sas- Asian Language & Cultures,College Av,106248,103272,9/1/1996,4,497
+Assoc Professor ACD YR,Fasn - Political Science,Newark,108655,103227,1/1/2013,6,497
+Asst Professor ACD YR,Sc&I-Journalism & Media Stds,College Av,96728,103156,7/1/2013,1,498
+Asst Professor ACD YR,Engn - Industrial Engineering,Busch,94676,103120,9/1/2015,3,498
+Professor ACD YR,Fasc - Sociology,Camden,102060,102875,9/1/2002,2,500
+Asst Professor ACD YR,Cmbn,Newark,104163,102869,9/1/2014,3,500
+Assoc Professor ACD YR,Fasc - Mathematics,Camden,87053,102719,9/1/1991,8,501
+Professor ACD YR,Fasc - English,Camden,96281,102671,7/1/2002,10,501
+Assoc Professor ACD YR,Sebs - Food Science,Cook,103869,102656,9/1/2002,2,502
+Asst Professor ACD YR,School Of Criminal Justice,Newark,106043,102596,3/1/2011,8,502
+Assoc Professor ACD YR,Fasc - Fine Arts,Camden,84504,102559,9/1/2008,3,503
+Assoc Professor ACD YR,Sas - Anthropology,Douglass,103921,102489,9/1/1998,9,503
+Professor ACD YR,Fasc - Psychology,Camden,103592,102397,9/1/1992,6,504
+Assoc Professor ACD YR,Childhood Studies,Camden,97444,102306,9/1/2014,1,506
+Assoc Professor ACD YR,Sas- Asian Language & Cultures,College Av,102581,102284,9/1/2010,3,506
+Assoc Professor ACD YR,"Sas-Afri,Mdle E&So Asn Lng&Lit",College Av,99964,102272,9/1/2009,7,506
+Assoc Professor ACD YR,Sas - Psychology,Busch,102435,102239,9/1/1975,10,506
+Assoc Professor ACD YR,Sas - Sociology,Douglass,105582,102050,9/1/2005,4,507
+Assoc Professor ACD YR,Fasn - English,Newark,102215,102019,9/1/1996,6,507
+Assoc Professor ACD YR,Sas - Religion,Douglass,99937,101994,9/1/2008,8,507
+Asst Professor ACD YR,Sas - Psychology,Busch,92868,101872,9/1/2012,5,509
+Assoc Professor ACD YR,Sas - Anthropology,Douglass,103525,101825,9/1/1993,2,510
+Assoc Professor ACD YR,Fasn - History,Newark,98828,101742,9/1/2001,1,511
+Assoc Professor ACD YR,Sas - Linguistics,College Av,114142,101716,9/1/2004,4,511
+Assoc Professor ACD YR,Sas - French,College Av,99210,101671,9/1/2000,6,511
+Assoc Professor ACD YR,Sc&I-Journalism & Media Stds,College Av,103058,101521,9/1/2013,5,512
+Assoc Professor ACD YR,Mgsa - Visual Arts,College Av,101186,101504,9/1/2002,6,512
+Professor ACD YR,Sas - Religion,Douglass,113207,101314,9/1/2003,1,514
+Assoc Professor ACD YR,Fasc - History,Camden,98546,101314,9/1/2005,2,514
+Assoc Professor ACD YR,Fasc - Psychology,Camden,89907,101286,9/1/2005,4,514
+Assoc Professor ACD YR,Pharm - Chemical Biology,Busch,103387,101246,5/1/1998,7,514
+Assoc Professor ACD YR,Fasn - English,Newark,114198,101209,9/1/2002,10,514
+Assoc Professor ACD YR,School Of Business - Cmd,Camden,112291,100890,7/1/1971,1,518
+Assoc Professor ACD YR,Sas - Art History,College Av,96048,100845,7/1/1971,8,518
+Asst Professor ACD YR,Rbs - Marketing,Newark,165000,100833,9/1/2017,10,518
+Asst Professor ACD YR,Sc&I - Library & Info Science,College Av,91800,100728,9/1/2016,3,520
+Assoc Professor ACD YR,Mgsa - Music,Douglass,101342,100648,9/1/1983,1,521
+Assoc Professor ACD YR,Fasc - English,Camden,86001,100596,9/1/2006,10,521
+Assoc Professor ACD YR,Sas - Sociology,Douglass,103531,100498,9/1/2008,7,522
+Professor ACD YR,Fasn - Chemistry,Newark,89501,100474,7/1/1966,3,523
+Asst Professor ACD YR,Engn - Chem & Biochem Engn,Busch,92684,100468,9/1/2015,6,523
+Assoc Professor ACD YR,Sc&I - Library & Info Science,College Av,101674,100389,9/1/2001,2,524
+Assoc Professor ACD YR,Mgsa - Visual Arts,Livingston,101580,100372,9/1/2010,8,524
+Assoc Professor ACD YR,Fasn - History,Newark,90574,100350,9/1/1995,5,525
+Asst Professor ACD YR,Sas - American Studies,Douglass,97507,100290,9/1/2012,10,525
+Assoc Professor ACD YR,Fasn-Spanish & Portuguese Stds,Newark,96163,100180,9/1/2009,8,526
+Assoc Professor ACD YR,School Of Social Work,College Av,97800,100123,9/1/2011,10,526
+Assoc Professor ACD YR,Sas- Asian Language & Cultures,College Av,96053,100075,9/1/2005,8,527
+Asst Professor ACD YR,Fasn - Chemistry,Newark,97657,100070,9/1/2012,1,528
+Assoc Professor ACD YR,Sc&I-Journalism & Media Stds,College Av,100238,100043,9/1/2013,7,528
+Asst Professor ACD YR,Rbs - Finance & Economics,Livingston,200000,100000,9/1/2017,9,528
+Assoc Professor ACD YR,School Of Social Work,College Av,101109,99855,9/1/2008,1,530
+Assoc Professor ACD YR,Sas - French,College Av,77797,99834,9/1/1995,5,530
+Asst Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,90000,99828,1/1/2017,6,530
+Assoc Professor ACD YR,School Of Social Work,College Av,90553,99817,9/1/2007,7,530
+Assoc Professor ACD YR,Fasn - History,Newark,91804,99636,9/1/2010,8,532
+Assoc Professor ACD YR,Fasc - Foreign Languages,Camden,74980,99632,9/1/2003,10,532
+Assoc Professor ACD YR,Fasn - Philosophy,Newark,101095,99606,9/1/2010,2,533
+Assoc Professor ACD YR,Sc&I-Journalism & Media Stds,College Av,102534,99519,9/1/2006,6,533
+Assoc Professor ACD YR,Fasn - Psychology,Newark,107014,99473,9/1/2010,3,534
+Assoc Professor ACD YR,Sas - Sociology,Douglass,99519,99328,9/1/1987,5,535
+Assoc Professor ACD YR,"Gse-Edu Theory, Policy & Admin",College Av,73057,99300,9/1/2011,9,535
+Assoc Professor ACD YR,Fasc - Economics,Camden,111294,99289,9/1/2006,1,536
+Assoc Professor ACD YR,Sas - Economics,College Av,99445,99255,9/1/1975,5,536
+Asst Professor ACD YR,Engn - Biomedical Engineering,Busch,101426,99159,9/1/2012,3,537
+Asst Professor ACD YR,Camden School Of Nursing,Camden,94157,99127,9/1/2012,6,537
+Assoc Professor ACD YR,Mgsa - Music,Douglass,99738,99055,9/1/2006,5,538
+Asst Professor ACD YR,Fasc - Political Science,Camden,77016,98984,1/1/2013,3,539
+Assoc Professor ACD YR,Fasc - English,Camden,89804,98974,9/1/2005,6,539
+Professor ACD YR,Sas - Mathematics,Busch,94432,98947,9/1/2001,8,539
+Professor ACD YR,Sas- Asian Language & Cultures,College Av,110099,98920,7/1/1971,10,539
+Assoc Professor ACD YR,Mgsa - Music,Douglass,100032,98864,9/1/2003,4,540
+Professor ACD YR,Fasc - Sociology,Camden,99873,98827,9/1/2002,9,540
+Assoc Professor ACD YR,Fasn - History,Newark,101952,98816,9/1/2010,10,540
+Assoc Professor ACD YR,Sebs-Marine & Coastal Sciences,Cook,99665,98500,9/1/2008,7,543
+Asst Professor ACD YR,Sc&I - Library & Info Science,College Av,83640,98464,9/1/2016,2,544
+Assoc Professor ACD YR,Sas - Sociology,Douglass,102805,98458,6/1/2003,4,544
+Asst Professor ACD YR,Engn - Biomedical Engineering,Busch,101248,98372,1/1/2014,4,545
+Asst Professor ACD YR,Engn - Chem & Biochem Engn,Busch,93322,98328,9/1/2012,9,545
+Asst Professor ACD YR,Fasn-African-Amer&African Stds,Newark,82000,98162,9/1/2016,10,546
+Assoc Professor ACD YR,Mgsa - Music,Douglass,98799,98122,9/1/2011,4,547
+Assoc Professor ACD YR,Sas - Sociology,Busch,109206,98118,9/1/1982,5,547
+Assoc Professor ACD YR,Fasc - Psychology,Camden,84440,98027,9/1/2011,5,548
+Assoc Professor ACD YR,"Sas-Afri,Mdle E&So Asn Lng&Lit",College Av,100128,97996,9/1/2010,10,548
+Assoc Professor ACD YR,Sas - Art History,College Av,98000,97962,9/1/2016,5,549
+Assoc Professor ACD YR,Fasc - Computer Science,Camden,109683,97909,9/1/2001,10,549
+Assoc Professor ACD YR,Sas - Sociology,Douglass,88251,97815,9/1/1977,8,550
+Asst Professor ACD YR,College Of Nursing,Newark,100082,97721,1/1/2012,8,551
+Assoc Professor ACD YR,Mgsa - Visual Arts,College Av,98784,97630,9/1/2001,2,553
+Assoc Professor ACD YR,Fasn-Sociology & Anthropology,Newark,91678,97596,9/1/2010,6,553
+Assoc Professor ACD YR,Gse - Learning & Teaching,College Av,95973,97587,9/1/2004,7,553
+Assoc Professor ACD YR,Sas - Women's & Gender Studies,Douglass,103271,97480,9/1/2012,8,554
+Professor ACD YR,Mgsa - Visual Arts,College Av,87572,97240,9/1/1996,8,556
+Assoc Professor ACD YR,Fasn-Earth & Environmental Sci,Newark,98195,97180,1/1/2008,2,557
+Assoc Professor ACD YR,Engn - Biomedical Engineering,Busch,89126,97031,9/1/2003,6,558
+Assoc Professor ACD YR,Gsapp - Clinical Psychology,Busch,109208,97006,9/1/2004,9,558
+Asst Professor ACD YR,Sas-Dls-Kinesiology And Health,Douglass,90021,96824,9/1/2010,1,561
+Professor ACD YR,Fasc - English,Camden,98015,96632,9/1/1994,10,562
+Assoc Professor ACD YR,Sc&I - Communication,College Av,98290,96584,9/1/2005,7,563
+Assoc Professor ACD YR,Fasc - English,Camden,91873,96542,9/1/2014,10,563
+Asst Professor ACD YR,Sas - English,College Av,85153,96380,9/1/2011,10,565
+Assoc Professor ACD YR,Fasc - History,Camden,96597,96366,9/1/2013,3,566
+Assoc Professor ACD YR,Gse - Education Psychology,College Av,87379,96357,9/1/2009,5,566
+Asst Professor ACD YR,School Of Social Work,College Av,87629,96279,9/1/2015,2,568
+Asst Professor ACD YR,Sas - Sociology,Douglass,97712,96268,1/1/2012,4,568
+Asst Professor ACD YR,Sas - Sociology,Douglass,99274,96228,9/1/2013,10,568
+Asst Professor ACD YR,Sas - Sociology,Douglass,97595,96153,9/1/2011,7,569
+Assoc Professor ACD YR,Fasn-Sociology & Anthropology,Newark,97663,96126,9/1/2005,8,569
+Asst Professor ACD YR,Sas - Africana Studies,Livingston,96840,96048,1/1/2011,3,570
+Assoc Professor ACD YR,Fasc - Fine Arts,Camden,98100,96041,9/1/2002,4,570
+Asst Professor ACD YR,School Public Affairs & Admin,Newark,80158,95913,9/1/2013,2,571
+Asst Professor ACD YR,School Of Social Work,College Av,87286,95903,9/1/2015,5,571
+Asst Professor ACD YR,School Public Affairs & Admin,Newark,76220,95799,9/1/2016,3,572
+Professor ACD YR,Mgsa - Music,Douglass,84017,95792,9/1/2004,8,572
+Assoc Professor ACD YR,Sas - English,College Av,81276,95750,9/1/2003,3,573
+Assoc Professor ACD YR,Sas - Chem & Chemical Biology,Busch,95925,95741,9/1/1991,5,573
+Assoc Professor ACD YR,Fasn - Arts Culture & Media,Newark,87458,95690,9/1/2012,6,573
+Assoc Professor ACD YR,Sebs-Marine & Coastal Sciences,Cook,96159,95501,9/1/2008,4,575
+Assoc Professor ACD YR,Sc&I - Library & Info Science,College Av,102914,95476,9/1/2010,5,575
+Assoc Professor ACD YR,Sas - English,College Av,98046,95368,9/1/1998,7,576
+Asst Professor ACD YR,Camden School Of Nursing,Camden,95977,95241,9/1/2013,9,577
+Assoc Professor ACD YR,Sebs - Human Ecology,Cook,96304,95053,9/1/1998,10,578
+Assoc Professor ACD YR,Gse - Education Psychology,College Av,94741,94559,9/1/1980,5,582
+Assoc Professor ACD YR,Sas - Classics,College Av,93183,94534,9/1/2009,8,582
+Assoc Professor ACD YR,Sas - History,College Av,111734,94330,9/1/2008,7,584
+Asst Professor ACD YR,Fasn - Chemistry,Newark,95493,94201,9/1/2011,8,585
+Asst Professor ACD YR,Engn - Chem & Biochem Engn,Busch,94793,94119,1/1/2015,5,586
+Assoc Professor ACD YR,Gse - Education Psychology,College Av,95032,94102,9/1/2001,6,586
+Asst Professor ACD YR,School Public Affairs & Admin,Newark,76220,94086,9/1/2016,9,586
+Asst Professor ACD YR,Rbs Acctg & Info Systems,Livingston,188000,94000,9/1/2017,5,587
+Professor ACD YR,Sas - History,College Av,94022,93842,7/1/1994,9,588
+Assoc Professor ACD YR,Sebs - Landscape Architecture,Cook,96292,93812,9/1/2011,10,588
+Assoc Professor ACD YR,"Sas-Afri,Mdle E&So Asn Lng&Lit",College Av,101216,93595,9/1/2011,7,590
+Assoc Professor ACD YR,Fasc - Fine Arts,Camden,83301,93539,9/1/2004,3,591
+Assoc Professor ACD YR,Fasc - English,Camden,98648,93427,9/1/2011,10,591
+Assoc Professor ACD YR,Sas - English,College Av,99954,93244,9/1/2012,1,593
+Assoc Professor ACD YR,Fasn - History,Newark,96024,93100,9/1/2010,2,594
+Assoc Professor ACD YR,School Of Criminal Justice,Newark,93224,93045,9/1/2000,2,595
+Asst Professor ACD YR,Fasn-Earth & Environmental Sci,Newark,84154,92805,9/1/2013,3,597
+Assoc Professor ACD YR,Sas - French,College Av,102859,92627,9/1/1999,5,598
+Assoc Professor ACD YR,School Of Social Work,College Av,103787,92529,9/1/2009,7,599
+Assoc Professor ACD YR,Rbs-Management & Global Bus,Newark,185000,92500,9/1/2017,2,600
+Assoc Professor ACD YR,Mgsa - Visual Arts,College Av,103836,92323,9/1/2014,7,602
+Asst Professor ACD YR,Sc&I - Communication,College Av,94746,92247,9/1/2014,1,603
+Asst Professor ACD YR,Sas - Linguistics,College Av,94528,92202,9/1/2014,5,603
+Asst Professor ACD YR,Sas - Mathematics,Busch,94500,92078,9/1/2016,2,605
+Asst Professor ACD YR,Mgsa - Dance,Douglass,90093,92005,9/1/2013,2,606
+Assoc Professor ACD YR,Fasc - Fine Arts,Camden,93304,91973,9/1/2004,9,606
+Asst Professor ACD YR,Gse - Education Psychology,College Av,82624,91933,9/1/2014,2,607
+Assoc Professor ACD YR,Fasc - History,Camden,77353,91710,9/1/1991,6,609
+Professor ACD YR,Fasc - Economics,Camden,97089,91624,9/1/1994,7,610
+Asst Professor ACD YR,Fasn-African-Amer&African Stds,Newark,82000,91598,7/1/2016,9,610
+Asst Professor ACD YR,Sc&I - Communication,College Av,83408,91520,9/1/2012,7,611
+Assoc Professor ACD YR,Gse - Learning & Teaching,College Av,91879,91454,9/1/2003,10,611
+Assoc Professor ACD YR,Mgsa - Music,Douglass,91934,91305,9/1/1996,5,613
+Asst Professor ACD YR,Sas - Anthropology,Douglass,93196,91273,9/1/2012,10,613
+Asst Professor ACD YR,Sas - Geography,Livingston,92801,91228,9/1/2016,10,614
+Asst Professor ACD YR,Sas - Italian,College Av,87152,91212,9/1/2012,3,615
+Assoc Professor ACD YR,School Of Social Work,College Av,102122,91191,9/1/2009,6,615
+Assoc Professor ACD YR,Gse - Learning & Teaching,College Av,89999,90877,1/1/2009,4,618
+Assoc Professor ACD YR,Sas - English,College Av,97182,90852,9/1/2011,7,618
+Assoc Professor ACD YR,Sas - History,College Av,94773,90607,9/1/2009,3,622
+Assoc Professor ACD YR,Pharm-Pharmacology&Toxicology,Busch,90734,90561,9/1/1982,7,622
+Assoc Professor ACD YR,"Sas-Germn,Russ&E Euro Lang&Lit",College Av,92517,90246,9/1/2009,6,626
+Asst Professor ACD YR,Sas - Anthropology,Douglass,92538,90139,9/1/2012,7,627
+Professor ACD YR,Sas - English,College Av,180000,90000,9/1/2017,6,628
+Assoc Professor ACD YR,Fasc - Mathematics,Camden,90171,89998,7/1/1971,7,628
+Asst Professor ACD YR,Sas - Psychology,Livingston,94899,89878,9/1/2014,6,629
+Asst Professor ACD YR,Sebs - Human Ecology,Cook,82047,89816,9/1/2015,4,630
+Asst Professor ACD YR,Fasc - English,Camden,93500,89804,9/1/2016,5,630
+Assoc Professor ACD YR,Gse - Learning & Teaching,College Av,88879,89753,9/1/2010,10,630
+Asst Professor ACD YR,Sas - History,College Av,94095,89681,7/1/2010,5,631
+Professor ACD YR,Sas - Anthropology,Douglass,158177,89607,9/1/2005,10,631
+Asst Professor ACD YR,Fasn - Biological Sciences,Newark,90964,89405,9/1/2009,1,634
+Assoc Professor ACD YR,Gsapp - Clinical Psychology,Busch,83270,89403,9/1/1998,2,634
+Assoc Professor ACD YR,School Of Social Work,College Av,90140,89347,9/1/2007,8,634
+Asst Professor ACD YR,Sas - Anthropology,Douglass,90843,89253,9/1/2016,9,635
+Assoc Professor ACD YR,Mgsa - Music,Douglass,94674,89160,9/1/2012,6,636
+Assoc Professor ACD YR,Fasn - History,Newark,99274,88977,9/1/2009,2,639
+Asst Professor ACD YR,Camden School Of Nursing,Camden,89364,88928,9/1/2015,3,640
+Assoc Professor ACD YR,Fasc - English,Camden,78950,88802,9/1/1996,5,641
+Asst Professor ACD YR,Fasn - History,Newark,81000,88518,9/1/2016,9,643
+Assoc Professor ACD YR,Fasc - English,Camden,78027,88283,9/1/2008,9,647
+Asst Professor ACD YR,Mgsa - Visual Arts,College Av,90824,88220,9/1/2014,3,648
+Assoc Professor ACD YR,Fasc - History,Camden,89898,88212,9/1/2011,5,648
+Asst Professor ACD YR,Sebs - Human Ecology,Cook,89211,88169,9/1/2012,9,648
+Assoc Professor ACD YR,Fasc - Physics,Camden,78978,87851,9/1/2009,10,651
+Asst Professor ACD YR,Fasn - Political Science,Newark,88000,87837,9/1/2016,2,652
+Asst Professor ACD YR,Sas - Sociology,Douglass,88000,87832,1/1/2017,3,652
+Asst Professor ACD YR,Fasn - Arts Culture & Media,Newark,71798,87720,9/1/2012,3,654
+Asst Professor ACD YR,Sas- Asian Language & Cultures,College Av,88408,87609,9/1/2012,6,655
+Asst Professor ACD YR,Bsppp-Dean's Office,College Av,86646,87243,9/1/2013,4,660
+Assoc Professor ACD YR,Fasn-Sociology & Anthropology,Newark,88562,87221,9/1/2010,8,660
+Assoc Professor ACD YR,Mgsa - Music,Douglass,82256,87118,9/1/2007,7,661
+Asst Professor ACD YR,Fasn - History,Newark,78734,87089,9/1/2012,2,662
+Assoc Professor ACD YR,Fasc - Mathematics,Camden,85692,86702,9/1/2002,9,665
+Assoc Professor ACD YR,Fasn - Social Work,Newark,91451,86589,9/1/2011,10,666
+Asst Professor ACD YR,Sc&I - Communication,College Av,88097,86568,9/1/2013,1,667
+Asst Professor ACD YR,Sas - Women's & Gender Studies,Douglass,88416,86553,7/1/2010,4,667
+Asst Professor ACD YR,Gse - Education Psychology,College Av,82180,86468,9/1/2012,4,668
+Asst Professor ACD YR,Fasn - History,Newark,79253,86413,9/1/2013,3,669
+Asst Professor ACD YR,Sas - English,College Av,87797,86384,9/1/2012,7,669
+Asst Professor ACD YR,Sas - American Studies,Douglass,87897,86294,4/9/2010,3,670
+Assoc Professor ACD YR,Fasc - History,Camden,77315,86246,9/1/1992,10,670
+Asst Professor ACD YR,Sas - Spanish & Portuguese,College Av,87536,86124,7/1/2010,6,672
+Asst Professor ACD YR,Sas - English,College Av,86195,86030,9/1/2011,9,673
+Asst Professor ACD YR,Mgsa - Visual Arts,College Av,86720,85955,1/1/2011,9,674
+Assoc Professor ACD YR,Mgsa - Music,Douglass,86055,85890,9/1/1998,8,675
+Asst Professor ACD YR,Mgsa - Visual Arts,College Av,86724,85711,9/1/2011,10,677
+Asst Professor ACD YR,Sas - American Studies,Douglass,87008,85645,7/1/2010,9,678
+Assoc Professor ACD YR,Mgsa - Dance,Douglass,74290,85540,9/1/1988,5,680
+Assoc Professor ACD YR,Mgsa - Dance,Douglass,86261,85503,9/1/1998,1,681
+Assoc Professor ACD YR,Sas - English,College Av,76090,85419,7/1/1971,1,682
+Assoc Professor ACD YR,Gse - Learning & Teaching,College Av,88268,85409,9/1/2009,3,682
+Asst Professor ACD YR,Sas - History,College Av,86000,85337,9/1/2016,10,682
+Asst Professor ACD YR,Sas - History,College Av,86000,85337,9/1/2016,1,683
+Assoc Professor ACD YR,"Sas-Germn,Russ&E Euro Lang&Lit",College Av,90594,85318,9/1/2010,3,683
+Asst Professor ACD YR,Bsppp-Dean's Office,College Av,86320,85311,1/1/2013,4,683
+Asst Professor ACD YR,Gsc-Grad Public Policy & Admin,Camden,78539,85234,9/1/2014,10,683
+Assoc Professor ACD YR,Fasn - Arts Culture & Media,Newark,85724,85210,9/1/1987,8,684
+Asst Professor ACD YR,Fasc - Philosophy & Religion,Camden,70349,85195,9/1/2010,4,685
+Assoc Professor ACD YR,Fasc - Foreign Languages,Camden,85970,85058,9/1/2002,3,687
+Asst Professor ACD YR,Sas - Art History,College Av,85000,84837,1/1/2017,1,690
+Assoc Professor ACD YR,Mgsa - Visual Arts,College Av,90321,84828,9/1/2011,3,690
+Assoc Professor ACD YR,Fasc - English,Camden,83468,84812,9/1/2007,6,690
+Asst Professor ACD YR,Fasn - English,Newark,77719,84772,9/1/2010,1,691
+Asst Professor ACD YR,Sebs - Biochem & Microbiology,Cook,86914,84755,9/1/2010,3,691
+Asst Professor ACD YR,Sebs - Landscape Architecture,Cook,85878,84670,9/1/2012,1,692
+Assoc Professor ACD YR,Sas - Religion,Douglass,95070,84620,9/1/2010,2,694
+Asst Professor ACD YR,Fasn - Political Science,Newark,86387,84615,1/1/2013,5,694
+Assoc Professor ACD YR,Fasc - Mathematics,Camden,89915,84603,9/1/2011,7,694
+Asst Professor ACD YR,Sc&I - Library & Info Science,College Av,85752,84587,9/1/2015,9,694
+Assoc Professor ACD YR,Fasc - English,Camden,87952,84546,9/1/2011,6,695
+Asst Professor ACD YR,Sc&I - Communication,College Av,85417,84419,9/1/2015,7,696
+Assoc Professor ACD YR,Mgsa - Music,Douglass,83944,84404,9/1/2002,1,697
+Asst Professor ACD YR,Sas - Religion,Douglass,85277,84117,9/1/2012,1,700
+Asst Professor ACD YR,Sas - Women's & Gender Studies,Douglass,85490,84086,7/1/2014,6,700
+Asst Professor ACD YR,School Of Social Work,College Av,84000,83839,9/1/2016,9,702
+Asst Professor ACD YR,Sas - Religion,Douglass,84963,83804,9/1/2012,7,703
+Assoc Professor ACD YR,Fasn - Social Work,Newark,88466,83588,9/1/2011,10,705
+Asst Professor ACD YR,Bsppp-Dean's Office,College Av,78700,83554,9/1/2015,3,706
+Asst Professor ACD YR,Sebs - Landscape Architecture,Cook,85564,83496,9/1/2012,5,707
+Asst Professor ACD YR,Sas - History,College Av,85778,83372,9/1/2012,8,708
+Asst Professor ACD YR,Bsppp-Dean's Office,College Av,85181,83271,9/1/2014,5,709
+Asst Professor ACD YR,"Sas-Afri,Mdle E&So Asn Lng&Lit",College Av,84273,83050,9/1/2012,3,712
+Asst Professor ACD YR,Sas - English,College Av,83057,82898,9/1/2013,1,715
+Assoc Professor ACD YR,Fasc - Foreign Languages,Camden,86099,82760,9/1/2003,4,717
+Assoc Professor ACD YR,Fasn - Biological Sciences,Newark,82823,82665,7/1/1968,1,719
+Asst Professor ACD YR,"Sas-Afri,Mdle E&So Asn Lng&Lit",College Av,82314,82156,1/1/2013,3,725
+Assoc Professor ACD YR,Fasc - English,Camden,82284,82127,9/1/2004,4,725
+Asst Professor ACD YR,"Sas-Afri,Mdle E&So Asn Lng&Lit",College Av,83152,81960,9/1/2012,4,727
+Assoc Professor ACD YR,"Gse-Edu Theory, Policy & Admin",College Av,81944,81787,9/1/2006,8,728
+Asst Professor ACD YR,"Sas-Afri,Mdle E&So Asn Lng&Lit",College Av,82587,81620,1/1/2013,5,730
+Asst Professor ACD YR,Sas - Linguistics,College Av,82500,81097,9/1/2016,8,738
+Asst Professor ACD YR,Sas - French,College Av,82819,80865,9/1/2014,1,742
+Asst Professor ACD YR,Gsapp - School Psychology,Busch,81734,80714,9/1/2016,6,744
+Assoc Professor ACD YR,Sas - Psychology,Livingston,89686,80580,7/1/1972,9,746
+Asst Professor ACD YR,Mgsa - Music,Douglass,81901,80556,9/1/2013,4,747
+Asst Professor ACD YR,Fasc - Economics,Camden,80651,80114,9/1/2012,3,759
+Assoc Professor ACD YR,Sas - English,College Av,160000,80000,9/1/2017,7,760
+Asst Professor ACD YR,Sas - English,College Av,88456,79475,9/1/2009,5,769
+Asst Professor ACD YR,Fasc - Philosophy & Religion,Camden,80114,79406,9/1/2016,5,770
+Asst Professor ACD YR,Sas - Spanish & Portuguese,College Av,80300,79001,9/1/2016,7,776
+Asst Professor ACD YR,Sas - English,College Av,79637,78986,9/1/2015,8,776
+Asst Professor ACD YR,Fasc - Biology,Camden,81488,78456,9/1/2013,8,784
+Assoc Professor ACD YR,Mgsa - Theater Arts,Douglass,79536,78323,9/1/2005,6,786
+Asst Professor ACD YR,Fasc - Sociology,Camden,78805,78041,9/1/2013,5,790
+Asst Professor ACD YR,Mgsa - Dance,Douglass,79912,77904,9/1/2014,5,791
+Assoc Professor ACD YR,Gsapp - School Psychology,Busch,78342,77563,9/1/1983,7,800
+Asst Professor ACD YR,Rbs-Management & Global Bus,Livingston,155000,77500,9/1/2017,5,801
+Asst Professor ACD YR,Rbs-Supply Chain Management,Newark,155000,77500,9/1/2017,6,801
+Asst Professor ACD YR,Mgsa - Music,Douglass,78377,77461,9/1/2013,4,802
+Assoc Professor ACD YR,Fasn-Math & Computer Science,Newark,108004,77126,9/1/2010,5,807
+Asst Professor ACD YR,Sas - Religion,Douglass,77500,77102,9/1/2016,2,808
+Assoc Professor ACD YR,Childhood Studies,Camden,77977,77068,9/1/2009,1,809
+Assoc Professor ACD YR,Childhood Studies,Camden,78129,77021,9/1/2009,10,809
+Asst Professor ACD YR,Fasc - Political Science,Camden,76227,76731,9/1/2011,9,814
+Asst Professor ACD YR,Fasn-Spanish & Portuguese Stds,Newark,77505,76607,9/1/2016,2,816
+Assoc Professor ACD YR,Eagleton Institute Of Politics,Douglass,145000,76481,9/1/2017,3,819
+Assoc Professor ACD YR,Fasc - Sociology,Camden,85742,76240,9/1/2010,4,823
+Asst Professor ACD YR,Mgsa - Music,Douglass,76875,75794,9/1/2016,5,828
+Asst Professor ACD YR,Fasn - History,Newark,78512,75371,9/1/2015,3,835
+Asst Professor ACD YR,Gsc-Grad Public Policy & Admin,Camden,75257,75120,9/1/2013,8,839
+Asst Professor ACD YR,Fasn - English,Newark,62864,75078,1/1/2011,4,840
+Asst Professor ACD YR,Fasc - Biology,Camden,75912,74970,9/1/2011,2,842
+Assoc Professor ACD YR,Gse - Learning & Teaching,College Av,84639,74890,9/1/2008,3,843
+Asst Professor ACD YR,Fasc - Political Science,Camden,74330,74641,9/1/2014,10,847
+Asst Professor ACD YR,Fasn-Sociology & Anthropology,Newark,75508,74553,9/1/2014,7,848
+Assoc Professor ACD YR,Fasn - English,Newark,66100,74204,9/1/1995,4,853
+Asst Professor ACD YR,Fasc - Chemistry,Camden,75961,74170,9/1/2013,2,854
+Asst Professor ACD YR,Fasc - History,Camden,75728,73667,9/1/2014,2,865
+Asst Professor ACD YR,Fasc - Sociology,Camden,75176,73566,9/1/2014,7,866
+Asst Professor ACD YR,Fasc - Sociology,Camden,74242,73487,9/1/2013,4,867
+Asst Professor ACD YR,Fasc - Biology,Camden,74607,73459,9/1/2012,7,867
+Asst Professor ACD YR,Fasn - Arts Culture & Media,Newark,76600,73166,9/1/2016,6,873
+Asst Professor ACD YR,Fasc - Chemistry,Camden,73917,72703,9/1/2013,8,882
+Assoc Professor ACD YR,Sas - Mathematics,Busch,145000,72500,9/1/2017,4,888
+Professor ACD YR,Engn - Elec & Computer Engn,Busch,145000,72500,9/1/2017,5,888
+Asst Professor ACD YR,Sas-Dls-Cell Bio & Neurosci,Busch,100000,72222,9/1/2017,7,892
+Asst Professor ACD YR,Fasn - Arts Culture & Media,Newark,73498,72102,9/1/2015,4,895
+Asst Professor ACD YR,Fasc - Foreign Languages,Camden,70477,71850,9/1/2012,9,900
+Asst Professor ACD YR,Fasc - Political Science,Camden,72687,71825,9/1/2013,2,901
+Asst Professor ACD YR,Fasc - Psychology,Camden,72112,71725,9/1/2013,2,903
+Professor ACD YR,Fasc - English,Camden,137180,71487,9/1/1992,10,907
+Asst Professor ACD YR,Childhood Studies,Camden,66001,71376,9/1/2016,6,909
+Asst Professor ACD YR,Fasc - Foreign Languages,Camden,65828,71040,9/1/2016,4,916
+Asst Professor ACD YR,Fasn-Spanish & Portuguese Stds,Newark,65054,71038,9/1/2012,5,916
+Asst Professor ACD YR,Fasc - History,Camden,73007,71014,9/1/2013,7,916
+Professor ACD YR,Sas - Mathematics,Busch,142000,71000,9/1/2017,2,917
+Asst Professor ACD YR,Mgsa - Music,Douglass,72100,70916,9/1/2016,10,918
+Asst Professor ACD YR,Fasc - Physics,Camden,71019,70883,9/1/2013,7,919
+Assoc Professor ACD YR,Fasc - English,Camden,75057,70767,9/1/2011,7,921
+Asst Professor ACD YR,Fasn - History,Newark,71800,70766,9/1/2016,8,921
+Assoc Professor ACD YR,Fasn - English,Newark,70763,70628,9/1/1978,1,925
+Asst Professor ACD YR,Gsc-Grad Public Policy & Admin,Camden,71438,70603,9/1/2012,7,925
+Asst Professor ACD YR,Fasc - English,Camden,71099,70552,9/1/2014,5,926
+Asst Professor ACD YR,Childhood Studies,Camden,72278,70141,9/1/2014,1,937
+Assoc Professor ACD YR,Sas - Women's & Gender Studies,Douglass,140000,70000,9/1/2017,1,940
+Assoc Professor ACD YR,Sas - Statistics,Busch,140000,70000,9/1/2017,3,940
+Asst Professor ACD YR,Sas - Economics,College Av,140000,70000,9/1/2017,4,940
+Asst Professor ACD YR,Fasc - Biology,Camden,69425,69867,1/1/2015,4,943
+Asst Professor ACD YR,Fasc - Philosophy & Religion,Camden,71915,69797,9/1/2014,6,945
+Asst Professor ACD YR,Fasc - Political Science,Camden,68575,68851,9/1/2015,8,964
+Asst Professor ACD YR,Childhood Studies,Camden,69673,68780,9/1/2014,2,966
+Asst Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,95000,68612,9/1/2017,8,968
+Asst Professor ACD YR,Fasn - English,Newark,68691,68560,9/1/2009,4,970
+Assoc Professor ACD YR,Fasc - Psychology,Camden,77037,68500,9/1/2010,4,971
+Professor ACD YR,Sas - Mathematics,Busch,136839,68419,7/1/1988,10,973
+Asst Professor ACD YR,Fasc - Biology,Camden,68381,68337,9/1/2015,8,975
+Assoc Professor ACD YR,Fasc - Sociology,Camden,64042,68174,9/1/2010,3,978
+Asst Professor ACD YR,Fasc - Political Science,Camden,67500,67122,9/1/2016,2,1004
+Asst Professor ACD YR,Fasc - Psychology,Camden,66500,66124,9/1/2016,10,1031
+Asst Professor ACD YR,Fasc - History,Camden,66000,65874,1/1/2017,6,1036
+Asst Professor ACD YR,School Of Social Work,College Av,91000,65722,9/1/2017,1,1040
+Asst Professor ACD YR,Fasn-Math & Computer Science,Newark,91560,64828,9/1/2016,8,1061
+Assoc Professor ACD YR,Sas - Computer Science,Busch,125560,62539,9/1/2007,4,1125
+Assoc Professor ACD YR,Engn - Elec & Computer Engn,Busch,124531,62266,1/18/2000,6,1131
+Asst Professor ACD YR,Fasn - History,Newark,75834,62033,9/1/2012,9,1136
+Asst Professor ACD YR,Sebs - Animal Science,Cook,85000,61389,9/1/2017,3,1152
+Professor ACD YR,Fasn - Political Science,Newark,120874,60437,9/1/2004,10,1179
+Professor ACD YR,Mgsa - Music,Douglass,116107,58831,9/1/1980,9,1235
+Asst Professor ACD YR,Sas - Computer Science,Busch,117000,58500,9/1/2017,7,1242
+Asst Professor ACD YR,Engn - Mech & Aerospace Engn,Busch,95000,58057,9/1/2017,4,1251
+Asst Professor ACD YR,Sas - Statistics,Busch,115000,57500,9/1/2017,8,1262
+Asst Professor ACD YR,Sas - Economics,College Av,113819,56909,9/1/2012,10,1275
+Assoc Professor ACD YR,Fasc - Chemistry,Camden,112000,56000,9/1/2017,9,1318
+Assoc Professor ACD YR,Sas - Sociology,Douglass,107740,53870,9/1/2008,6,1377
+Assoc Professor ACD YR,Sas - Classics,College Av,106271,52050,9/1/2004,7,1424
+Assoc Professor ACD YR,Sc&I - Communication,College Av,104000,52000,9/1/2017,2,1426
+Asst Professor ACD YR,Sas - Political Science,Douglass,90000,51750,9/1/2017,5,1433
+Asst Professor ACD YR,Sas - Physics & Astronomy,Busch,102500,51250,9/1/2017,10,1454
+Asst Professor ACD YR,Sas - Physics & Astronomy,Busch,102500,51250,9/1/2017,1,1455
+Asst Professor ACD YR,Sas - Mathematics,Busch,102000,51000,9/1/2017,3,1461
+Asst Professor ACD YR,Sebs - Biochem & Microbiology,Cook,100000,50000,9/1/2017,4,1488
+Asst Professor ACD YR,Engn - Industrial Engineering,Busch,100000,50000,9/1/2017,5,1488
+Asst Professor ACD YR,Sas - Chem & Chemical Biology,Busch,98000,49000,9/1/2017,8,1515
+Asst Professor ACD YR,Sas - Chem & Chemical Biology,Busch,98000,49000,9/1/2017,9,1515
+Asst Professor ACD YR,Sas - Chem & Chemical Biology,Busch,98000,49000,9/1/2017,10,1515
+Assoc Professor ACD YR,Sas - Anthropology,Douglass,97422,48711,9/1/2007,8,1523
+Asst Professor ACD YR,Fasn - History,Newark,76000,48646,9/1/2017,8,1524
+Asst Professor ACD YR,Sc&I-Journalism & Media Stds,College Av,88000,47980,9/1/2017,5,1542
+Assoc Professor ACD YR,Mgsa - Visual Arts,College Av,95291,47645,9/1/2011,1,1554
+Asst Professor ACD YR,Sas - Psychology,Busch,95000,47500,9/1/2017,7,1557
+Asst Professor ACD YR,Mgsa - Visual Arts,College Av,88000,46500,9/1/2017,9,1587
+Asst Professor ACD YR,Sas - Political Science,Douglass,93000,46500,9/1/2017,10,1587
+Asst Professor ACD YR,Sas - Political Science,Douglass,92000,46000,9/1/2017,3,1604
+Asst Professor ACD YR,Sas - Political Science,Douglass,92000,46000,9/1/2017,4,1604
+Asst Professor ACD YR,Sas - Political Science,Douglass,92000,46000,9/1/2017,5,1604
+Asst Professor ACD YR,Camden School Of Nursing,Camden,90000,45000,9/1/2017,8,1644
+Asst Professor ACD YR,Fasn - Biological Sciences,Newark,86000,43000,9/1/2017,5,1704
+Asst Professor ACD YR,Sebs - Entomology,Cook,85000,42500,9/1/2017,6,1718
+Asst Professor ACD YR,Sas-Dls-Kinesiology And Health,Douglass,85000,42500,9/1/2017,7,1718
+Asst Professor ACD YR,Camden School Of Nursing,Camden,85000,42500,9/1/2017,8,1718
+Asst Professor ACD YR,Gse - Learning & Teaching,College Av,83000,41500,9/1/2017,7,1743
+Asst Professor ACD YR,Sas - Linguistics,College Av,81000,40500,9/1/2017,2,1766
+Asst Professor ACD YR,Sebs - Environmental Science,Cook,80000,40000,9/1/2017,4,1778
+Asst Professor ACD YR,Gse - Learning & Teaching,College Av,80000,40000,9/1/2017,5,1778
+Asst Professor ACD YR,Sas - Classics,College Av,78000,39000,9/1/2017,4,1798
+Asst Professor ACD YR,Sas - American Studies,Douglass,78000,39000,9/1/2017,5,1798
+Asst Professor ACD YR,"Sas-Germn,Russ&E Euro Lang&Lit",College Av,78000,39000,9/1/2017,6,1798
+Asst Professor ACD YR,Fasn-Sociology & Anthropology,Newark,78000,39000,9/1/2017,7,1798
+Asst Professor ACD YR,Fasn-Spanish & Portuguese Stds,Newark,76000,38000,9/1/2017,7,1816
+Asst Professor ACD YR,Mgsa - Music,Douglass,75000,37500,9/1/2017,8,1825
+Asst Professor ACD YR,Mgsa - Music,Douglass,75000,37500,9/1/2017,9,1825
+Asst Professor ACD YR,Fasc - Philosophy & Religion,Camden,74500,37250,9/1/2017,9,1829
+Asst Professor ACD YR,Fasn - History,Newark,74000,37000,9/1/2017,1,1833
+Asst Professor ACD YR,Fasc - Psychology,Camden,68000,34000,9/1/2017,1,1885
+Asst Professor ACD YR,Fasn - Philosophy,Newark,68000,34000,9/1/2017,2,1885
+Asst Professor ACD YR,Fasc - Sociology,Camden,67000,33500,9/1/2017,3,1894
+Asst Professor ACD YR,Fasc - Psychology,Camden,67000,33500,9/1/2017,4,1894
+Asst Professor ACD YR,Sc&I-Journalism & Media Stds,College Av,85000,28115,9/1/2017,8,1986
+Assoc Professor ACD YR,Sas - Statistics,Busch,131231,6780,9/1/2010,7,2403

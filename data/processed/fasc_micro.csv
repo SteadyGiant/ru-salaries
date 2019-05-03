@@ -1,0 +1,113 @@
+title,dept,campus,base_salary,gross_salary,hire_date,rec,page
+Professor ACD YR,Biology,Camden,162886,186984,9/1/1989,4,156
+Assoc Professor ACD YR,Computer Science,Camden,128846,170151,9/1/2003,7,189
+Professor ACD YR,English,Camden,150175,159956,9/1/1996,2,219
+Professor ACD YR,History,Camden,155563,154996,9/1/1992,2,233
+Professor ACD YR,Fine Arts,Camden,154267,153473,9/1/2002,4,239
+Professor ACD YR,Political Science,Camden,148187,152455,9/1/1981,4,243
+Professor ACD YR,Biology,Camden,144093,146308,1/1/2010,4,262
+Professor ACD YR,English,Camden,126864,146072,9/1/1993,4,263
+Professor ACD YR,Mathematics,Camden,141777,140337,7/1/1968,8,280
+Professor ACD YR,Computer Science,Camden,136157,135225,9/1/2000,3,299
+Professor ACD YR,Philosophy & Religion,Camden,144444,131217,9/1/1978,4,318
+Professor ACD YR,Psychology,Camden,131974,131070,9/1/1979,1,319
+Professor ACD YR,Chemistry,Camden,115750,130228,9/1/1989,3,322
+Professor ACD YR,Psychology,Camden,117070,129297,9/1/2002,3,326
+Professor ACD YR,Computer Science,Camden,130225,128704,7/20/2001,9,329
+Professor ACD YR,Mathematics,Camden,130491,128498,9/1/1996,9,330
+Professor ACD YR,Mathematics,Camden,109322,126457,9/1/1987,4,342
+Professor ACD YR,History,Camden,125641,123577,9/1/2010,4,358
+Assoc Professor ACD YR,Psychology,Camden,88544,123076,9/1/2009,8,360
+Professor ACD YR,Sociology,Camden,99175,120203,9/1/2002,3,377
+Assoc Professor ACD YR,Computer Science,Camden,119003,119630,9/1/1998,4,381
+Assoc Professor ACD YR,Biology,Camden,94915,118603,9/1/2009,1,387
+Assoc Professor ACD YR,Psychology,Camden,92170,113170,9/1/2011,8,421
+Assoc Professor ACD YR,Biology,Camden,89675,111606,9/1/2008,7,431
+Professor ACD YR,Fine Arts,Camden,112570,111320,9/1/2000,5,433
+Professor ACD YR,Fine Arts,Camden,117042,110483,9/1/2004,5,440
+Assoc Professor ACD YR,Biology,Camden,109720,110415,9/1/1992,4,441
+Assoc Professor ACD YR,Fine Arts,Camden,99616,109934,9/1/2011,10,445
+Professor ACD YR,Computer Science,Camden,122427,108769,9/1/2010,9,453
+Assoc Professor ACD YR,Chemistry,Camden,95406,108486,7/15/1999,7,455
+Professor ACD YR,Sociology,Camden,108228,107495,9/1/1988,6,464
+Assoc Professor ACD YR,Physics,Camden,87819,107080,9/1/2011,2,468
+Assoc Professor ACD YR,Economics,Camden,97244,106607,9/1/2004,5,472
+Professor ACD YR,Mathematics,Camden,106386,105506,9/1/1981,1,480
+Assoc Professor ACD YR,Chemistry,Camden,88681,105294,9/1/2011,2,483
+Professor ACD YR,English,Camden,105215,104466,6/19/1995,2,489
+Professor ACD YR,Sociology,Camden,102060,102875,9/1/2002,2,500
+Assoc Professor ACD YR,Mathematics,Camden,87053,102719,9/1/1991,8,501
+Professor ACD YR,English,Camden,96281,102671,7/1/2002,10,501
+Assoc Professor ACD YR,Fine Arts,Camden,84504,102559,9/1/2008,3,503
+Professor ACD YR,Psychology,Camden,103592,102397,9/1/1992,6,504
+Assoc Professor ACD YR,History,Camden,98546,101314,9/1/2005,2,514
+Assoc Professor ACD YR,Psychology,Camden,89907,101286,9/1/2005,4,514
+Assoc Professor ACD YR,English,Camden,86001,100596,9/1/2006,10,521
+Assoc Professor ACD YR,Foreign Languages,Camden,74980,99632,9/1/2003,10,532
+Assoc Professor ACD YR,Economics,Camden,111294,99289,9/1/2006,1,536
+Asst Professor ACD YR,Political Science,Camden,77016,98984,1/1/2013,3,539
+Assoc Professor ACD YR,English,Camden,89804,98974,9/1/2005,6,539
+Professor ACD YR,Sociology,Camden,99873,98827,9/1/2002,9,540
+Assoc Professor ACD YR,Psychology,Camden,84440,98027,9/1/2011,5,548
+Assoc Professor ACD YR,Computer Science,Camden,109683,97909,9/1/2001,10,549
+Professor ACD YR,English,Camden,98015,96632,9/1/1994,10,562
+Assoc Professor ACD YR,English,Camden,91873,96542,9/1/2014,10,563
+Assoc Professor ACD YR,History,Camden,96597,96366,9/1/2013,3,566
+Assoc Professor ACD YR,Fine Arts,Camden,98100,96041,9/1/2002,4,570
+Assoc Professor ACD YR,Fine Arts,Camden,83301,93539,9/1/2004,3,591
+Assoc Professor ACD YR,English,Camden,98648,93427,9/1/2011,10,591
+Assoc Professor ACD YR,Fine Arts,Camden,93304,91973,9/1/2004,9,606
+Assoc Professor ACD YR,History,Camden,77353,91710,9/1/1991,6,609
+Professor ACD YR,Economics,Camden,97089,91624,9/1/1994,7,610
+Assoc Professor ACD YR,Mathematics,Camden,90171,89998,7/1/1971,7,628
+Asst Professor ACD YR,English,Camden,93500,89804,9/1/2016,5,630
+Assoc Professor ACD YR,English,Camden,78950,88802,9/1/1996,5,641
+Assoc Professor ACD YR,English,Camden,78027,88283,9/1/2008,9,647
+Assoc Professor ACD YR,History,Camden,89898,88212,9/1/2011,5,648
+Assoc Professor ACD YR,Physics,Camden,78978,87851,9/1/2009,10,651
+Assoc Professor ACD YR,Mathematics,Camden,85692,86702,9/1/2002,9,665
+Assoc Professor ACD YR,History,Camden,77315,86246,9/1/1992,10,670
+Asst Professor ACD YR,Philosophy & Religion,Camden,70349,85195,9/1/2010,4,685
+Assoc Professor ACD YR,Foreign Languages,Camden,85970,85058,9/1/2002,3,687
+Assoc Professor ACD YR,English,Camden,83468,84812,9/1/2007,6,690
+Assoc Professor ACD YR,Mathematics,Camden,89915,84603,9/1/2011,7,694
+Assoc Professor ACD YR,English,Camden,87952,84546,9/1/2011,6,695
+Assoc Professor ACD YR,Foreign Languages,Camden,86099,82760,9/1/2003,4,717
+Assoc Professor ACD YR,English,Camden,82284,82127,9/1/2004,4,725
+Asst Professor ACD YR,Economics,Camden,80651,80114,9/1/2012,3,759
+Asst Professor ACD YR,Philosophy & Religion,Camden,80114,79406,9/1/2016,5,770
+Asst Professor ACD YR,Biology,Camden,81488,78456,9/1/2013,8,784
+Asst Professor ACD YR,Sociology,Camden,78805,78041,9/1/2013,5,790
+Asst Professor ACD YR,Political Science,Camden,76227,76731,9/1/2011,9,814
+Assoc Professor ACD YR,Sociology,Camden,85742,76240,9/1/2010,4,823
+Asst Professor ACD YR,Biology,Camden,75912,74970,9/1/2011,2,842
+Asst Professor ACD YR,Political Science,Camden,74330,74641,9/1/2014,10,847
+Asst Professor ACD YR,Chemistry,Camden,75961,74170,9/1/2013,2,854
+Asst Professor ACD YR,History,Camden,75728,73667,9/1/2014,2,865
+Asst Professor ACD YR,Sociology,Camden,75176,73566,9/1/2014,7,866
+Asst Professor ACD YR,Sociology,Camden,74242,73487,9/1/2013,4,867
+Asst Professor ACD YR,Biology,Camden,74607,73459,9/1/2012,7,867
+Asst Professor ACD YR,Chemistry,Camden,73917,72703,9/1/2013,8,882
+Asst Professor ACD YR,Foreign Languages,Camden,70477,71850,9/1/2012,9,900
+Asst Professor ACD YR,Political Science,Camden,72687,71825,9/1/2013,2,901
+Asst Professor ACD YR,Psychology,Camden,72112,71725,9/1/2013,2,903
+Professor ACD YR,English,Camden,137180,71487,9/1/1992,10,907
+Asst Professor ACD YR,Foreign Languages,Camden,65828,71040,9/1/2016,4,916
+Asst Professor ACD YR,History,Camden,73007,71014,9/1/2013,7,916
+Asst Professor ACD YR,Physics,Camden,71019,70883,9/1/2013,7,919
+Assoc Professor ACD YR,English,Camden,75057,70767,9/1/2011,7,921
+Asst Professor ACD YR,English,Camden,71099,70552,9/1/2014,5,926
+Asst Professor ACD YR,Biology,Camden,69425,69867,1/1/2015,4,943
+Asst Professor ACD YR,Philosophy & Religion,Camden,71915,69797,9/1/2014,6,945
+Asst Professor ACD YR,Political Science,Camden,68575,68851,9/1/2015,8,964
+Assoc Professor ACD YR,Psychology,Camden,77037,68500,9/1/2010,4,971
+Asst Professor ACD YR,Biology,Camden,68381,68337,9/1/2015,8,975
+Assoc Professor ACD YR,Sociology,Camden,64042,68174,9/1/2010,3,978
+Asst Professor ACD YR,Political Science,Camden,67500,67122,9/1/2016,2,1004
+Asst Professor ACD YR,Psychology,Camden,66500,66124,9/1/2016,10,1031
+Asst Professor ACD YR,History,Camden,66000,65874,1/1/2017,6,1036
+Assoc Professor ACD YR,Chemistry,Camden,112000,56000,9/1/2017,9,1318
+Asst Professor ACD YR,Philosophy & Religion,Camden,74500,37250,9/1/2017,9,1829
+Asst Professor ACD YR,Psychology,Camden,68000,34000,9/1/2017,1,1885
+Asst Professor ACD YR,Sociology,Camden,67000,33500,9/1/2017,3,1894
+Asst Professor ACD YR,Psychology,Camden,67000,33500,9/1/2017,4,1894
